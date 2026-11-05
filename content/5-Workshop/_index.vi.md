@@ -1,5 +1,5 @@
 ---
-title: "Workshop cá nhân"
+title: "Workshop"
 date: 2026-11-05
 weight: 5
 chapter: false

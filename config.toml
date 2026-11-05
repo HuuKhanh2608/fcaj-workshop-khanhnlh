@@ -13,7 +13,6 @@ home = [ "HTML", "RSS", "JSON"]
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "workshop"
-  custom_css = ["css/report-personal.css"]
   # Git hub repo link
   editURL = ""
   description = "Báo cáo thực tập FCAJ của Nguyễn Lê Hữu Khánh | Personal internship report"
@@ -24,7 +23,7 @@ home = [ "HTML", "RSS", "JSON"]
   
 [Languages]
 [Languages.en]
-title = "Khánh | FCAJ Internship"
+title = "Internship Report"
 weight = 1
 languageName = "English"
 
@@ -41,7 +40,7 @@ url = "https://www.facebook.com/groups/awsstudygroupfcj"
 weight = 20
 
 [Languages.vi]
-title = "Khánh | Thực tập FCAJ"
+title = "Báo cáo thực tập"
 weight = 2
 languageName = "Tiếng Việt"
 
