@@ -1,44 +1,50 @@
 ---
-title: "Internship Report"
-date: 2024-01-01
+title: "FCAJ Internship Report"
+date: 2026-11-05
 weight: 1
 chapter: false
 ---
 
-    
-# Internship Report
+<div class="report-intro"><span class="report-tag">FCAJ · PERSONAL DRAFT</span><h1>Nguyễn Lê Hữu Khánh</h1><p>Internship Report · First Cloud AI Journey</p></div>
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
+This report is being prepared to document my AWS learning, community activities, and personally implemented workshop. Sections awaiting information are identified so they can be completed throughout the internship.
 
-### Student Information:
-&emsp; **Full Name:** Nguyen Van A
+## Student information
 
-&emsp; **Phone Number:** 0989888999 
+| Field | Information |
+| --- | --- |
+| Full name | Nguyễn Lê Hữu Khánh |
+| Phone number | 0934826005 |
+| Email | [nguyenlekhanh2608@gmail.com](mailto:nguyenlekhanh2608@gmail.com) |
+| University | FPT University |
+| Major | Software Engineering |
+| Internship company | Amazon Web Services Viet Nam Company Limited |
+| Position | Workforce Bootcamp - First Cloud AI Journey |
+| Internship period | 14 September–14 December 2026 |
+| Workshop topic | Awaiting confirmation of my personal topic |
 
-&emsp; **Email:** Anguyenvan@gmail.com
+## Report contents
 
-&emsp; **University:** Ho Chi Minh City University of Technology and Education
+1. **[Worklog](1-Worklog/)** — 12 weeks of daily activities, outcomes, and references.
+2. **[Project proposal](2-Proposal/)** — Problem, scope, proposed architecture, timeline, costs, and risks.
+3. **[Published articles](3-BlogsPosted/)** — At least 3 articles with AWS Study Group publication links.
+4. **[Events attended](4-EventParticipated/)** — At least 3 events with reflections and check-in photos.
+5. **[Personal workshop](5-Workshop/)** — Deployment guide, testing, COST, demo, and resource cleanup.
+6. **[Self-assessment](6-Self-evaluation/)** — Criteria-based assessment, comments, and specific evidence.
+7. **[Reflection and feedback](7-Feedback/)** — Personal experience, satisfaction, and suggestions for improvement.
 
-&emsp; **Major:** Information Technology
+## Completion status
 
-&emsp; **Class:** AWS082025
+| Item | Status |
+| --- | --- |
+| 12-week worklog and references | Awaiting actual daily records |
+| Proposal and workshop | Awaiting topic, architecture, and implementation |
+| 3 articles and 3 events | Awaiting details and supporting evidence |
+| COST, testing, demo, and cleanup | Awaiting results from my personal workshop |
+| Self-assessment and feedback | To be updated from actual experience |
 
-&emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
+## Submission milestone
 
-&emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
+The supplied program requirements call for submission **15 days before the date the internship stamp is needed**. That date and the resulting deadline are awaiting confirmation. Stamp eligibility also requires at least 3 months of internship, 10 office visits or valid bookings, 3 evidenced events, and 3 quality blog posts.
 
-&emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
-
-![Your profile picture](/images/avatar.png)
-
-### Report Content
-
-1.  [Worklog](1-Worklog/)
-2.  [Proposal](2-Proposal/)
-3.  [BlogsPosted](3-BlogsPosted/)
-4.  [Events Participated](4-EventParticipated/)
-5.  [Workshop](5-Workshop/)
-6.  [Self-evaluation](6-Self-evaluation/)
-7.  [Sharing and Feedback](7-Feedback/)
+A personal profile photo will be added when available.

@@ -1,19 +1,27 @@
 ---
-title : "Giới thiệu"
-date : 2024-01-01 
-weight : 1
-chapter : false
-pre : " <b> 5.1. </b> "
+title: "Tổng quan"
+date: 2026-11-05
+weight: 1
+chapter: false
+pre: "<b>5.1. </b>"
 ---
 
-#### Giới thiệu về VPC Endpoint
+> **Bản nháp đang hoàn thiện.** Nội dung sẽ được cập nhật từ quá trình học tập, triển khai và minh chứng thực tế của Nguyễn Lê Hữu Khánh.
 
-+ Điểm cuối VPC (endpoint) là thiết bị ảo. Chúng là các thành phần VPC có thể mở rộng theo chiều ngang, dự phòng và có tính sẵn sàng cao. Chúng cho phép giao tiếp giữa tài nguyên điện toán của bạn và dịch vụ AWS mà không gây ra rủi ro về tính sẵn sàng.
-+ Tài nguyên điện toán đang chạy trong VPC có thể truy cập Amazon S3 bằng cách sử dụng điểm cuối Gateway. Interface Endpoint  PrivateLink có thể được sử dụng bởi tài nguyên chạy trong VPC hoặc tại TTDL.
+## Bối cảnh và đối tượng sử dụng
 
-#### Tổng quan về workshop
-Trong workshop này, bạn sẽ sử dụng hai VPC.
-+ **"VPC Cloud"** dành cho các tài nguyên cloud như Gateway endpoint và EC2 instance để kiểm tra.
-+ **"VPC On-Prem"** mô phỏng môi trường truyền thống như nhà máy hoặc trung tâm dữ liệu của công ty. Một EC2 Instance chạy phần mềm StrongSwan VPN đã được triển khai trong "VPC On-prem" và được cấu hình tự động để thiết lập đường hầm VPN Site-to-Site với AWS Transit Gateway. VPN này mô phỏng kết nối từ một vị trí tại TTDL (on-prem) với AWS cloud. Để giảm thiểu chi phí, chỉ một phiên bản VPN được cung cấp để hỗ trợ workshop này. Khi lập kế hoạch kết nối VPN cho production workloads của bạn, AWS khuyên bạn nên sử dụng nhiều thiết bị VPN để có tính sẵn sàng cao.
+Chờ mô tả bài toán thực tế, người dùng mục tiêu và lý do cần giải pháp trên AWS.
 
-![overview](/images/5-Workshop/5.1-Workshop-overview/diagram1.png)
+## Mục tiêu và phạm vi
+
+| Mục tiêu | Đầu ra | Chỉ số thành công | Trong / ngoài phạm vi |
+| --- | --- | --- | --- |
+| Chưa xác định | Chưa xác định | Chưa xác định | Chưa xác định |
+
+## Sản phẩm bàn giao
+
+Chờ xác định ứng dụng hoặc pipeline, mã nguồn, tài liệu triển khai, sơ đồ kiến trúc và demo. Đề xuất sẽ được cập nhật tại [Đề xuất dự án](../../2-Proposal/).
+
+## Lộ trình thực hành
+
+Bắt đầu từ [Điều kiện tiên quyết](../5.2-Prerequisites/), đọc kiến trúc, triển khai, kiểm thử, đối chiếu COST và ghi lại demo. Kết thúc bằng dọn dẹp tài nguyên và xác nhận không còn tài nguyên tính phí ngoài kế hoạch.

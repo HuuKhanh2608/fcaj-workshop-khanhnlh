@@ -1,31 +1,35 @@
 ---
-title: "Blog 3"
-date: 2024-01-01
-weight: 1
+title: "Article 3"
+date: 2026-11-05
+weight: 3
 chapter: false
-pre: " <b> 3.3. </b> "
+pre: "<b>3.3. </b>"
 ---
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
 
-# SESSION POLICIES IN AMAZON EKS POD IDENTITY
+**Status:** Personal article not yet added.
 
-Amazon EKS Pod Identity has recently added the session policies feature, allowing you to narrow IAM permissions flexibly and precisely for each pod without needing to create many separate IAM roles. This is an important step forward that helps apply the principle of least privilege more effectively in large-scale Kubernetes environments.
+## Publication details
 
-Key points to know:
+| Field | Detail |
+| --- | --- |
+| Title and topic | To be defined |
+| Author | Nguyễn Lê Hữu Khánh |
+| Publication date | Not yet updated |
+| AWS Study Group post link | Pending |
+| Original post language | Not yet updated |
 
-* A session policy is an inline IAM policy specified when creating or updating a Pod Identity association.
-* Effective permissions = intersection between the IAM role permissions and the session policy → the session policy can only narrow permissions, not expand them.
-* Helps avoid over-permissioning when reusing a single IAM role for multiple workloads with different needs.
-* Supports both same-account and cross-account (via IAM role chaining).
-* Significantly reduces the number of IAM roles that need to be managed, helping avoid hitting IAM quota limits in large clusters.
-* Easily configured through the AWS Management Console, AWS CLI, or AWS SDK when creating an association between a Kubernetes ServiceAccount and an IAM role.
+## Context and problem
 
-This feature is especially useful when you have many applications running on the same IAM role but need different permission restrictions (for example: one pod only reads a specific S3 bucket, another pod only calls certain APIs).
+The problem or knowledge to share has not been documented yet.
 
-...Image...
+## Technical discussion and examples
 
-...Link...
+Original research, explanations, examples, and attributed illustrations are pending. Code and commands will use language-specific code blocks when verified examples are available.
 
-...Guide...
+## Conclusion and lessons
+
+Personal insights, example limitations, and applicable use cases are pending.
+
+## References
+
+Document titles, URLs, image sources, and access dates are pending.

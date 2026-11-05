@@ -1,4 +1,4 @@
-baseURL = "https://workshop-sample.awsfcaj.com/"
+baseURL = "https://huukhanh2608.github.io/fcaj-workshop-khanhnlh/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
@@ -13,17 +13,18 @@ home = [ "HTML", "RSS", "JSON"]
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "workshop"
+  custom_css = ["css/report-personal.css"]
   # Git hub repo link
   editURL = ""
-  description = ""
-  author = "thienlh@thienlu.com"
+  description = "Báo cáo thực tập FCAJ của Nguyễn Lê Hữu Khánh | Personal internship report"
+  author = "Nguyễn Lê Hữu Khánh"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
   
 [Languages]
 [Languages.en]
-title = "Internship Report"
+title = "Khánh | FCAJ Internship"
 weight = 1
 languageName = "English"
 
@@ -40,14 +41,14 @@ url = "https://www.facebook.com/groups/awsstudygroupfcj"
 weight = 20
 
 [Languages.vi]
-title = "Báo cáo thực tập"
+title = "Khánh | Thực tập FCAJ"
 weight = 2
 languageName = "Tiếng Việt"
 
 [[Languages.vi.menu.shortcuts]]
 name = "<i class='fab fa-aws'></i> AWS Study Group - Blog"
 identifier = "AWS Study Group"
-url = "http://awsstudygroup.com"
+url = "https://awsstudygroup.com"
 weight = 20
 
 [[Languages.vi.menu.shortcuts]]

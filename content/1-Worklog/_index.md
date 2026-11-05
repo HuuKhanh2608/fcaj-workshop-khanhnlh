@@ -1,39 +1,42 @@
 ---
 title: "Worklog"
-date: 2024-01-01
+date: 2026-11-05
 weight: 1
 chapter: false
-pre: " <b> 1. </b> "
+pre: "<b>1. </b>"
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
+> **Draft in progress.** Content will be updated from Nguyễn Lê Hữu Khánh’s learning, implementation work, and actual supporting evidence.
 
-**On this page**, you will need to introduce your worklog. **How** did you complete it? How many weeks did you take to complete the program? **What** did you do in those weeks?
+## Recording approach
 
-Typically, and as a standard, a worklog is carried out over about 3 months (throughout the internship period) with weekly contents as follows:
+Each week records objectives, daily work, outcomes, and sources actually used. The weekly tables start on 14 September 2026. Add rows for weekend work or activities outside the schedule when applicable.
 
-**Week 1:** [Getting familiar with AWS and basic AWS services](1.1-week1/)
+| Week | Record | Status |
+| --- | --- | --- |
+| 1 | [Week 1](1.1-Week1/) | Awaiting actual records |
+| 2 | [Week 2](1.2-Week2/) | Awaiting actual records |
+| 3 | [Week 3](1.3-Week3/) | Awaiting actual records |
+| 4 | [Week 4](1.4-Week4/) | Awaiting actual records |
+| 5 | [Week 5](1.5-Week5/) | Awaiting actual records |
+| 6 | [Week 6](1.6-Week6/) | Awaiting actual records |
+| 7 | [Week 7](1.7-Week7/) | Awaiting actual records |
+| 8 | [Week 8](1.8-Week8/) | Awaiting actual records |
+| 9 | [Week 9](1.9-Week9/) | Awaiting actual records |
+| 10 | [Week 10](1.10-Week10/) | Awaiting actual records |
+| 11 | [Week 11](1.11-Week11/) | Awaiting actual records |
+| 12 | [Week 12](1.12-Week12/) | Awaiting actual records |
 
-**Week 2:** [Doing task A...](1.2-week2/)
+## Office attendance
 
-**Week 3:** [Doing task B...](1.3-week3/)
+Stamp eligibility requires at least **10 office visits or valid bookings**. This table will be updated from verified attendance information.
 
-**Week 4:** [Doing task C...](1.4-week4/)
+| Date | Session / booking ID | Activity | Evidence / confirmation |
+| --- | --- | --- | --- |
+| Pending | Pending | Pending | Pending |
 
-**Week 5:** [Doing task D...](1.5-week5/)
+The first 12 weeks run from 14 September to 6 December 2026. Actual activities from 7 December through the last day of the internship, 14 December 2026, are recorded below.
 
-**Week 6:** [Doing task E...](1.6-week6/)
+## Additional activities after Week 12
 
-**Week 7:** [Doing task G...](1.7-week7/)
-
-**Week 8:** [Doing task H...](1.8-week8/)
-
-**Week 9:** [Doing task I...](1.9-week9/)
-
-**Week 10:** [Doing task L...](1.10-week10/)
-
-**Week 11:** [Doing task M...](1.11-week11/)
-
-**Week 12:** [Doing task N...](1.12-week12/)
+Not yet updated.

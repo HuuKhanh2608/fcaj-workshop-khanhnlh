@@ -1,40 +1,42 @@
 ---
 title: "Nhật ký công việc"
-date: 2024-01-01
+date: 2026-11-05
 weight: 1
 chapter: false
-pre: " <b> 1. </b> "
+pre: "<b>1. </b>"
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+> **Bản nháp đang hoàn thiện.** Nội dung sẽ được cập nhật từ quá trình học tập, triển khai và minh chứng thực tế của Nguyễn Lê Hữu Khánh.
 
-**Trong trang này** bạn sẽ cần giới thiệu worklog của bạn **như thế nào**? Bạn hoàn thành chương trình trong vòng **bao nhiêu tuần**? Bạn **đã làm gì** trong các tuần đó?
+## Cách ghi nhận
 
+Mỗi tuần ghi rõ mục tiêu, công việc từng ngày, kết quả và nguồn tài liệu đã thực sự sử dụng. Bảng nhật ký tuần bắt đầu từ ngày 14/09/2026. Ghi thêm dòng cho ngày cuối tuần hoặc hoạt động ngoài lịch nếu có.
 
-Thông thường và cũng là tiêu chuẩn, một worklog được thực hiện trong khoảng 3 tháng (trong suốt thời gian thực tập) với nội dung các tuần như sau:
+| Tuần | Nhật ký | Tình trạng |
+| --- | --- | --- |
+| 1 | [Tuần 1](1.1-Week1/) | Chờ bổ sung dữ liệu |
+| 2 | [Tuần 2](1.2-Week2/) | Chờ bổ sung dữ liệu |
+| 3 | [Tuần 3](1.3-Week3/) | Chờ bổ sung dữ liệu |
+| 4 | [Tuần 4](1.4-Week4/) | Chờ bổ sung dữ liệu |
+| 5 | [Tuần 5](1.5-Week5/) | Chờ bổ sung dữ liệu |
+| 6 | [Tuần 6](1.6-Week6/) | Chờ bổ sung dữ liệu |
+| 7 | [Tuần 7](1.7-Week7/) | Chờ bổ sung dữ liệu |
+| 8 | [Tuần 8](1.8-Week8/) | Chờ bổ sung dữ liệu |
+| 9 | [Tuần 9](1.9-Week9/) | Chờ bổ sung dữ liệu |
+| 10 | [Tuần 10](1.10-Week10/) | Chờ bổ sung dữ liệu |
+| 11 | [Tuần 11](1.11-Week11/) | Chờ bổ sung dữ liệu |
+| 12 | [Tuần 12](1.12-Week12/) | Chờ bổ sung dữ liệu |
 
-**Tuần 1:** [Làm quen với AWS và các dịch vụ cơ bản trong AWS](1.1-week1/)
+## Theo dõi tham gia văn phòng
 
-**Tuần 2:** [Làm công việc A...](1.2-week2/)
+Điều kiện nhận mộc yêu cầu tối thiểu **10 buổi văn phòng hoặc booking hợp lệ**. Bảng này sẽ được cập nhật từ thông tin đã đối chiếu.
 
-**Tuần 3:** [Làm công việc B...](1.3-week3/)
+| Ngày | Buổi / mã booking | Hoạt động | Minh chứng / xác nhận |
+| --- | --- | --- | --- |
+| Chờ cập nhật | Chờ cập nhật | Chờ cập nhật | Chờ cập nhật |
 
-**Tuần 4:** [Làm công việc C...](1.4-week4/)
+Mười hai tuần đầu kéo dài từ 14/09 đến 06/12/2026. Các hoạt động thực tế từ 07/12 đến ngày kết thúc kỳ thực tập 14/12/2026 được ghi ở mục bên dưới.
 
-**Tuần 5:** [Làm công việc D...](1.5-week5/)
+## Hoạt động bổ sung sau tuần 12
 
-**Tuần 6:** [Làm công việc E...](1.6-week6/)
-
-**Tuần 7:** [Làm công việc G...](1.7-week7/)
-
-**Tuần 8:** [Làm công việc H...](1.8-week8/)
-
-**Tuần 9:** [Làm công việc I...](1.9-week9/)
-
-**Tuần 10:** [Làm công việc L...](1.10-week10/)
-
-**Tuần 11:** [Làm công việc M...](1.11-week11/)
-
-**Tuần 12:** [Làm công việc N...](1.12-week12/)
+Chưa cập nhật.
