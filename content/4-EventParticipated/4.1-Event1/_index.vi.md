@@ -8,12 +8,15 @@ pre: "<b>4.1. </b>"
 
 ### Thông tin sự kiện
 
-- **Tên sự kiện** Buildrathon Kickoff: Code the Future with CMC Global.
-- **Ngày tổ chức** Thứ Bảy, 26/09/2026.
-- **Thời gian công bố** Từ 09:00 đến 12:00 (UTC+7).
-- **Địa điểm** Văn phòng AWS Việt Nam, Bitexco Financial Tower, 2 Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh.
-- **Vai trò tham gia** Người tham dự.
-- **Trang sự kiện** [Buildrathon Kickoff trên Luma](https://luma.com/8fe9vvps).
+&emsp; **Tên sự kiện:** Buildrathon Kickoff: Code the Future with CMC Global
+
+&emsp; **Thời gian:** 09:00, ngày 26/09/2026 (UTC+7)
+
+&emsp; **Địa điểm:** Bitexco Financial Tower, Thành phố Hồ Chí Minh
+
+&emsp; **Vai trò:** Người tham dự
+
+&emsp; **Trang sự kiện:** [Buildrathon Kickoff trên Luma](https://luma.com/8fe9vvps)
 
 ### Mục tiêu sự kiện
 

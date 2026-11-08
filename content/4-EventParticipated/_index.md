@@ -12,11 +12,13 @@ This report currently documents **1 event**. I will add further activities towar
 
 ### [Event 1 Buildrathon Kickoff: Code the Future with CMC Global](4.1-Event1/)
 
-**Scheduled time** 9:00 a.m. to 12:00 p.m., September 26, 2026 (UTC+7).
+&emsp; **Event Name:** Buildrathon Kickoff: Code the Future with CMC Global
 
-**Location** AWS Vietnam office, Bitexco Financial Tower, 2 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City.
+&emsp; **Date & Time:** 09:00 a.m., September 26, 2026 (UTC+7)
 
-**Role** Attendee.
+&emsp; **Location:** Bitexco Financial Tower, Ho Chi Minh City
+
+&emsp; **Role:** Attendee
 
 The kickoff introduced Buildrathon and featured the talkshow *The Thinking Behind Building the Bot* with Bùi Nhật Trường from CMC Global. My report covers reflections on learning Cloud and AI, plans for applying them during my internship, and check-in and group photos.
 

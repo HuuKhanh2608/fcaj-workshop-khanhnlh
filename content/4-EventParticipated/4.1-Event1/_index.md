@@ -8,12 +8,15 @@ pre: "<b>4.1. </b>"
 
 ### Event information
 
-- **Event name** Buildrathon Kickoff: Code the Future with CMC Global.
-- **Date** Saturday, September 26, 2026.
-- **Published time** From 9:00 a.m. to 12:00 p.m. (UTC+7).
-- **Location** AWS Vietnam office, Bitexco Financial Tower, 2 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City.
-- **Role** Attendee.
-- **Event page** [Buildrathon Kickoff on Luma](https://luma.com/8fe9vvps).
+&emsp; **Event Name:** Buildrathon Kickoff: Code the Future with CMC Global
+
+&emsp; **Date & Time:** 09:00 a.m., September 26, 2026 (UTC+7)
+
+&emsp; **Location:** Bitexco Financial Tower, Ho Chi Minh City
+
+&emsp; **Role:** Attendee
+
+&emsp; **Event Page:** [Buildrathon Kickoff on Luma](https://luma.com/8fe9vvps)
 
 ### Event objectives
 

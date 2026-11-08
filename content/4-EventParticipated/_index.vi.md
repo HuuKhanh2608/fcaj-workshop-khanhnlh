@@ -12,11 +12,13 @@ Hiện báo cáo đã cập nhật **1 sự kiện**. Tôi sẽ tiếp tục b�
 
 ### [Sự kiện 1 Buildrathon Kickoff: Code the Future with CMC Global](4.1-Event1/)
 
-**Thời gian theo thông tin chương trình** 09:00 đến 12:00, ngày 26/09/2026 (UTC+7).
+&emsp; **Tên sự kiện:** Buildrathon Kickoff: Code the Future with CMC Global
 
-**Địa điểm** Văn phòng AWS Việt Nam, Bitexco Financial Tower, 2 Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh.
+&emsp; **Thời gian:** 09:00, ngày 26/09/2026 (UTC+7)
 
-**Vai trò** Người tham dự.
+&emsp; **Địa điểm:** Bitexco Financial Tower, Thành phố Hồ Chí Minh
+
+&emsp; **Vai trò:** Người tham dự
 
 Buổi kickoff giới thiệu chương trình Buildrathon và có talkshow *The Thinking Behind Building the Bot* với diễn giả Bùi Nhật Trường từ CMC Global. Bài thu hoạch ghi lại góc nhìn của tôi về việc học Cloud và AI, định hướng áp dụng trong kỳ thực tập cùng ảnh check-in và ảnh lưu niệm.
 
