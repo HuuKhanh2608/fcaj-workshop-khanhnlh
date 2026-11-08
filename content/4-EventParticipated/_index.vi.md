@@ -6,12 +6,28 @@ chapter: false
 pre: "<b>4. </b>"
 ---
 
-> **Bản nháp đang hoàn thiện.** Nội dung sẽ được cập nhật từ quá trình học tập, triển khai và minh chứng thực tế của Nguyễn Lê Hữu Khánh.
+Trong quá trình thực tập, tôi tham gia các sự kiện để tìm hiểu thêm về AWS, Cloud và AI, đồng thời tiếp xúc với cộng đồng và lắng nghe chia sẻ từ người làm trong ngành. Mỗi bài thu hoạch bên dưới ghi lại nội dung tôi quan tâm, bài học và hình ảnh tham dự.
 
-Yêu cầu chương trình là tối thiểu **3 sự kiện chuyên môn hoặc cộng đồng**, có ảnh check-in rõ mặt hợp lệ và bài thu hoạch cá nhân. Thông tin tham dự sẽ được bổ sung từ hoạt động thực tế.
+Hiện báo cáo đã cập nhật **1 sự kiện**. Tôi sẽ tiếp tục bổ sung các hoạt động thực tế để hoàn thiện yêu cầu tối thiểu 3 sự kiện của chương trình.
 
-| Sự kiện | Thời gian / địa điểm | Vai trò | Ảnh check-in và bài thu hoạch | Tình trạng |
-| --- | --- | --- | --- | --- |
-| [Sự kiện 1](4.1-Event1/) | Chưa cập nhật | Chưa cập nhật | Chưa bổ sung | Chưa cập nhật |
-| [Sự kiện 2](4.2-Event2/) | Chưa cập nhật | Chưa cập nhật | Chưa bổ sung | Chưa cập nhật |
-| [Sự kiện 3](4.3-Event3/) | Chưa cập nhật | Chưa cập nhật | Chưa bổ sung | Chưa cập nhật |
+### [Sự kiện 1 — Buildrathon Kickoff: Code the Future with CMC Global](4.1-Event1/)
+
+**Thời gian theo thông tin chương trình** — 09:00–12:00, ngày 26/09/2026 (UTC+7).
+
+**Địa điểm** — Văn phòng AWS Việt Nam, Bitexco Financial Tower, 2 Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh.
+
+**Vai trò** — Người tham dự.
+
+Buổi kickoff giới thiệu chương trình Buildrathon và có talkshow *The Thinking Behind Building the Bot* với diễn giả Bùi Nhật Trường từ CMC Global. Bài thu hoạch ghi lại góc nhìn của tôi về việc học Cloud và AI, định hướng áp dụng trong kỳ thực tập cùng ảnh check-in và ảnh lưu niệm.
+
+---
+
+### [Sự kiện 2](4.2-Event2/)
+
+Chờ bổ sung thông tin tham dự, bài thu hoạch và ảnh minh chứng.
+
+---
+
+### [Sự kiện 3](4.3-Event3/)
+
+Chờ bổ sung thông tin tham dự, bài thu hoạch và ảnh minh chứng.

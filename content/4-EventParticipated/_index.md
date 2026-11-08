@@ -6,12 +6,28 @@ chapter: false
 pre: "<b>4. </b>"
 ---
 
-> **Draft in progress.** Content will be updated from Nguyễn Lê Hữu Khánh’s learning, implementation work, and actual supporting evidence.
+During my internship, I attend events to learn about AWS, Cloud, and AI, connect with the community, and hear from industry practitioners. Each report below records the topics that interested me, my reflections, and photos from my attendance.
 
-The program requires at least **3 professional or community events**, with valid check-in photos showing my face and personal reflections. Attendance information will be added from actual activities.
+This report currently documents **1 event**. I will add further activities toward the program's requirement of at least 3 events.
 
-| Event | Time / location | Role | Check-in photo and reflection | Status |
-| --- | --- | --- | --- | --- |
-| [Event 1](4.1-Event1/) | Not yet updated | Not yet updated | Pending | Not yet updated |
-| [Event 2](4.2-Event2/) | Not yet updated | Not yet updated | Pending | Not yet updated |
-| [Event 3](4.3-Event3/) | Not yet updated | Not yet updated | Pending | Not yet updated |
+### [Event 1 — Buildrathon Kickoff: Code the Future with CMC Global](4.1-Event1/)
+
+**Scheduled time** — 9:00 a.m.–12:00 p.m., September 26, 2026 (UTC+7).
+
+**Location** — AWS Vietnam office, Bitexco Financial Tower, 2 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City.
+
+**Role** — Attendee.
+
+The kickoff introduced Buildrathon and featured the talkshow *The Thinking Behind Building the Bot* with Bùi Nhật Trường from CMC Global. My report covers reflections on learning Cloud and AI, plans for applying them during my internship, and check-in and group photos.
+
+---
+
+### [Event 2](4.2-Event2/)
+
+Attendance details, a personal reflection, and supporting photos will be added.
+
+---
+
+### [Event 3](4.3-Event3/)
+
+Attendance details, a personal reflection, and supporting photos will be added.
