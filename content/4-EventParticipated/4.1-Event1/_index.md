@@ -6,68 +6,98 @@ chapter: false
 pre: "<b>4.1. </b>"
 ---
 
-On September 26, 2026, I attended **Buildrathon Kickoff: Code the Future with CMC Global** at Bitexco Financial Tower. As a Software Engineering student interning in the First Cloud AI Journey program, I saw this as an opportunity to explore Cloud and AI, hear from industry practitioners, and find direction for my AWS learning.
-
 ### Event information
 
-- **Scheduled time** — 9:00 a.m.–12:00 p.m., Saturday, September 26, 2026 (UTC+7).
-- **Location** — AWS Vietnam office, Bitexco Financial Tower, 2 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City.
-- **Role** — Attendee.
-- **Talkshow topic displayed at the event** — *The Thinking Behind Building the Bot*.
+- **Event name** Buildrathon Kickoff: Code the Future with CMC Global.
+- **Date** Saturday, September 26, 2026.
+- **Published time** From 9:00 a.m. to 12:00 p.m. (UTC+7).
+- **Location** AWS Vietnam office, Bitexco Financial Tower, 2 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City.
+- **Role** Attendee.
+- **Event page** [Buildrathon Kickoff on Luma](https://luma.com/8fe9vvps).
 
-The event page provides the introduction and registration information. [Buildrathon Kickoff on Luma](https://luma.com/8fe9vvps)
+### Event objectives
 
-### My objectives
+- Introduce Buildrathon, its objectives, and the direction for participants.
+- Connect AWS Cloud and AI learning with practical perspectives from industry practitioners.
+- Discuss the thinking behind AI applications through the talkshow *The Thinking Behind Building the Bot*.
+- Give students opportunities to meet the community, hear from practitioners, and explore learning and career directions in Cloud and AI.
 
-I wanted to learn more about Buildrathon and connect what I was studying with a practical problem. My interests included
+### Speakers
 
-- Understanding the program's direction and how to prepare for a product-building challenge.
-- Hearing industry perspectives on Cloud, AI, and career development.
-- Finding ideas for further study and a practical project during my internship.
-- Getting to know the AWS community and other students with similar interests.
+| Order | Speaker | Position | Contribution to the event |
+| --- | --- | --- | --- |
+| 1 | [Hung Gia Nguyen](https://www.linkedin.com/in/jotaguy/) | Head of Solutions Architect, AWS Vietnam and Cambodia | Delivered the opening and introduced Buildrathon's purpose and direction for participants. |
+| 2 | [Truong Nhat Bui](https://www.linkedin.com/in/dominicbui0000/) | Tech Lead, CMC Global | Presented technical topics, including an AI-enabled Slack bot architecture, and responded to questions. |
+| 3 | Thien Lu | Program Manager, FCAJ | Participated as a speaker representing the FCAJ program. |
 
-### Speaker and session topics
+The introduction helped me understand the context of Buildrathon. The technical session then connected the discussion to an application example, making it easier to relate the event to my studies.
 
-The event standee identified **Bùi Nhật Trường, Technical Leader at CMC Global**, as the speaker for *The Thinking Behind Building the Bot*. The topic prompted me to think about the preparation behind an AI application, from understanding a need to organizing how a system handles requests.
+### Key highlights
 
-#### Introducing Buildrathon
+#### Program introduction and Buildrathon orientation
 
-The opening introduced the program and provided context for learning and building with Cloud and AI. I connected this introduction with my own AWS studies. A service becomes easier to understand when I can explain the problem it solves and where it fits within a system.
+- Hung Gia Nguyen opened the program and explained the purpose of Buildrathon.
+- The introduction helped attendees see how Cloud and AI learning can connect with building a product.
+- For me, this raised a question to answer before choosing an internship project, namely who the product will help and which need it will address.
 
-One practice I want to adopt is defining a clear outcome before starting an exercise. For a small project, I should be able to explain who will use it, which functionality they need, and how I will check that it works.
+#### The Thinking Behind Building the Bot talkshow
 
-#### Thinking through an AI application
+- Truong Nhat Bui shared technical perspectives and introduced an architecture example for a Slack bot with AI capabilities.
+- The example gave me a concrete reference for thinking about application structure, from receiving a request to processing it and returning a result.
+- I want to explore each component's responsibilities and how the components work together before trying to build a bot myself.
 
-The talkshow topic drew my attention to the design decisions behind a product. For a user-facing bot, I want to explore how requests arrive, how context is supplied, and how results return to the user. These questions can guide my reading and experiments after the event.
+#### Discussion with the speaker
 
-As a student, I find it helpful to break a problem into smaller steps, understand each component's responsibility, and then connect the components. This approach should also help me explain my choices in my workshop report.
-
-#### Learning and career direction
-
-The session gave me an opportunity to reflect on the skills I want to develop during my internship. Alongside AWS service knowledge, I want to improve at reading documentation, presenting ideas, and explaining technical decisions in terms of a practical need.
-
-I also want to keep better learning notes, including what I tried, the results I observed, and the questions I still have. Those notes should help me communicate more clearly when seeking guidance from a mentor.
+- The question-and-answer discussion gave attendees an opportunity to clarify points from the presentation.
+- I participated as a listener, followed the discussion, and related the topics to my AWS learning.
+- Areas that require more study will guide my further reading and the questions I prepare for conversations with my mentor.
 
 ### Key takeaways
 
-- **Start with a specific need.** Before selecting technology, I should understand what a user wants to do and choose a manageable scope.
-- **Practice explaining a system.** I want to understand how data moves, what each component does, and how to verify the result.
-- **Connect learning with a small product.** A focused exercise can help me assess my understanding and identify gaps.
-- **Learn actively within the community.** Attending in person gives me opportunities to encounter different perspectives and learning paths.
+#### Product thinking
 
-### Applying the learning during my internship
+- Identify the intended users and their needs before selecting technology.
+- Keep the scope appropriate for the available time and my ability to implement it.
+- Define verifiable outcomes so that I can assess whether an exercise meets its objectives.
 
-After the event, I plan to choose a small problem, outline its workflow, and define its inputs and outputs before considering suitable AWS services. I will record my decisions, experiment results, and errors to support my worklog and personal workshop.
+#### Approaching architecture
 
-For AI topics, I want to study how context is provided with a request and how a bot's answers can be evaluated. This is a direction for my further learning after the kickoff.
+- Break a system into components with clear responsibilities.
+- Follow the data flow to understand how those components work together.
+- Practice explaining design choices and how to check each step in a workflow.
+
+#### Learning skills
+
+- Record interesting points and unresolved questions after a presentation.
+- Combine reading with a small exercise that has a clear objective.
+- Participate in the community to encounter different perspectives on work and technology.
+
+### Applying to work
+
+- **Prepare my personal workshop.** I plan to choose a small problem, describe its users, and identify its main functionality.
+- **Outline the architecture.** I will define the inputs, outputs, and workflow before considering AWS services.
+- **Explore AI applications.** I want to study how to provide context and evaluate a bot's answers.
+- **Update my worklog.** I will record technical decisions, experiment results, and errors encountered during my studies.
 
 ### Event experience
 
-I attended as a listener, followed the presentations, and kept photos from the event. Visiting the AWS office, hearing the program introduction, and taking photos with others made this a memorable experience early in my internship.
+The kickoff was a memorable experience early in my internship. Hearing the presentations in person at the AWS office motivated me to explore Cloud and AI and think more concretely about my own practical learning.
 
-The kickoff gave me more motivation to study Cloud and AI and think more concretely about the product I would like to build. The hands-on AI Agent Challenge listed in the published agenda did not take place during this event.
+#### Learning from industry practitioners
 
-### Event photos
+- Heard the program's direction from AWS and FCAJ representatives.
+- Followed the technical presentation from the CMC Global representative.
+- Connected the topics with choosing a project and planning my learning during the internship.
+
+#### Participating with the community
+
+- Attended the event and kept a check-in photo.
+- Took a group photo with others.
+- Experienced a learning environment connecting students, the community, and industry practitioners.
+
+The hands-on AI Agent Challenge listed in the published agenda did not take place during this event. My participation focused on listening to the presentations and following the discussion.
+
+#### Some event photos
 
 ![Opening session featuring an introduction to AWS First Cloud AI Journey](/images/4-EventParticipated/4.1-Buildrathon-Kickoff/kickoff-session.jpg)
 

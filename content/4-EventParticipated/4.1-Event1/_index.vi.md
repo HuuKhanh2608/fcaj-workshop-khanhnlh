@@ -6,68 +6,98 @@ chapter: false
 pre: "<b>4.1. </b>"
 ---
 
-Ngày 26/09/2026, tôi tham gia **Buildrathon Kickoff: Code the Future with CMC Global** tại Bitexco Financial Tower. Với một sinh viên Kỹ thuật phần mềm đang thực tập trong chương trình First Cloud AI Journey, đây là dịp để tôi tìm hiểu về Cloud và AI, nghe chia sẻ từ người làm trong ngành và có thêm định hướng cho quá trình học AWS.
-
 ### Thông tin sự kiện
 
-- **Thời gian theo thông tin chương trình** — 09:00–12:00, thứ Bảy, ngày 26/09/2026 (UTC+7).
-- **Địa điểm** — Văn phòng AWS Việt Nam, Bitexco Financial Tower, 2 Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh.
-- **Vai trò** — Người tham dự.
-- **Chủ đề talkshow tại sự kiện** — *The Thinking Behind Building the Bot*.
+- **Tên sự kiện** Buildrathon Kickoff: Code the Future with CMC Global.
+- **Ngày tổ chức** Thứ Bảy, 26/09/2026.
+- **Thời gian công bố** Từ 09:00 đến 12:00 (UTC+7).
+- **Địa điểm** Văn phòng AWS Việt Nam, Bitexco Financial Tower, 2 Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh.
+- **Vai trò tham gia** Người tham dự.
+- **Trang sự kiện** [Buildrathon Kickoff trên Luma](https://luma.com/8fe9vvps).
 
-Thông tin giới thiệu và đăng ký được đăng trên trang sự kiện. [Buildrathon Kickoff trên Luma](https://luma.com/8fe9vvps)
+### Mục tiêu sự kiện
 
-### Mục tiêu tham gia
+- Giới thiệu chương trình Buildrathon, mục tiêu và định hướng dành cho người tham gia.
+- Kết nối việc học AWS Cloud và AI với góc nhìn thực tế từ những người làm trong ngành.
+- Chia sẻ tư duy xây dựng ứng dụng AI thông qua talkshow *The Thinking Behind Building the Bot*.
+- Tạo cơ hội để sinh viên tiếp xúc với cộng đồng, nghe chia sẻ và tìm hướng phát triển trong lĩnh vực Cloud và AI.
 
-Tôi đến sự kiện với mong muốn hiểu thêm về Buildrathon và cách kết nối kiến thức đang học với một bài toán thực tế. Những điều tôi quan tâm gồm có
+### Diễn giả
 
-- Tìm hiểu định hướng của chương trình và những điều cần chuẩn bị khi tham gia một thử thách xây dựng sản phẩm.
-- Nghe góc nhìn của người làm trong ngành về Cloud, AI và cơ hội phát triển nghề nghiệp.
-- Có thêm ý tưởng để lựa chọn nội dung tự học và đề tài thực hành trong kỳ thực tập.
-- Làm quen với môi trường sinh hoạt của cộng đồng AWS và những bạn có cùng mối quan tâm.
+| STT | Diễn giả | Chức vụ | Đóng góp tại sự kiện |
+| --- | --- | --- | --- |
+| 1 | [Hung Gia Nguyen](https://www.linkedin.com/in/jotaguy/) | Head of Solutions Architect, AWS Vietnam and Cambodia | Mở đầu chương trình, giới thiệu Buildrathon và định hướng cho người tham gia. |
+| 2 | [Truong Nhat Bui](https://www.linkedin.com/in/dominicbui0000/) | Tech Lead, CMC Global | Chia sẻ nội dung kỹ thuật, giới thiệu ví dụ kiến trúc Slack bot có AI và giải đáp câu hỏi. |
+| 3 | Thien Lu | Program Manager, FCAJ | Tham gia với vai trò diễn giả, đại diện chương trình FCAJ. |
 
-### Diễn giả và nội dung chia sẻ
+Phần giới thiệu giúp tôi hiểu bối cảnh của Buildrathon. Tiếp đó, phần chia sẻ kỹ thuật đưa nội dung về một ví dụ ứng dụng cụ thể, giúp tôi dễ liên hệ hơn với kiến thức đang học.
 
-Talkshow *The Thinking Behind Building the Bot* có phần chia sẻ của **anh Bùi Nhật Trường, Technical Leader tại CMC Global**, theo thông tin trên standee tại sự kiện. Chủ đề này gợi cho tôi nhiều suy nghĩ về những bước cần chuẩn bị khi xây dựng một ứng dụng có AI, từ xác định nhu cầu đến tổ chức cách hệ thống xử lý yêu cầu.
+### Nội dung nổi bật
 
-#### Khởi động chương trình Buildrathon
+#### Giới thiệu chương trình và định hướng Buildrathon
 
-Phần mở đầu giới thiệu chương trình và đặt bối cảnh cho hành trình học tập, xây dựng sản phẩm trên nền tảng Cloud và AI. Khi nghe phần định hướng, tôi liên hệ với việc học AWS của bản thân. Mỗi dịch vụ sẽ dễ hiểu hơn khi tôi biết nó giải quyết vấn đề gì và được sử dụng ở đâu trong một hệ thống.
+- Anh Hung Gia Nguyen mở đầu chương trình và chia sẻ mục đích của Buildrathon.
+- Nội dung định hướng giúp người tham dự hình dung việc học Cloud và AI gắn với quá trình xây dựng sản phẩm.
+- Với tôi, phần này gợi ra một câu hỏi cần trả lời trước khi chọn đề tài thực tập, đó là sản phẩm sẽ giúp ai và giải quyết nhu cầu gì.
 
-Điều tôi muốn áp dụng từ phần này là xác định đầu ra cụ thể trước khi bắt đầu một bài thực hành. Với một đề tài nhỏ, tôi cần trả lời được ai sẽ sử dụng, họ cần chức năng gì và làm thế nào để kiểm tra chức năng đó hoạt động đúng.
+#### Talkshow The Thinking Behind Building the Bot
 
-#### Góc nhìn về xây dựng ứng dụng AI
+- Anh Truong Nhat Bui chia sẻ góc nhìn kỹ thuật và giới thiệu ví dụ kiến trúc một Slack bot có tích hợp AI.
+- Ví dụ này giúp tôi có điểm tham chiếu cụ thể khi suy nghĩ về cách tổ chức một ứng dụng, từ tiếp nhận yêu cầu đến xử lý và trả kết quả.
+- Tôi muốn tìm hiểu thêm trách nhiệm của từng thành phần và cách chúng phối hợp trước khi tự thử xây dựng một bot.
 
-Chủ đề của talkshow khiến tôi chú ý đến phần tư duy thiết kế phía sau một sản phẩm. Với một bot hỗ trợ người dùng, tôi muốn tìm hiểu kỹ hơn cách tiếp nhận yêu cầu, cung cấp ngữ cảnh và đưa kết quả trở lại cho người dùng. Đây là những câu hỏi tôi có thể dùng để định hướng việc đọc tài liệu và thử nghiệm sau sự kiện.
+#### Trao đổi với diễn giả
 
-Từ góc nhìn sinh viên, tôi thấy một cách học phù hợp là chia bài toán thành các bước nhỏ, hiểu trách nhiệm của từng thành phần rồi mới kết nối chúng. Cách tiếp cận này cũng giúp tôi dễ giải thích lựa chọn của mình khi viết báo cáo workshop.
-
-#### Định hướng học tập và nghề nghiệp
-
-Buổi chia sẻ là dịp để tôi nhìn lại những kỹ năng cần rèn luyện trong kỳ thực tập. Bên cạnh kiến thức về dịch vụ AWS, tôi muốn chú trọng hơn đến việc đọc tài liệu, trình bày ý tưởng và giải thích một quyết định kỹ thuật bằng nhu cầu thực tế của bài toán.
-
-Tôi cũng muốn xây dựng thói quen ghi lại quá trình học, bao gồm điều đã thử, kết quả quan sát được và câu hỏi còn chưa giải đáp. Những ghi chép đó sẽ giúp tôi trao đổi rõ ràng hơn khi cần sự hướng dẫn từ mentor.
+- Phần giải đáp câu hỏi tạo cơ hội để người tham dự làm rõ các nội dung trong bài chia sẻ.
+- Tôi tham gia với vai trò người nghe, theo dõi nội dung và liên hệ với quá trình học AWS của mình.
+- Những điểm cần tìm hiểu sâu hơn sẽ là cơ sở để tôi đọc thêm tài liệu và chuẩn bị câu hỏi khi trao đổi với mentor.
 
 ### Bài học rút ra
 
-- **Bắt đầu từ một nhu cầu cụ thể.** Trước khi chọn công nghệ, tôi cần hiểu người dùng muốn làm gì và xác định phạm vi vừa sức.
-- **Học cách giải thích hệ thống.** Tôi muốn hiểu được dữ liệu đi qua những thành phần nào, mỗi thành phần có vai trò gì và kết quả được kiểm tra ra sao.
-- **Gắn kiến thức với sản phẩm nhỏ.** Một bài thực hành có mục tiêu rõ ràng sẽ giúp tôi kiểm tra mức độ hiểu bài và nhận ra phần cần học thêm.
-- **Chủ động học trong cộng đồng.** Việc tham dự trực tiếp giúp tôi có thêm cơ hội tiếp xúc với những góc nhìn và hướng học tập khác nhau.
+#### Tư duy xây dựng sản phẩm
 
-### Hướng áp dụng trong kỳ thực tập
+- Xác định người dùng và nhu cầu cụ thể trước khi lựa chọn công nghệ.
+- Giới hạn phạm vi phù hợp với thời gian và khả năng thực hiện.
+- Đặt ra đầu ra có thể kiểm tra để biết bài thực hành đã đáp ứng mục tiêu hay chưa.
 
-Sau sự kiện, tôi dự định chọn một bài toán nhỏ để phác thảo luồng xử lý, xác định dữ liệu đầu vào và đầu ra trước khi cân nhắc dịch vụ AWS phù hợp. Tôi sẽ ghi lại lý do lựa chọn, kết quả thử nghiệm và những lỗi gặp phải để bổ sung cho worklog và workshop cá nhân.
+#### Cách tiếp cận kiến trúc
 
-Với nội dung AI, tôi muốn tiếp tục tìm hiểu cách đưa ngữ cảnh vào yêu cầu và cách đánh giá câu trả lời của một bot. Đây là hướng tự học tiếp theo của tôi sau buổi kickoff.
+- Chia hệ thống thành các thành phần có trách nhiệm rõ ràng.
+- Theo dõi đường đi của dữ liệu để hiểu cách các thành phần phối hợp.
+- Tập giải thích lý do lựa chọn và cách kiểm tra từng bước trong luồng xử lý.
 
-### Trải nghiệm tham dự
+#### Kỹ năng học tập
 
-Tôi tham dự với vai trò người nghe, theo dõi các phần chia sẻ và lưu lại hình ảnh tại sự kiện. Được có mặt tại văn phòng AWS, nghe giới thiệu về chương trình và chụp ảnh cùng mọi người là một trải nghiệm đáng nhớ trong thời gian đầu thực tập.
+- Ghi lại nội dung quan tâm và các câu hỏi còn chưa rõ sau mỗi buổi chia sẻ.
+- Kết hợp đọc tài liệu với một bài thực hành nhỏ, có mục tiêu cụ thể.
+- Chủ động tham gia cộng đồng để tiếp xúc với nhiều góc nhìn về công việc và công nghệ.
 
-Buổi kickoff giúp tôi có thêm động lực để chủ động tìm hiểu Cloud và AI, đồng thời suy nghĩ cụ thể hơn về sản phẩm mình muốn thực hiện. Phần hands-on AI Agent Challenge có trong lịch giới thiệu đã không diễn ra trong buổi này.
+### Áp dụng vào công việc
 
-### Hình ảnh tham gia
+- **Chuẩn bị workshop cá nhân.** Tôi dự định chọn một bài toán nhỏ, mô tả người dùng và xác định chức năng chính.
+- **Phác thảo kiến trúc.** Tôi sẽ làm rõ đầu vào, đầu ra và luồng xử lý trước khi cân nhắc dịch vụ AWS.
+- **Tìm hiểu ứng dụng AI.** Tôi muốn nghiên cứu cách cung cấp ngữ cảnh và đánh giá câu trả lời của một bot.
+- **Cập nhật worklog.** Tôi sẽ ghi lại quyết định kỹ thuật, kết quả thử nghiệm và những lỗi gặp phải trong quá trình tự học.
+
+### Trải nghiệm tham gia sự kiện
+
+Buổi kickoff là một trải nghiệm đáng nhớ trong thời gian đầu thực tập của tôi. Được nghe chia sẻ trực tiếp tại văn phòng AWS giúp tôi có thêm động lực tìm hiểu Cloud và AI, đồng thời suy nghĩ cụ thể hơn về hướng thực hành của bản thân.
+
+#### Lắng nghe chia sẻ từ người làm trong ngành
+
+- Tiếp cận định hướng chương trình từ đại diện AWS và FCAJ.
+- Theo dõi phần chia sẻ kỹ thuật từ đại diện CMC Global.
+- Liên hệ những nội dung được trình bày với việc lựa chọn đề tài và cách học trong kỳ thực tập.
+
+#### Tham gia cùng cộng đồng
+
+- Có mặt tại sự kiện với vai trò người tham dự và lưu lại ảnh check-in.
+- Chụp ảnh lưu niệm cùng mọi người.
+- Cảm nhận được môi trường học tập có sự kết nối giữa sinh viên, cộng đồng và người làm trong ngành.
+
+Phần hands-on AI Agent Challenge có trong lịch giới thiệu đã không diễn ra trong buổi này. Hoạt động tham dự của tôi tập trung vào nghe chia sẻ và theo dõi nội dung trao đổi.
+
+#### Một số hình ảnh tại sự kiện
 
 ![Không gian buổi khai mạc với phần giới thiệu AWS First Cloud AI Journey](/images/4-EventParticipated/4.1-Buildrathon-Kickoff/kickoff-session.jpg)
 

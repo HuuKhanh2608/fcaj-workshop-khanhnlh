@@ -10,13 +10,13 @@ During my internship, I attend events to learn about AWS, Cloud, and AI, connect
 
 This report currently documents **1 event**. I will add further activities toward the program's requirement of at least 3 events.
 
-### [Event 1 — Buildrathon Kickoff: Code the Future with CMC Global](4.1-Event1/)
+### [Event 1 Buildrathon Kickoff: Code the Future with CMC Global](4.1-Event1/)
 
-**Scheduled time** — 9:00 a.m.–12:00 p.m., September 26, 2026 (UTC+7).
+**Scheduled time** 9:00 a.m. to 12:00 p.m., September 26, 2026 (UTC+7).
 
-**Location** — AWS Vietnam office, Bitexco Financial Tower, 2 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City.
+**Location** AWS Vietnam office, Bitexco Financial Tower, 2 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City.
 
-**Role** — Attendee.
+**Role** Attendee.
 
 The kickoff introduced Buildrathon and featured the talkshow *The Thinking Behind Building the Bot* with Bùi Nhật Trường from CMC Global. My report covers reflections on learning Cloud and AI, plans for applying them during my internship, and check-in and group photos.
 
