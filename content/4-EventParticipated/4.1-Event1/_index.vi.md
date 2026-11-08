@@ -31,7 +31,7 @@ pre: "<b>4.1. </b>"
 | --- | --- | --- | --- |
 | 1 | [Hung Gia Nguyen](https://www.linkedin.com/in/jotaguy/) | Head of Solutions Architect, AWS Vietnam and Cambodia | Mở đầu chương trình, giới thiệu Buildrathon và định hướng cho người tham gia. |
 | 2 | [Truong Nhat Bui](https://www.linkedin.com/in/dominicbui0000/) | Tech Lead, CMC Global | Chia sẻ nội dung kỹ thuật, giới thiệu ví dụ kiến trúc Slack bot có AI và giải đáp câu hỏi. |
-| 3 | Thien Lu | Program Manager, FCAJ | Tham gia với vai trò diễn giả, đại diện chương trình FCAJ. |
+| 3 | [Thien Lu](https://www.linkedin.com/in/thienluhoan/) | Program Manager, FCAJ | Tham gia với vai trò diễn giả, đại diện chương trình FCAJ. |
 
 Phần giới thiệu giúp tôi hiểu bối cảnh của Buildrathon. Tiếp đó, phần chia sẻ kỹ thuật đưa nội dung về một ví dụ ứng dụng cụ thể, giúp tôi dễ liên hệ hơn với kiến thức đang học.
 
