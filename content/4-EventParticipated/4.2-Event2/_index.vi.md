@@ -1,39 +1,156 @@
 ---
-title: "Sự kiện 2"
-date: 2026-11-05
+title: "AWS Cloud & AI Day Hanoi - Watch Party"
+date: 2026-09-29
 weight: 2
 chapter: false
 pre: "<b>4.2. </b>"
 ---
 
-**Tình trạng:** Chờ thông tin sự kiện thực tế.
+### Thông tin sự kiện
 
-## Thông tin tham dự
+&emsp; **Tên sự kiện:** AWS Cloud & AI Day Hanoi - Watch Party
 
-| Thông tin | Nội dung |
-| --- | --- |
-| Tên sự kiện | Chưa cập nhật |
-| Ngày, giờ và múi giờ | Chưa cập nhật |
-| Địa điểm / hình thức tham dự | Chưa cập nhật |
-| Vai trò cá nhân | Chưa cập nhật |
-| Trang sự kiện / đăng ký | Chưa bổ sung |
+&emsp; **Thời gian:** 08:00 đến 17:00, thứ Ba, ngày 29/09/2026 (UTC+7), theo lịch chương trình
 
-## Mục tiêu và nội dung chính
+&emsp; **Địa điểm:** Văn phòng AWS Việt Nam, Bitexco Financial Tower, 2 Hải Triều, TP.HCM. Điểm nhận thẻ tại tầng 26 theo thư mời.
 
-Chưa cập nhật mục tiêu, diễn giả và các chủ đề thực tế đã tiếp thu.
+&emsp; **Hình thức:** Tham dự watch party tại TP.HCM, theo dõi các phiên được phát từ sự kiện chính ở Hà Nội
 
-## Hoạt động và đóng góp cá nhân
+&emsp; **Vai trò:** Người tham dự
 
-Chưa cập nhật những hoạt động tôi trực tiếp tham gia hoặc câu hỏi, phần hỗ trợ, đóng góp tại sự kiện.
+&emsp; **Trang sự kiện:** [AWS Cloud and AI Day Hanoi](https://aws.amazon.com/vi/events/cloud-day-hanoi/)
 
-## Bài học và định hướng áp dụng
+Ngày 29/09, tôi cùng các bạn trong nhóm tham dự watch party tại văn phòng AWS ở TP.HCM. Sự kiện chính diễn ra ở Hà Nội; chúng tôi theo dõi keynote và các phiên kỹ thuật qua màn hình tại văn phòng. Những nội dung tôi muốn ghi lại sau buổi này xoay quanh cách dùng AI trong phát triển phần mềm, từ chuẩn bị công việc cho agent đến kiểm tra kết quả và bảo mật ứng dụng.
 
-Chưa cập nhật bài học cá nhân và cách dự kiến áp dụng vào công việc hoặc workshop.
+### Mục tiêu sự kiện
 
-## Hình ảnh và minh chứng
+- Giới thiệu các hướng ứng dụng Cloud và AI qua chia sẻ của AWS và doanh nghiệp.
+- Cập nhật cách sử dụng agentic AI trong phát triển, kiểm thử và vận hành phần mềm.
+- Tạo điều kiện để cộng đồng tại TP.HCM cùng theo dõi các phiên keynote và nội dung thuộc nhóm Builders x AI từ Hà Nội.
 
-Chờ ảnh check-in rõ mặt hợp lệ, ảnh hoạt động và chú thích mô tả bối cảnh. Các ảnh trình chiếu hoặc nội dung trích dẫn sẽ được ghi nguồn khi bổ sung.
+Với tôi, mục tiêu khi tham gia là tìm hiểu những cách làm có thể thử ở quy mô nhỏ trong quá trình học và chuẩn bị workshop cá nhân.
 
-## Tài liệu tham khảo
+### Diễn giả
 
-Chưa bổ sung liên kết sự kiện, tài liệu diễn giả hoặc ghi chú cá nhân.
+Bảng dưới đây ghi lại một số diễn giả trong keynote và phiên bảo mật được phát từ Hà Nội. Đây là các phần trình bày tôi dùng để đối chiếu nội dung bài thu hoạch.
+
+| STT | Diễn giả | Chức vụ | Nội dung chia sẻ |
+| --- | --- | --- | --- |
+| 1 | Eric Yeo | Country General Manager, Malaysia, Vietnam & Indochina, AWS | Bối cảnh ứng dụng Cloud và AI tại Việt Nam, cùng các ví dụ từ doanh nghiệp. |
+| 2 | Werner Vogels | CTO, Amazon | Những lựa chọn kỹ thuật phía sau dịch vụ cloud, từ cơ sở dữ liệu đến hạ tầng tính toán và đồng bộ thời gian. |
+| 3 | Jens Lottner | CEO, Techcombank | Cách đưa AI vào hoạt động ngân hàng và chuẩn bị năng lực cho đội ngũ. |
+| 4 | Mai Le | Director of Product Management, Katalon | Kiểm chứng phần mềm trong quá trình phát triển có sử dụng AI và trách nhiệm của con người với kết quả. |
+| 5 | Trung Nguyen | Technical Account Manager, AWS Vietnam | Đồng trình bày phiên AWS Security Agent: Proactive AppSec from Design to Deployment. |
+| 6 | Tan Huynh | Technical Account Manager, AWS Vietnam | Đồng trình bày phiên AWS Security Agent và quy trình kiểm tra bảo mật. |
+
+Tên và chức vụ được đối chiếu từ trang sự kiện, video keynote và slide giới thiệu diễn giả trong bộ ảnh tham dự.
+
+### Nội dung nổi bật
+
+#### Keynote: từ hạ tầng cloud đến việc kiểm chứng phần mềm
+
+Keynote đặt các câu chuyện ứng dụng AI bên cạnh những vấn đề kỹ thuật phía sau một hệ thống. Phần trình bày của Werner Vogels đề cập đến cơ sở dữ liệu, Nitro, Lambda và đồng bộ thời gian. Tôi thấy đây là những chủ đề cần quay lại học kỹ hơn để hiểu vì sao một dịch vụ được thiết kế như vậy và khi nào nên sử dụng.
+
+Phần chia sẻ của Mai Le giúp tôi liên hệ với việc học lập trình: khi AI tạo ra thay đổi nhanh hơn, người làm vẫn cần kiểm tra thay đổi đó có đáp ứng yêu cầu hay không. Với bài thực hành của mình, tôi muốn giữ lại kết quả kiểm thử và lỗi gặp phải để có căn cứ giải thích phần đã làm được.
+
+#### AI-DLC và cách TCBS tổ chức công việc cho agent
+
+Tôi lưu lại slide so sánh SDLC truyền thống với AI-DLC, cùng sơ đồ workspace trong phần trình bày của TCBS. Trong sơ đồ, một bộ phận điều phối chuẩn bị và theo dõi các workspace dành cho từng agent, từng nhiệm vụ. Mỗi workspace có gói công việc, mã nguồn, công cụ MCP, bước kiểm tra và điểm lưu trạng thái.
+
+Điểm tôi muốn học từ ví dụ này là cách chuẩn bị một nhiệm vụ trước khi giao cho AI. Nếu yêu cầu và điều kiện hoàn thành chưa rõ, tôi cũng khó biết kết quả trả về đã đúng hay chưa. Tôi có thể bắt đầu bằng việc mô tả đầu vào, đầu ra và cách kiểm tra cho từng chức năng nhỏ của workshop.
+
+#### AWS Security Agent và kiểm tra bảo mật trong quá trình phát triển
+
+Phiên DVT305 do Trung Nguyen và Tan Huynh trình bày tập trung vào bảo mật ứng dụng từ thiết kế đến triển khai. Một slide mô tả quy trình gồm đăng nhập, quét, thực thi các tác vụ kiểm tra, tiếp tục khám phá theo kết quả và dọn dẹp tài nguyên.
+
+Qua cách trình bày này, tôi chú ý hơn đến phạm vi của một lần kiểm tra: hệ thống nào được kiểm tra, cần quyền gì và tài nguyên nào phải được thu dọn sau đó. Đây cũng là những điều tôi cần mô tả rõ khi viết hướng dẫn thực hành AWS. Việc theo dõi phiên chia sẻ giúp tôi có thêm hướng tìm hiểu, còn để áp dụng tôi cần tự đọc tài liệu và thực hành từng bước.
+
+#### Agent Toolkit for AWS và MCP
+
+Các slide về Agent Toolkit for AWS giới thiệu cách bổ sung công cụ, kiến thức và các giới hạn kiểm soát cho coding agent. Phần hướng dẫn bắt đầu gồm cài plugin, kiểm tra kết nối với AWS MCP Server rồi thử một yêu cầu cụ thể. Tôi cũng chụp lại slide có mã QR dẫn đến mã nguồn và tài liệu để tiện xem lại.
+
+Điều tôi quan tâm là agent có thể lấy thông tin từ đâu và được phép thực hiện những thao tác nào. Khi thử các công cụ này sau sự kiện, tôi muốn bắt đầu bằng một tác vụ nhỏ, đọc lại thay đổi được tạo ra và kiểm tra kết quả trước khi mở rộng phạm vi.
+
+### Bài học rút ra
+
+#### Chuẩn bị yêu cầu trước khi dùng AI
+
+- Chia công việc thành những phần có đầu ra rõ ràng.
+- Cung cấp mã nguồn, tài liệu và ràng buộc liên quan đến nhiệm vụ.
+- Xác định cách kiểm tra kết quả ngay từ lúc bắt đầu.
+
+#### Giữ trách nhiệm với kết quả
+
+- Đọc và hiểu thay đổi do AI đề xuất trước khi đưa vào bài làm.
+- Kiểm tra cả trường hợp chạy đúng và trường hợp xảy ra lỗi.
+- Ghi lại kết quả thực hành để giải thích được quyết định của mình.
+
+#### Đưa bảo mật vào kế hoạch thực hành
+
+- Xem xét quyền truy cập và phạm vi tài nguyên trước khi chạy công cụ.
+- Chuẩn bị cách kiểm tra và thu dọn tài nguyên trong hướng dẫn workshop.
+- Dành thời gian tìm hiểu các giới hạn của công cụ, nhất là khi công cụ có thể thao tác với môi trường AWS.
+
+### Áp dụng vào công việc
+
+Tôi dự định bắt đầu từ việc chuẩn bị workshop cá nhân. Với mỗi chức năng, tôi sẽ viết yêu cầu ngắn, xác định kết quả mong đợi và cách kiểm tra trước khi nhờ AI hỗ trợ. Sau đó, tôi sẽ đọc lại phần thay đổi, chạy thử và ghi kết quả vào worklog.
+
+Với MCP và Agent Toolkit for AWS, tôi muốn thử một tác vụ trong môi trường thực hành có phạm vi rõ ràng. Sau khi thử, tôi sẽ ghi lại cách thiết lập, những lỗi gặp phải và các bước kiểm tra đã thực hiện.
+
+### Trải nghiệm tham gia sự kiện
+
+#### Theo dõi chương trình cùng nhóm tại TP.HCM
+
+Tham dự watch party giúp tôi theo dõi chương trình cùng các bạn ngay tại văn phòng AWS ở TP.HCM. Bộ ảnh của nhóm có cả ảnh lưu niệm với thẻ tham dự và ảnh chụp màn hình những phiên kỹ thuật. Khi xem lại, tôi có thể nối từng ý trong bài với một nội dung cụ thể đã được trình bày.
+
+#### Những nội dung muốn tìm hiểu tiếp
+
+Sơ đồ workspace của TCBS là một ví dụ tôi muốn xem lại khi chia việc cho dự án. Phần kiểm thử và bảo mật cũng nhắc tôi dành thời gian cho các bước kiểm tra sau khi viết mã. Sau sự kiện, hướng học tiếp của tôi là chọn một phần nhỏ để thử, ghi lại kết quả rồi mới quyết định có đưa vào workshop hay không.
+
+#### Một số hình ảnh tại sự kiện
+
+Các ảnh dưới đây thuộc bộ ảnh tham dự của tôi và nhóm tại TP.HCM. Nội dung slide là của các diễn giả và đơn vị trình bày, được chụp lại từ màn hình phát chương trình ở Hà Nội.
+
+![Tôi và các bạn trong nhóm với thẻ tham dự tại watch party ở TP.HCM](/images/4-EventParticipated/4.2-Cloud-AI-Day/team-watch-party.jpg)
+
+*Hình 1. Ảnh lưu niệm của nhóm tại văn phòng AWS ở TP.HCM trong ngày tham dự watch party.*
+
+![Slide so sánh SDLC truyền thống và AI-DLC trên màn hình tại watch party](/images/4-EventParticipated/4.2-Cloud-AI-Day/sdlc-to-ai-dlc.jpg)
+
+*Hình 2. Nội dung so sánh các giai đoạn phát triển phần mềm khi đưa AI vào quy trình. Nguồn slide: AWS.*
+
+![Sơ đồ workspace dành cho coding agent trong phần trình bày của TCBS](/images/4-EventParticipated/4.2-Cloud-AI-Day/tcbs-agent-workspaces.jpg)
+
+*Hình 3. TCBS giới thiệu cách chuẩn bị workspace và điều phối công việc cho từng agent. Nguồn slide: Techcom Securities.*
+
+![Slide giới thiệu phiên AWS Security Agent với Trung Nguyen và Tan Huynh](/images/4-EventParticipated/4.2-Cloud-AI-Day/aws-security-agent.jpg)
+
+*Hình 4. Tên phiên DVT305 cùng thông tin hai diễn giả được hiển thị trên màn hình. Nguồn slide: AWS.*
+
+![Quy trình năm giai đoạn trong phiên AWS Security Agent](/images/4-EventParticipated/4.2-Cloud-AI-Day/security-testing-pipeline.jpg)
+
+*Hình 5. Quy trình kiểm tra bảo mật từ đăng nhập đến dọn dẹp tài nguyên. Nguồn slide: AWS.*
+
+![Slide AWS Agent Toolkit với mã QR dẫn đến mã nguồn và tài liệu](/images/4-EventParticipated/4.2-Cloud-AI-Day/aws-agent-toolkit.jpg)
+
+*Hình 6. Phần giới thiệu tài nguyên để tìm hiểu thêm về AWS Agent Toolkit. Nguồn slide: AWS.*
+
+### Tài liệu tham khảo
+
+Các nguồn dưới đây cung cấp bối cảnh về sự kiện chính tại Hà Nội và watch party tại TP.HCM, nơi tôi tham dự. Đây là tài liệu đối chiếu cho bài thu hoạch, bên cạnh ảnh của cá nhân và nhóm.
+
+#### Tài liệu chính thức của sự kiện
+
+1. **AWS:** [AWS Cloud and AI Day Hanoi](https://aws.amazon.com/vi/events/cloud-day-hanoi/). Trang giới thiệu chính thức về sự kiện, địa điểm tổ chức chính, các chủ đề và diễn giả tiêu biểu.
+2. **AWS:** [Lịch trình sự kiện](https://aws.amazon.com/events/cloud-day-hanoi/agenda/). Dùng để đối chiếu tên phiên, các nhóm chủ đề và lịch công bố. Lịch trình không tự xác nhận những phiên tôi thực tế đã theo dõi.
+3. **AWS Events:** [AWS Cloud & AI Day Hanoi 2026 | Keynote](https://www.youtube.com/watch?v=6lQLOOQdW9Y). Video ghi lại keynote từ Hà Nội, giúp xem lại các phần trình bày và câu chuyện ứng dụng của doanh nghiệp.
+
+#### Bài báo và bài viết về sự kiện
+
+4. **About Amazon, ngày 29/09/2026:** [Vietnam is transforming its AI ambitions into business impact](https://www.aboutamazon.sg/news/aws/vietnam-is-transforming-its-ai-ambitions-into-business-impact). Bài viết của Amazon về nghiên cứu ứng dụng AI được công bố tại sự kiện, có ví dụ TCBS để đọc thêm bên cạnh nội dung phát triển phần mềm xuất hiện trong ảnh tôi chụp.
+5. **Bộ Khoa học và Công nghệ, ngày 29/09/2026:** [Hạ tầng AI Việt Nam và bài toán tạo giá trị thực tế](https://mst.gov.vn/ai-viet-nam-tu-mo-rong-ha-tang-den-bai-toan-bien-cong-nghe-thanh-gia-tri-19726093007364899.htm). Bài đưa tin về phát biểu của Thứ trưởng Hoàng Minh tại sự kiện ở Hà Nội và các nền tảng cần thiết để mở rộng ứng dụng AI.
+6. **Tạp chí Khoa học và Công nghệ Việt Nam, ngày 29/09/2026:** [Hợp tác công nghệ quốc tế và hệ sinh thái đổi mới sáng tạo Việt Nam](https://vjst.vn/cac-tap-doan-cong-nghe-quoc-te-khong-chi-cung-cap-dich-vu-ma-cung-viet-nam-doi-moi-sang-tao-va-phat-trien-he-sinh-thai-103338.html). Bài đưa tin về sự kiện tại Hà Nội, bổ sung góc nhìn về hạ tầng, đào tạo nhân lực và hợp tác với doanh nghiệp công nghệ.
+
+#### Thông tin watch party tại TP.HCM
+
+7. **AWS Events:** [Đăng ký AWS Cloud & AI Day Hanoi - Watch Party](https://apj.awsevents.com/sites/aws-cloud-day-hanoi-watch-party-attendee). Liên kết đăng ký watch party tại TP.HCM. Trang hiện trả về lỗi 404; đường dẫn gốc được giữ lại để tham khảo.

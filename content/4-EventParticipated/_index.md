@@ -8,7 +8,7 @@ pre: "<b>4. </b>"
 
 During my internship, I attend events to learn about AWS, Cloud, and AI, connect with the community, and hear from industry practitioners. Each report below records the topics that interested me, my reflections, and photos from my attendance.
 
-This report currently documents **1 event**. I will add further activities toward the program's requirement of at least 3 events.
+This report currently documents **2 events**. I will add further activities toward the program's requirement of at least 3 events.
 
 ### [Event 1 Buildrathon Kickoff: Code the Future with CMC Global](4.1-Event1/)
 
@@ -24,9 +24,17 @@ The kickoff introduced Buildrathon and featured the talkshow *The Thinking Behin
 
 ---
 
-### [Event 2](4.2-Event2/)
+### [Event 2 AWS Cloud & AI Day Hanoi - Watch Party](4.2-Event2/)
 
-Attendance details, a personal reflection, and supporting photos will be added.
+&emsp; **Event Name:** AWS Cloud & AI Day Hanoi - Watch Party
+
+&emsp; **Date & Time:** 08:00 a.m. to 05:00 p.m., September 29, 2026 (UTC+7), according to the published schedule
+
+&emsp; **Location:** AWS Vietnam office, Bitexco Financial Tower, Ho Chi Minh City
+
+&emsp; **Role:** Watch party attendee
+
+I joined my teammates in Ho Chi Minh City to follow sessions broadcast from Hanoi. My report covers AI-DLC, TCBS agent workspaces, AWS Security Agent, and Agent Toolkit for AWS, with photos and references for further reading.
 
 ---
 
