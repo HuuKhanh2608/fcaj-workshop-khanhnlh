@@ -8,7 +8,7 @@ pre: "<b>4. </b>"
 
 Trong quá trình thực tập, tôi tham gia các sự kiện để tìm hiểu thêm về AWS, Cloud và AI, đồng thời tiếp xúc với cộng đồng và lắng nghe chia sẻ từ người làm trong ngành. Mỗi bài thu hoạch bên dưới ghi lại nội dung tôi quan tâm, bài học và hình ảnh tham dự.
 
-Hiện báo cáo đã cập nhật **2 sự kiện**. Tôi sẽ tiếp tục bổ sung các hoạt động thực tế để hoàn thiện yêu cầu tối thiểu 3 sự kiện của chương trình.
+Hiện báo cáo đã ghi lại **3 sự kiện**, kèm bài thu hoạch và hình ảnh tham dự.
 
 ### [Sự kiện 1 Buildrathon Kickoff: Code the Future with CMC Global](4.1-Event1/)
 
@@ -38,6 +38,14 @@ Tôi tham dự cùng các bạn trong nhóm tại TP.HCM và theo dõi các phi�
 
 ---
 
-### [Sự kiện 3](4.3-Event3/)
+### [Sự kiện 3 Fireside Chat with Dr. Werner Vogels](4.3-Event3/)
 
-Chờ bổ sung thông tin tham dự, bài thu hoạch và ảnh minh chứng.
+&emsp; **Tên sự kiện:** Fireside Chat with Dr. Werner Vogels
+
+&emsp; **Thời gian:** 08:30 đến 12:00, ngày 02/10/2026 (UTC+7)
+
+&emsp; **Địa điểm:** Văn phòng AWS Việt Nam, Bitexco Financial Tower, TP.HCM
+
+&emsp; **Vai trò:** Người tham dự trực tiếp
+
+Tôi có cơ hội trực tiếp gặp và lắng nghe Dr. Werner Vogels tại văn phòng AWS. Bài thu hoạch ghi lại cảm nhận của tôi về buổi trò chuyện, những suy ngẫm về tư duy hệ thống và trách nhiệm của người kỹ sư, cùng hướng áp dụng vào việc học và workshop cá nhân.

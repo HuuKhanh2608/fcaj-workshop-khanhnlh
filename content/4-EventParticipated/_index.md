@@ -8,7 +8,7 @@ pre: "<b>4. </b>"
 
 During my internship, I attend events to learn about AWS, Cloud, and AI, connect with the community, and hear from industry practitioners. Each report below records the topics that interested me, my reflections, and photos from my attendance.
 
-This report currently documents **2 events**. I will add further activities toward the program's requirement of at least 3 events.
+This report now documents **3 events**, with personal reflections and attendance photos.
 
 ### [Event 1 Buildrathon Kickoff: Code the Future with CMC Global](4.1-Event1/)
 
@@ -38,6 +38,14 @@ I joined my teammates in Ho Chi Minh City to follow sessions broadcast from Hano
 
 ---
 
-### [Event 3](4.3-Event3/)
+### [Event 3 Fireside Chat with Dr. Werner Vogels](4.3-Event3/)
 
-Attendance details, a personal reflection, and supporting photos will be added.
+&emsp; **Event Name:** Fireside Chat with Dr. Werner Vogels
+
+&emsp; **Date & Time:** 08:30 a.m. to 12:00 p.m., October 2, 2026 (UTC+7)
+
+&emsp; **Location:** AWS Vietnam office, Bitexco Financial Tower, Ho Chi Minh City
+
+&emsp; **Role:** In-person attendee
+
+I had the opportunity to meet and hear Dr. Werner Vogels at the AWS office. My report records the experience, my reflections on systems thinking and engineering responsibility, and ideas to apply to my studies and personal workshop.
