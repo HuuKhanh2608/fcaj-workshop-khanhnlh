@@ -32,7 +32,7 @@ Với tôi, mục tiêu khi tham gia là tìm hiểu những cách làm có th�
 
 ### Diễn giả
 
-Bảng dưới đây ghi lại một số diễn giả trong keynote và phiên bảo mật được phát từ Hà Nội. Đây là các phần trình bày tôi dùng để đối chiếu nội dung bài thu hoạch.
+Bảng dưới đây ghi lại một số diễn giả trong keynote và phiên bảo mật được phát từ Hà Nội.
 
 | STT | Diễn giả | Chức vụ | Nội dung chia sẻ |
 | --- | --- | --- | --- |
@@ -42,8 +42,6 @@ Bảng dưới đây ghi lại một số diễn giả trong keynote và phiên 
 | 4 | Mai Le | Director of Product Management, Katalon | Kiểm chứng phần mềm trong quá trình phát triển có sử dụng AI và trách nhiệm của con người với kết quả. |
 | 5 | Trung Nguyen | Technical Account Manager, AWS Vietnam | Đồng trình bày phiên AWS Security Agent: Proactive AppSec from Design to Deployment. |
 | 6 | Tan Huynh | Technical Account Manager, AWS Vietnam | Đồng trình bày phiên AWS Security Agent và quy trình kiểm tra bảo mật. |
-
-Tên và chức vụ được đối chiếu từ trang sự kiện, video keynote và slide giới thiệu diễn giả trong bộ ảnh tham dự.
 
 ### Nội dung nổi bật
 
@@ -137,12 +135,12 @@ Các ảnh dưới đây thuộc bộ ảnh tham dự của tôi và nhóm tại
 
 ### Tài liệu tham khảo
 
-Các nguồn dưới đây cung cấp bối cảnh về sự kiện chính tại Hà Nội và watch party tại TP.HCM, nơi tôi tham dự. Đây là tài liệu đối chiếu cho bài thu hoạch, bên cạnh ảnh của cá nhân và nhóm.
+Các tài liệu dưới đây giúp tìm hiểu thêm về sự kiện chính tại Hà Nội và watch party tại TP.HCM.
 
 #### Tài liệu chính thức của sự kiện
 
 1. **AWS:** [AWS Cloud and AI Day Hanoi](https://aws.amazon.com/vi/events/cloud-day-hanoi/). Trang giới thiệu chính thức về sự kiện, địa điểm tổ chức chính, các chủ đề và diễn giả tiêu biểu.
-2. **AWS:** [Lịch trình sự kiện](https://aws.amazon.com/events/cloud-day-hanoi/agenda/). Dùng để đối chiếu tên phiên, các nhóm chủ đề và lịch công bố. Lịch trình không tự xác nhận những phiên tôi thực tế đã theo dõi.
+2. **AWS:** [Lịch trình sự kiện](https://aws.amazon.com/events/cloud-day-hanoi/agenda/). Thông tin các phiên chia sẻ, nhóm chủ đề và thời gian diễn ra.
 3. **AWS Events:** [AWS Cloud & AI Day Hanoi 2026 | Keynote](https://www.youtube.com/watch?v=6lQLOOQdW9Y). Video ghi lại keynote từ Hà Nội, giúp xem lại các phần trình bày và câu chuyện ứng dụng của doanh nghiệp.
 
 #### Bài báo và bài viết về sự kiện
@@ -153,4 +151,4 @@ Các nguồn dưới đây cung cấp bối cảnh về sự kiện chính tại
 
 #### Thông tin watch party tại TP.HCM
 
-7. **AWS Events:** [Đăng ký AWS Cloud & AI Day Hanoi - Watch Party](https://apj.awsevents.com/sites/aws-cloud-day-hanoi-watch-party-attendee). Liên kết đăng ký watch party tại TP.HCM. Trang hiện trả về lỗi 404; đường dẫn gốc được giữ lại để tham khảo.
+7. **AWS Events:** [Đăng ký AWS Cloud & AI Day Hanoi - Watch Party](https://apj.awsevents.com/sites/aws-cloud-day-hanoi-watch-party-attendee).

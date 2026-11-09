@@ -32,7 +32,7 @@ My aim was to find approaches I could try on a small scale while studying and pr
 
 ### Speakers
 
-The table records selected speakers from the keynote and security session broadcast from Hanoi. These are presentations I used as references for this report.
+The table records selected speakers from the keynote and security session broadcast from Hanoi.
 
 | Order | Speaker | Position | Presentation topics |
 | --- | --- | --- | --- |
@@ -42,8 +42,6 @@ The table records selected speakers from the keynote and security session broadc
 | 4 | Mai Le | Director of Product Management, Katalon | Software validation during development with AI and human responsibility for the results. |
 | 5 | Trung Nguyen | Technical Account Manager, AWS Vietnam | Joint presentation of AWS Security Agent: Proactive AppSec from Design to Deployment. |
 | 6 | Tan Huynh | Technical Account Manager, AWS Vietnam | Joint presentation of AWS Security Agent and the security testing workflow. |
-
-Names and positions were checked against the event page, keynote recording, and speaker introduction slide in my event photos.
 
 ### Key highlights
 
@@ -137,12 +135,12 @@ These images come from my team's and my own attendance photo collection in Ho Ch
 
 ### References
 
-The sources below provide context for the main event in Hanoi and the watch party in Ho Chi Minh City, where I attended. They support the report alongside my own photos.
+The resources below offer further reading about the main event in Hanoi and the watch party in Ho Chi Minh City.
 
 #### Official event resources
 
 1. **AWS:** [AWS Cloud and AI Day Hanoi](https://aws.amazon.com/events/cloud-day-hanoi/). Official event overview, main venue, topics, and featured speakers.
-2. **AWS:** [Event agenda](https://aws.amazon.com/events/cloud-day-hanoi/agenda/). Reference for session titles, tracks, and the published schedule. The agenda alone does not establish which sessions I attended.
+2. **AWS:** [Event agenda](https://aws.amazon.com/events/cloud-day-hanoi/agenda/). Session titles, tracks, and the published schedule.
 3. **AWS Events:** [AWS Cloud & AI Day Hanoi 2026 | Keynote](https://www.youtube.com/watch?v=6lQLOOQdW9Y). Recording of the keynote broadcast from Hanoi, provided for revisiting the presentations and customer stories.
 
 #### Event coverage and articles
@@ -153,4 +151,4 @@ The sources below provide context for the main event in Hanoi and the watch part
 
 #### Ho Chi Minh City watch party
 
-7. **AWS Events:** [AWS Cloud & AI Day Hanoi - Watch Party registration](https://apj.awsevents.com/sites/aws-cloud-day-hanoi-watch-party-attendee). Registration link for the watch party in Ho Chi Minh City. The page currently returns a 404 error; the original link is retained for reference.
+7. **AWS Events:** [AWS Cloud & AI Day Hanoi - Watch Party registration](https://apj.awsevents.com/sites/aws-cloud-day-hanoi-watch-party-attendee).
