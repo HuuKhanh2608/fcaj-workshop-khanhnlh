@@ -42,14 +42,52 @@ The table records selected speakers from the keynote and security session broadc
 | 4 | Mai Le | Director of Product Management, Katalon | Software validation during development with AI and human responsibility for the results. |
 | 5 | Trung Nguyen | Technical Account Manager, AWS Vietnam | Joint presentation of AWS Security Agent: Proactive AppSec from Design to Deployment. |
 | 6 | Tan Huynh | Technical Account Manager, AWS Vietnam | Joint presentation of AWS Security Agent and the security testing workflow. |
+| 7 | Hoàng Minh | Deputy Minister of Science and Technology | Opening remarks at the event. |
+| 8 | Jennifer Wicks | U.S. Ambassador to Vietnam | Technology cooperation, digital infrastructure, and workforce development. |
 
 ### Key highlights
 
-#### Keynote: cloud infrastructure and software validation
+#### Opening and AI adoption in Vietnam
 
-The keynote placed AI adoption stories alongside the engineering work behind a system. Werner Vogels discussed databases, Nitro, Lambda, and time synchronization. These are topics I want to revisit to understand why a service is designed a certain way and when to use it.
+Eric Yeo opened the program, introduced the guests and speakers, and thanked the event partners. Deputy Minister Hoàng Minh and Ambassador Jennifer Wicks then delivered their remarks. Jennifer Wicks discussed the role of cloud computing in business, technology cooperation between Vietnam and the United States, and the development of infrastructure and workforce skills.
 
-Mai Le's presentation connected with my own programming studies: as AI produces changes faster, the person doing the work still needs to check whether those changes meet the requirements. For my exercises, I want to keep test results and records of errors so I can explain what I have achieved with evidence.
+Returning to the stage, Eric Yeo spoke about AWS's twentieth anniversary and the AWS Local Zone in Hanoi. He introduced examples from several industries: OmiGroup's research into chronic diseases with links to medical evidence, Vinasoy's monitoring of retail product displays, and Agris's use of data across agricultural operations. These examples helped me understand the specific problems each business wanted to address with Cloud and AI.
+
+#### Techcombank: preparing the platform and people to use AI
+
+Jens Lottner explained how Techcombank organizes AI adoption. Building on its existing data foundation and AWS services, the bank added a platform for coordinating agents, workflows, access permissions, and controls. Employees can use prepared agents or build workflows suited to their own tasks.
+
+One example that caught my attention was AI Coach, which helps employees select models, write requests, and consider usage costs. The presentation also covered training at different skill levels so employees can use and operate these tools.
+
+Three areas of application were introduced: software development, incident coordination, and support for staff working with customers. In the incident example, an agent coordinates information between operations and customer-facing teams so remediation and customer updates can proceed together. At the end of his presentation, Jens Lottner discussed cost, return on investment, talent, and risk management. These are questions I also need to consider when choosing a problem to explore with AI.
+
+#### The FCAJ community and a greeting to Ho Chi Minh City
+
+Eric Yeo continued with AWS training activities, First Cloud and AI Journey, and AWS Academy. He shared stories of people who started learning cloud, secured internships, and returned to support the community. This part related closely to my own internship, where learning needs practical work and opportunities to speak with more experienced people.
+
+Before inviting Werner Vogels onto the stage, Eric Yeo greeted the community watching the livestream in Ho Chi Minh City. I wanted to record this moment because my team was attending at that location.
+
+#### Werner Vogels: the engineering behind cloud services
+
+Werner Vogels recalled a database incident during a peak shopping period at Amazon. By reviewing how applications accessed their data, the team found that many needs could be served by a key-value model. His example of retrieving a shopping cart by customer ID helped me understand why actual query patterns matter when choosing a database.
+
+He then presented three stories about improvements behind the services:
+
+- **AWS Nitro:** Moving much of the I/O work to dedicated hardware reduces the burden on the hypervisor and improves isolation. This example showed how an infrastructure change can affect both performance and security.
+- **Lambda, Firecracker, and SnapStart:** Starting with the need to process a file uploaded to S3, the presentation explored running small functions with suitable isolation and cost. Firecracker was introduced through its microVM approach, while SnapStart was explained through saving initialized state to reduce startup time.
+- **Time synchronization:** He described the difficulty of ordering events across multiple machines and how AWS provides accurate time with explicit error bounds. I want to study this further when learning about data and distributed systems.
+
+These examples made the work behind familiar actions, such as creating a virtual machine or running a Lambda function, easier to understand. When studying a service, I need to understand the problem it solves and the conditions that affect its use.
+
+#### Katalon: validating software as AI generates code faster
+
+Mai Le began with a familiar coding-agent interaction: the user points out an error, and the agent agrees to correct it. She used this to introduce the gap between the speed of software creation and the capacity to validate it. When testing falls behind, errors can reach end users.
+
+The presentation described connecting requirements, code changes, tests, execution results, defects, and production data to assess a release. Agents need this context to identify changes, select what to test, run the tests, and gather evidence. People remain responsible for setting risk boundaries, reviewing exceptions, and approving releases.
+
+Mai Le also described the roles of Amazon EKS, RDS, S3, and Kinesis in Katalon's platform, alongside Amazon Bedrock and AgentCore Runtime for its AI capabilities. The point I want to apply to my own work is to keep actual verification results, such as logs, screenshots, and test outcomes, so I can explain why a feature meets its requirements.
+
+To close the keynote, Werner Vogels returned to the validation work that can accumulate as more code is generated, and to engineers' professional responsibility. He spoke about work that users rarely see but that still requires care. I connected this with error handling, testing, and resource cleanup in my own workshop.
 
 #### AI-DLC and how TCBS organizes work for agents
 
@@ -83,6 +121,12 @@ I am interested in where an agent gets its information and which actions it can 
 - Test successful behavior and error cases.
 - Keep practice results so I can explain my decisions.
 
+#### Choose an approach based on the actual problem
+
+- Understand how data will be read and written before choosing a database.
+- When trying AI, consider usage costs, access permissions, and the time needed to check results.
+- Make time to learn the tools and assess their output, as illustrated by the employee training in Techcombank's presentation.
+
 #### Include security in the practice plan
 
 - Review permissions and resource scope before running a tool.
@@ -94,6 +138,8 @@ I am interested in where an agent gets its information and which actions it can 
 I plan to begin with my personal workshop. For each feature, I will write a short requirement, identify the expected outcome, and define a check before asking AI for help. I will then review the changes, run the exercise, and record the results in my worklog.
 
 For MCP and Agent Toolkit for AWS, I want to try a task in a practice environment with a defined scope. I will record the setup, any problems encountered, and the checks I complete after trying it.
+
+Following the keynote, I also want to add a short explanation of data access patterns and service choices to my workshop design. For each feature change, I will retain the original requirement, the changes made, and verification evidence to refer to when preparing my report or demo.
 
 ### Event experience
 
@@ -141,7 +187,7 @@ The resources below offer further reading about the main event in Hanoi and the 
 
 1. **AWS:** [AWS Cloud and AI Day Hanoi](https://aws.amazon.com/events/cloud-day-hanoi/). Official event overview, main venue, topics, and featured speakers.
 2. **AWS:** [Event agenda](https://aws.amazon.com/events/cloud-day-hanoi/agenda/). Session titles, tracks, and the published schedule.
-3. **AWS Events:** [AWS Cloud & AI Day Hanoi 2026 | Keynote](https://www.youtube.com/watch?v=6lQLOOQdW9Y). Recording of the keynote broadcast from Hanoi, provided for revisiting the presentations and customer stories.
+3. **AWS Events:** [AWS Cloud & AI Day Hanoi 2026 | Keynote](https://www.youtube.com/watch?v=6lQLOOQdW9Y). Revisit [Techcombank at 20:52](https://www.youtube.com/watch?v=6lQLOOQdW9Y&t=1252s), [the greeting to Ho Chi Minh City at 35:57](https://www.youtube.com/watch?v=6lQLOOQdW9Y&t=2157s), [Werner Vogels at 37:48](https://www.youtube.com/watch?v=6lQLOOQdW9Y&t=2268s), and [Katalon at 1:09:54](https://www.youtube.com/watch?v=6lQLOOQdW9Y&t=4194s).
 
 #### Event coverage and articles
 
