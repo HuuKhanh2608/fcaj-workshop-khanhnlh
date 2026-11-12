@@ -48,9 +48,9 @@ Activities from December 7 to December 14, 2026 will be recorded here.
 
 The materials below are cited in the Reference Material column of the weekly worklogs.
 
-1. **AWS Study Group:** [First Cloud Journey Bootcamp playlist](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i). Theory videos for Modules 01–07 and lab walkthroughs.
+1. **AWS Study Group:** [First Cloud Journey Bootcamp playlist](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i). Theory videos for Modules 01–07 and lab walkthroughs; each video is also linked directly in the weekly tables.
 2. **First Cloud AI Journey:** [The First Cloud Journey labs](https://cloudjourney.awsfcaj.com/). Hands-on guides; each lab is hosted at `https://0000NN.awsfcaj.com/`:
-   * Module 01: [Lab01 – AWS account](https://000001.awsfcaj.com/), [Lab07 – AWS Budgets](https://000007.awsfcaj.com/), [Lab09 – AWS Support](https://000009.awsfcaj.com/)
+   * Module 01: [Lab01 – AWS account](https://000001.awsfcaj.com/), [Lab IAM – Access management with IAM](https://000002.awsfcaj.com/), [Lab07 – AWS Budgets](https://000007.awsfcaj.com/), [Lab09 – AWS Support](https://000009.awsfcaj.com/)
    * Module 02: [Lab03 – VPC and Site-to-Site VPN](https://000003.awsfcaj.com/), [Lab10 – Hybrid DNS with Route 53 Resolver](https://000010.awsfcaj.com/), [Lab19 – VPC Peering](https://000019.awsfcaj.com/), [Lab20 – Transit Gateway](https://000020.awsfcaj.com/)
    * Module 03: [Lab04 – Amazon EC2](https://000004.awsfcaj.com/), [Lab13 – AWS Backup](https://000013.awsfcaj.com/)
    * Module 04: [Lab57 – Amazon S3 and CloudFront](https://000057.awsfcaj.com/), [Lab24 – Storage Gateway](https://000024.awsfcaj.com/), [Lab14 – VM Import/Export](https://000014.awsfcaj.com/), [Lab25 – FSx for Windows File Server](https://000025.awsfcaj.com/)

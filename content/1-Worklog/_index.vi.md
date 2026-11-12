@@ -48,9 +48,9 @@ Các hoạt động từ ngày 07/12 đến ngày 14/12/2026 sẽ được ghi t
 
 Các tài liệu dưới đây được trích dẫn trong cột Nguồn tài liệu của worklog từng tuần.
 
-1. **AWS Study Group:** [Playlist First Cloud Journey Bootcamp](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i). Video lý thuyết Module 01–07 và video hướng dẫn lab.
+1. **AWS Study Group:** [Playlist First Cloud Journey Bootcamp](https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i). Video lý thuyết Module 01–07 và video hướng dẫn lab; từng video được dẫn link trực tiếp trong bảng của mỗi tuần.
 2. **First Cloud AI Journey:** [Hệ thống lab The First Cloud Journey](https://cloudjourney.awsfcaj.com/). Hướng dẫn thực hành; mỗi lab nằm tại `https://0000NN.awsfcaj.com/`:
-   * Module 01: [Lab01 – Tài khoản AWS](https://000001.awsfcaj.com/), [Lab07 – AWS Budgets](https://000007.awsfcaj.com/), [Lab09 – AWS Support](https://000009.awsfcaj.com/)
+   * Module 01: [Lab01 – Tài khoản AWS](https://000001.awsfcaj.com/), [Lab IAM – Quản lý truy cập với IAM](https://000002.awsfcaj.com/), [Lab07 – AWS Budgets](https://000007.awsfcaj.com/), [Lab09 – AWS Support](https://000009.awsfcaj.com/)
    * Module 02: [Lab03 – VPC và Site-to-Site VPN](https://000003.awsfcaj.com/), [Lab10 – Hybrid DNS với Route 53 Resolver](https://000010.awsfcaj.com/), [Lab19 – VPC Peering](https://000019.awsfcaj.com/), [Lab20 – Transit Gateway](https://000020.awsfcaj.com/)
    * Module 03: [Lab04 – Amazon EC2](https://000004.awsfcaj.com/), [Lab13 – AWS Backup](https://000013.awsfcaj.com/)
    * Module 04: [Lab57 – Amazon S3 và CloudFront](https://000057.awsfcaj.com/), [Lab24 – Storage Gateway](https://000024.awsfcaj.com/), [Lab14 – VM Import/Export](https://000014.awsfcaj.com/), [Lab25 – FSx for Windows File Server](https://000025.awsfcaj.com/)
