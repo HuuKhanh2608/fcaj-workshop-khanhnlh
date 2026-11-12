@@ -13,11 +13,11 @@ pre: "<b>1.10. </b>"
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - To be updated | 11/16/2026 | 11/16/2026 | |
-| 3 | - To be updated | 11/17/2026 | 11/17/2026 | |
-| 4 | - To be updated | 11/18/2026 | 11/18/2026 | |
-| 5 | - To be updated | 11/19/2026 | 11/19/2026 | |
-| 6 | - To be updated | 11/20/2026 | 11/20/2026 | |
+| 2 | - To be updated | 16/11/26 | 16/11/26 | |
+| 3 | - To be updated | 17/11/26 | 17/11/26 | |
+| 4 | - To be updated | 18/11/26 | 18/11/26 | |
+| 5 | - To be updated | 19/11/26 | 19/11/26 | |
+| 6 | - To be updated | 20/11/26 | 20/11/26 | |
 
 ### Week 10 Achievements:
 

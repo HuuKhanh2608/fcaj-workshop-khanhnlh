@@ -13,11 +13,11 @@ pre: "<b>1.12. </b>"
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - To be updated | 11/30/2026 | 11/30/2026 | |
-| 3 | - To be updated | 12/01/2026 | 12/01/2026 | |
-| 4 | - To be updated | 12/02/2026 | 12/02/2026 | |
-| 5 | - To be updated | 12/03/2026 | 12/03/2026 | |
-| 6 | - To be updated | 12/04/2026 | 12/04/2026 | |
+| 2 | - To be updated | 30/11/26 | 30/11/26 | |
+| 3 | - To be updated | 01/12/26 | 01/12/26 | |
+| 4 | - To be updated | 02/12/26 | 02/12/26 | |
+| 5 | - To be updated | 03/12/26 | 03/12/26 | |
+| 6 | - To be updated | 04/12/26 | 04/12/26 | |
 
 ### Week 12 Achievements:
 
