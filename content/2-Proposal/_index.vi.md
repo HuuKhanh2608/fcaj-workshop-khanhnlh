@@ -1,73 +1,78 @@
 ---
-title: "Đề xuất dự án"
+title: "Bản đề xuất"
 date: 2026-11-05
 weight: 2
 chapter: false
 pre: "<b>2. </b>"
 ---
 
-> **Bản nháp đang hoàn thiện.** Nội dung sẽ được cập nhật từ quá trình học tập, triển khai và minh chứng thực tế của Nguyễn Lê Hữu Khánh.
+# Tên đề tài: chờ xác nhận
+## Mô tả ngắn giải pháp: chờ xác nhận
 
-## Tổng quan đề xuất
+### 1. Tóm tắt điều hành
+Chờ cập nhật: đối tượng sử dụng, bài toán, giải pháp AWS đề xuất và chi phí ước tính hằng tháng.
 
-| Thông tin | Nội dung |
-| --- | --- |
-| Tên đề tài | Chờ xác nhận |
-| Người thực hiện | Nguyễn Lê Hữu Khánh |
-| Đối tượng sử dụng | Chưa xác định |
-| Tình trạng | Chuẩn bị đề xuất |
+### 2. Tuyên bố vấn đề
+### Vấn đề là gì?
+Chờ cập nhật: bối cảnh, đối tượng gặp vấn đề, cách xử lý hiện tại và hạn chế.
 
-## Bài toán và nhu cầu thực tế
+### Giải pháp
+Chờ cập nhật: giải pháp xử lý vấn đề như thế nào và sử dụng những dịch vụ AWS nào (tối thiểu 3 dịch vụ).
 
-Chưa cập nhật bối cảnh, đối tượng gặp vấn đề, cách xử lý hiện tại và hạn chế cần giải quyết.
+### Lợi ích và hoàn vốn đầu tư (ROI)
+Chờ cập nhật.
 
-## Mục tiêu, phạm vi và tiêu chí hoàn thành
+### 3. Kiến trúc giải pháp
+Sơ đồ kiến trúc do tôi tự thiết kế, dùng icon AWS chính thức và thể hiện luồng dữ liệu. Hình và tệp nguồn có thể chỉnh sửa sẽ được đính kèm sau khi xác nhận kiến trúc.
 
-| Mục tiêu | Đầu ra mong muốn | Chỉ số / ngưỡng mục tiêu | Cách xác nhận |
+### Dịch vụ AWS sử dụng
+- **Chờ lựa chọn**: vai trò và lý do lựa chọn.
+
+### Thiết kế thành phần
+- Chờ cập nhật.
+
+### 4. Triển khai kỹ thuật
+**Các giai đoạn triển khai**
+- Xác định bài toán và phạm vi: bản đề xuất và tiêu chí hoàn thành.
+- Thiết kế và dự toán: sơ đồ kiến trúc, lựa chọn dịch vụ và bảng ước tính chi phí.
+- Triển khai và kiểm thử: mã nguồn, hướng dẫn triển khai, logs và kết quả kiểm thử.
+- Hoàn thiện và rà soát: demo, tài liệu song ngữ và dọn dẹp tài nguyên.
+
+**Yêu cầu kỹ thuật**
+- Chờ cập nhật.
+
+### 5. Lộ trình & Mốc triển khai
+**Lộ trình dự án**
+- Chờ cập nhật: thời gian và kết quả bàn giao của từng giai đoạn.
+
+### 6. Ước tính ngân sách
+Liên kết bản ước tính AWS Pricing Calculator và tệp xuất sẽ được bổ sung tại đây. Bảng chi phí chi tiết được cập nhật đồng bộ tại [Chi phí và tối ưu](../5-Workshop/5.6-Cost/).
+
+### Chi phí hạ tầng
+| Dịch vụ / tài nguyên | Region | Giả định sử dụng / tháng | Chi phí USD / tháng |
 | --- | --- | --- | --- |
-| Chờ xác định | Chờ xác định | Chưa đặt ngưỡng | Chưa xác định |
+| Chờ lựa chọn | Chờ cập nhật | Chờ cập nhật | Chờ ước tính |
+| **Tổng** | — | — | **Chờ ước tính** |
 
-Phạm vi thực hiện và những phần dự kiến phát triển sau sẽ được xác định khi chọn đề tài.
+### 7. Đánh giá rủi ro
+#### Ma trận rủi ro
+- Phát sinh chi phí AWS ngoài dự kiến: chờ đánh giá mức ảnh hưởng và khả năng xảy ra.
+- Quyền truy cập quá rộng hoặc lộ thông tin bí mật: chờ đánh giá mức ảnh hưởng và khả năng xảy ra.
+- Lỗi triển khai hoặc mất dữ liệu: chờ đánh giá mức ảnh hưởng và khả năng xảy ra.
+- Không kịp mốc nộp: chờ đánh giá mức ảnh hưởng và khả năng xảy ra.
 
-## Kiến trúc giải pháp sơ bộ
+#### Chiến lược giảm thiểu
+- Chi phí: cảnh báo AWS Budgets và dọn dẹp toàn bộ tài nguyên sau khi kiểm thử.
+- Bảo mật: IAM theo nguyên tắc least privilege và quản lý thông tin bí mật.
+- Độ tin cậy: retry và sao lưu khi phù hợp.
+- Tiến độ: giới hạn phạm vi và kiểm tra mốc timeline.
 
-Chờ sơ đồ do tôi tự thiết kế, dùng icon AWS chính thức và thể hiện rõ luồng dữ liệu. Bản vẽ cùng tệp nguồn sẽ được đính kèm sau khi xác nhận kiến trúc. Định hướng workshop sử dụng ít nhất 3 dịch vụ AWS phù hợp bài toán.
+#### Kế hoạch dự phòng
+- Chờ cập nhật.
 
-| Dịch vụ AWS dự kiến | Vai trò | Lý do lựa chọn | Phương án thay thế / đánh đổi |
-| --- | --- | --- | --- |
-| Chờ lựa chọn | Chờ xác định | Chờ phân tích | Chờ phân tích |
+### 8. Kết quả kỳ vọng
+#### Cải tiến kỹ thuật
+Chờ cập nhật.
 
-## Kế hoạch và timeline
-
-| Giai đoạn | Thời gian | Đầu ra | Tình trạng |
-| --- | --- | --- | --- |
-| Xác định bài toán và phạm vi | Chờ xác nhận | Đề xuất và tiêu chí hoàn thành | Chưa cập nhật |
-| Thiết kế kiến trúc và dự toán | Chờ xác nhận | Sơ đồ, dịch vụ và bảng COST | Chưa cập nhật |
-| Triển khai và kiểm thử | Chờ xác nhận | Mã nguồn, hướng dẫn, logs và kết quả test | Chưa cập nhật |
-| Hoàn thiện và rà soát | Chờ xác nhận | Demo, tài liệu vi/en và clean-up | Chưa cập nhật |
-
-## Dự toán ngân sách và chi phí — COST
-
-Chờ mô hình tải, Region, đơn giá và bản ước tính AWS Pricing Calculator cho đề tài cá nhân. Bảng chi tiết sẽ được cập nhật đồng bộ tại [Chi phí và tối ưu](../5-Workshop/5.6-Cost/).
-
-| Dịch vụ / tài nguyên | Region | Giả định sử dụng / tháng | Chi phí USD / tháng | Nguồn và ngày ước tính |
-| --- | --- | --- | --- | --- |
-| Chưa lựa chọn | Chưa xác định | Chưa có dữ liệu | Chưa ước tính | Chưa bổ sung |
-| **Tổng** | — | — | **Chưa ước tính** | — |
-
-Liên kết bản dự toán và tệp xuất: chưa có. Chi phí Free Tier, chi phí một lần, vận hành và truyền dữ liệu sẽ được phân biệt khi có mô hình triển khai.
-
-## Rủi ro và phương án giảm thiểu
-
-Các dòng dưới đây là nội dung cần đánh giá trong kế hoạch; mức ảnh hưởng và giải pháp áp dụng sẽ được xác định theo kiến trúc thực tế.
-
-| Rủi ro cần xem xét | Ảnh hưởng / khả năng | Phương án cần xác định |
-| --- | --- | --- |
-| Phát sinh chi phí ngoài dự kiến | Chờ đánh giá | Ngân sách, cảnh báo và clean-up |
-| Quyền truy cập quá rộng hoặc lộ thông tin bí mật | Chờ đánh giá | Least privilege và quản lý thông tin bí mật |
-| Lỗi triển khai hoặc mất dữ liệu | Chờ đánh giá | Khôi phục, retry / sao lưu nếu phù hợp |
-| Không kịp mốc nộp | Chờ đánh giá | Giới hạn phạm vi và xác nhận timeline |
-
-## Kết quả kỳ vọng
-
-Chờ xác định giá trị cho người sử dụng, sản phẩm bàn giao và hướng phát triển. Hướng dẫn triển khai sẽ được viết tại [Workshop cá nhân](../5-Workshop/).
+#### Giá trị dài hạn
+Chờ cập nhật. Hướng dẫn triển khai được trình bày tại [Workshop](../5-Workshop/).

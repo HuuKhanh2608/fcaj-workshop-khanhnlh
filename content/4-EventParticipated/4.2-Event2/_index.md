@@ -1,10 +1,12 @@
 ---
-title: "AWS Cloud & AI Day Hanoi - Watch Party"
+title: "Event 2"
 date: 2026-09-29
 weight: 2
 chapter: false
 pre: "<b>4.2. </b>"
 ---
+
+# Summary Report: “AWS Cloud & AI Day Hanoi - Watch Party”
 
 ### Event information
 

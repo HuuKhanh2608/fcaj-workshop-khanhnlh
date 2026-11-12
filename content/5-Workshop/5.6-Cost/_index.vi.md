@@ -41,4 +41,4 @@ Chờ cấu hình ngân sách, ngưỡng cảnh báo và người nhận; đối
 
 ## Đối chiếu proposal
 
-Khi có số liệu, cập nhật đồng bộ bảng trong [Đề xuất dự án](../../2-Proposal/) và ghi rõ nguyên nhân chênh lệch giữa ước tính và thực tế.
+Khi có số liệu, cập nhật đồng bộ bảng trong [Bản đề xuất](../../2-Proposal/) và ghi rõ nguyên nhân chênh lệch giữa ước tính và thực tế.

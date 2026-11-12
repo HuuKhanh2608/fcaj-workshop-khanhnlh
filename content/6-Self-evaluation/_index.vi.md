@@ -6,33 +6,27 @@ chapter: false
 pre: "<b>6. </b>"
 ---
 
-> **Bản nháp đang hoàn thiện.** Nội dung sẽ được cập nhật từ quá trình học tập, triển khai và minh chứng thực tế của Nguyễn Lê Hữu Khánh.
+Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Viet Nam** (chương trình First Cloud AI Journey Workforce Bootcamp) từ **14/09/2026** đến **14/12/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã học ở trường vào môi trường làm việc thực tế.
 
-## Đánh giá theo tiêu chí
+Dự án, công việc chính và các kỹ năng đã cải thiện sẽ được tổng kết tại đây sau khi hoàn thành worklog và workshop.
 
-Tôi sẽ chọn một mức **Tốt / Khá / Trung bình** cho mỗi tiêu chí sau khi có dữ liệu thực tế, kèm nhận xét cụ thể và dẫn chứng từ worklog, workshop hoặc hoạt động cộng đồng.
+Để phản ánh một cách khách quan quá trình thực tập, tôi tự đánh giá bản thân dựa trên các tiêu chí dưới đây:
 
-| Tiêu chí | Tốt | Khá | Trung bình | Nhận xét và dẫn chứng |
-| --- | --- | --- | --- | --- |
-| Kiến thức chuyên môn | ☐ | ☐ | ☐ | Chưa tự đánh giá |
-| Khả năng tự học và nghiên cứu | ☐ | ☐ | ☐ | Chưa tự đánh giá |
-| Tính chủ động | ☐ | ☐ | ☐ | Chưa tự đánh giá |
-| Kỷ luật và tuân thủ quy định | ☐ | ☐ | ☐ | Chưa tự đánh giá |
-| Kỹ năng giao tiếp | ☐ | ☐ | ☐ | Chưa tự đánh giá |
-| Làm việc nhóm | ☐ | ☐ | ☐ | Chưa tự đánh giá |
-| Năng lực giải quyết vấn đề | ☐ | ☐ | ☐ | Chưa tự đánh giá |
-| Đóng góp cho workshop | ☐ | ☐ | ☐ | Chưa tự đánh giá |
+| STT | Tiêu chí | Mô tả | Tốt | Khá | Trung bình | Nhận xét |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | **Kiến thức và kỹ năng chuyên môn** | Hiểu biết về ngành, áp dụng kiến thức vào thực tế, kỹ năng sử dụng công cụ, chất lượng công việc | ☐ | ☐ | ☐ | Chờ cập nhật |
+| 2 | **Khả năng tự học và nghiên cứu** | Tiếp thu kiến thức mới nhanh và tự nghiên cứu | ☐ | ☐ | ☐ | Chờ cập nhật |
+| 3 | **Chủ động** | Tự tìm hiểu, nhận nhiệm vụ mà không chờ chỉ dẫn | ☐ | ☐ | ☐ | Chờ cập nhật |
+| 4 | **Tinh thần trách nhiệm** | Hoàn thành công việc đúng hạn, đảm bảo chất lượng | ☐ | ☐ | ☐ | Chờ cập nhật |
+| 5 | **Kỷ luật và tuân thủ quy định** | Tuân thủ giờ giấc, nội quy, quy trình làm việc | ☐ | ☐ | ☐ | Chờ cập nhật |
+| 6 | **Tính cầu tiến** | Sẵn sàng nhận feedback và cải thiện bản thân | ☐ | ☐ | ☐ | Chờ cập nhật |
+| 7 | **Giao tiếp** | Trình bày ý tưởng, báo cáo công việc rõ ràng | ☐ | ☐ | ☐ | Chờ cập nhật |
+| 8 | **Hợp tác nhóm** | Làm việc hiệu quả với đồng nghiệp, tham gia nhóm | ☐ | ☐ | ☐ | Chờ cập nhật |
+| 9 | **Ứng xử chuyên nghiệp** | Tôn trọng đồng nghiệp, đối tác, môi trường làm việc | ☐ | ☐ | ☐ | Chờ cập nhật |
+| 10 | **Tư duy giải quyết vấn đề** | Nhận diện vấn đề, đề xuất giải pháp, sáng tạo | ☐ | ☐ | ☐ | Chờ cập nhật |
+| 11 | **Đóng góp cho Workshop** | Hiệu quả công việc, ý tưởng và chất lượng workshop cá nhân | ☐ | ☐ | ☐ | Chờ cập nhật |
+| 12 | **Tổng thể** | Đánh giá chung về toàn bộ quá trình thực tập | ☐ | ☐ | ☐ | Chờ cập nhật |
 
-## Điểm mạnh
+### Cần cải thiện
 
-Chưa cập nhật nhận xét cá nhân và minh chứng.
-
-## Điểm cần cải thiện và hành động
-
-| Nội dung cần cải thiện | Hành động cụ thể | Thời hạn | Cách theo dõi |
-| --- | --- | --- | --- |
-| Chưa xác định | Chưa xác định | Chưa xác định | Chưa xác định |
-
-## Tổng kết quá trình thực tập
-
-Chờ tổng kết kiến thức, kỹ năng và đóng góp sau khi đối chiếu kết quả thực tế.
+* Chờ cập nhật.

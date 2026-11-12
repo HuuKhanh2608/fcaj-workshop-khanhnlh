@@ -10,7 +10,7 @@ During my internship, I attend events to learn about AWS, Cloud, and AI, connect
 
 This report now documents **3 events**, with personal reflections and attendance photos.
 
-### [Event 1 Buildrathon Kickoff: Code the Future with CMC Global](4.1-Event1/)
+### [Event 1](4.1-Event1/)
 
 &emsp; **Event Name:** Buildrathon Kickoff: Code the Future with CMC Global
 
@@ -24,7 +24,7 @@ The kickoff introduced Buildrathon and featured the talkshow *The Thinking Behin
 
 ---
 
-### [Event 2 AWS Cloud & AI Day Hanoi - Watch Party](4.2-Event2/)
+### [Event 2](4.2-Event2/)
 
 &emsp; **Event Name:** AWS Cloud & AI Day Hanoi - Watch Party
 
@@ -38,7 +38,7 @@ I joined my teammates in Ho Chi Minh City to follow sessions broadcast from Hano
 
 ---
 
-### [Event 3 Fireside Chat with Dr. Werner Vogels](4.3-Event3/)
+### [Event 3](4.3-Event3/)
 
 &emsp; **Event Name:** Fireside Chat with Dr. Werner Vogels
 

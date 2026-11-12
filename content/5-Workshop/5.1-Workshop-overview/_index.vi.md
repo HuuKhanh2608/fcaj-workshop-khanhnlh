@@ -20,7 +20,7 @@ Chờ mô tả bài toán thực tế, người dùng mục tiêu và lý do c�
 
 ## Sản phẩm bàn giao
 
-Chờ xác định ứng dụng hoặc pipeline, mã nguồn, tài liệu triển khai, sơ đồ kiến trúc và demo. Đề xuất sẽ được cập nhật tại [Đề xuất dự án](../../2-Proposal/).
+Chờ xác định ứng dụng hoặc pipeline, mã nguồn, tài liệu triển khai, sơ đồ kiến trúc và demo. Đề xuất sẽ được cập nhật tại [Bản đề xuất](../../2-Proposal/).
 
 ## Lộ trình thực hành
 

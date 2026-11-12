@@ -6,6 +6,7 @@ Nguồn đối chiếu: quy định FCAJ do người dùng cung cấp ngày 05/1
 
 - [x] Thời gian thực tập đã xác nhận từ 14/09 đến 14/12/2026.
 - [ ] Ảnh cá nhân.
+- [ ] Mã lớp (trường Class / Lớp ở trang chủ, theo template).
 - [ ] Ngày cần mộc; tính hạn nộp workshop trước ngày đó 15 ngày.
 - [ ] Đề tài cá nhân, đối tượng sử dụng, phạm vi và ít nhất 3 dịch vụ AWS phù hợp.
 - [ ] Nhật ký đã thực hiện, các bài đăng và sự kiện có minh chứng.

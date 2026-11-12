@@ -6,33 +6,27 @@ chapter: false
 pre: "<b>6. </b>"
 ---
 
-> **Draft in progress.** Content will be updated from Nguyễn Lê Hữu Khánh’s learning, implementation work, and actual supporting evidence.
+During my internship at **Amazon Web Services Viet Nam Company Limited** (First Cloud AI Journey Workforce Bootcamp) from **14/09/2026** to **14/12/2026**, I had the opportunity to learn, practice, and apply what I studied at university in a real working environment.
 
-## Criteria-based assessment
+The main project, tasks, and skills I improved will be summarized here once my worklog and workshop are complete.
 
-I will choose one level, **Good / Fair / Average**, for each criterion once actual evidence is available, with specific comments supported by my worklog, workshop, or community activities.
+To reflect objectively on my internship, I evaluate myself against the following criteria:
 
-| Criterion | Good | Fair | Average | Comments and evidence |
-| --- | --- | --- | --- | --- |
-| Professional knowledge | ☐ | ☐ | ☐ | Not yet assessed |
-| Self-directed learning and research | ☐ | ☐ | ☐ | Not yet assessed |
-| Proactiveness | ☐ | ☐ | ☐ | Not yet assessed |
-| Discipline and compliance | ☐ | ☐ | ☐ | Not yet assessed |
-| Communication | ☐ | ☐ | ☐ | Not yet assessed |
-| Teamwork | ☐ | ☐ | ☐ | Not yet assessed |
-| Problem solving | ☐ | ☐ | ☐ | Not yet assessed |
-| Workshop contribution | ☐ | ☐ | ☐ | Not yet assessed |
+| No. | Criteria | Description | Good | Fair | Average | Comments |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | **Professional knowledge & skills** | Understanding of the field, applying knowledge in practice, proficiency with tools, work quality | ☐ | ☐ | ☐ | To be updated |
+| 2 | **Self-learning & research ability** | Absorbing new knowledge quickly and researching independently | ☐ | ☐ | ☐ | To be updated |
+| 3 | **Proactiveness** | Taking initiative, seeking out tasks without waiting for instructions | ☐ | ☐ | ☐ | To be updated |
+| 4 | **Sense of responsibility** | Completing tasks on time and ensuring quality | ☐ | ☐ | ☐ | To be updated |
+| 5 | **Discipline & compliance** | Adhering to schedules, rules, and work processes | ☐ | ☐ | ☐ | To be updated |
+| 6 | **Progressive mindset** | Willingness to receive feedback and improve oneself | ☐ | ☐ | ☐ | To be updated |
+| 7 | **Communication** | Presenting ideas and reporting work clearly | ☐ | ☐ | ☐ | To be updated |
+| 8 | **Teamwork** | Working effectively with colleagues and participating in teams | ☐ | ☐ | ☐ | To be updated |
+| 9 | **Professional conduct** | Respecting colleagues, partners, and the work environment | ☐ | ☐ | ☐ | To be updated |
+| 10 | **Problem-solving skills** | Identifying problems, proposing solutions, and showing creativity | ☐ | ☐ | ☐ | To be updated |
+| 11 | **Contribution to the workshop** | Work effectiveness, ideas, and quality of the personal workshop | ☐ | ☐ | ☐ | To be updated |
+| 12 | **Overall** | General evaluation of the entire internship period | ☐ | ☐ | ☐ | To be updated |
 
-## Strengths
+### Needs Improvement
 
-Personal comments and supporting evidence are pending.
-
-## Improvement areas and actions
-
-| Improvement area | Specific action | Deadline | Follow-up method |
-| --- | --- | --- | --- |
-| To be defined | To be defined | To be defined | To be defined |
-
-## Internship reflection
-
-A summary of knowledge, skills, and contributions will be added after reviewing actual outcomes.
+* To be updated.

@@ -1,41 +1,24 @@
 ---
-title: "Week 6 worklog"
+title: "Week 6 Worklog"
 date: 2026-11-05
 weight: 6
 chapter: false
 pre: "<b>1.6. </b>"
 ---
 
-**Provisional period:** 19/10/2026–23/10/2026 (DD/MM/YYYY). **Status:** Awaiting actual daily records.
+### Week 6 Objectives:
 
-## Week 6 objectives
+* To be updated.
 
-Personal objectives have not been added yet.
-
-## Daily worklog
-
-| Date | Actual work | Outcome / status | References | Evidence |
+### Tasks to be carried out this week:
+| Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| Monday · 19/10/2026 | Not yet updated | Not yet updated | Pending | Pending |
-| Tuesday · 20/10/2026 | Not yet updated | Not yet updated | Pending | Pending |
-| Wednesday · 21/10/2026 | Not yet updated | Not yet updated | Pending | Pending |
-| Thursday · 22/10/2026 | Not yet updated | Not yet updated | Pending | Pending |
-| Friday · 23/10/2026 | Not yet updated | Not yet updated | Pending | Pending |
+| 2 | - To be updated | 10/19/2026 | 10/19/2026 | |
+| 3 | - To be updated | 10/20/2026 | 10/20/2026 | |
+| 4 | - To be updated | 10/21/2026 | 10/21/2026 | |
+| 5 | - To be updated | 10/22/2026 | 10/22/2026 | |
+| 6 | - To be updated | 10/23/2026 | 10/23/2026 | |
 
-Link the sources actually used to the relevant day. Evidence may include notes, commits, lab screenshots, or verified test results with sensitive information redacted.
+### Week 6 Achievements:
 
-## Achievements
-
-Actual results and deliverables have not been recorded yet.
-
-## Difficulties and resolution
-
-Issues, causes, and attempted solutions have not been recorded yet.
-
-## Lessons learned and next steps
-
-Personal reflections and next steps have not been added yet.
-
-## References
-
-Pending. Each source should include its title, URL, and how it was used.
+* To be updated.

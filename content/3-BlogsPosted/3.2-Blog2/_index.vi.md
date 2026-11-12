@@ -1,35 +1,13 @@
 ---
-title: "Bài viết 2"
+title: "Blog 2"
 date: 2026-11-05
 weight: 2
 chapter: false
 pre: "<b>3.2. </b>"
 ---
 
-**Tình trạng:** Chưa cập nhật bài viết cá nhân.
+# Tiêu đề chờ cập nhật
 
-## Thông tin xuất bản
+Chờ cập nhật nội dung.
 
-| Thông tin | Nội dung |
-| --- | --- |
-| Tiêu đề và chủ đề | Chưa xác định |
-| Tác giả | Nguyễn Lê Hữu Khánh |
-| Ngày đăng | Chưa cập nhật |
-| Liên kết bài đăng AWS Study Group | Chưa bổ sung |
-| Ngôn ngữ bài gốc | Chưa cập nhật |
-
-## Bối cảnh và vấn đề
-
-Chưa cập nhật bài toán hoặc kiến thức muốn chia sẻ.
-
-## Nội dung kỹ thuật và ví dụ
-
-Chờ nội dung tự nghiên cứu, giải thích, ví dụ và hình minh họa có nguồn. Code hoặc câu lệnh sẽ được đặt trong code block đúng ngôn ngữ khi có ví dụ đã kiểm chứng.
-
-## Kết luận và bài học
-
-Chưa cập nhật nhận xét cá nhân, giới hạn của ví dụ và trường hợp áp dụng.
-
-## Tài liệu tham khảo
-
-Chưa bổ sung tên tài liệu, liên kết, nguồn hình ảnh và ngày tham khảo.
+**Bài đăng trên AWS Study Group:** chờ cập nhật.

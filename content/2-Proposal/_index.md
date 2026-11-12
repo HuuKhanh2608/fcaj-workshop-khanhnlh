@@ -6,68 +6,73 @@ chapter: false
 pre: "<b>2. </b>"
 ---
 
-> **Draft in progress.** Content will be updated from Nguyễn Lê Hữu Khánh’s learning, implementation work, and actual supporting evidence.
+# Project title: to be confirmed
+## One-line solution summary: to be confirmed
 
-## Proposal summary
+### 1. Executive Summary
+To be updated: target users, the problem, the proposed AWS solution, and the estimated monthly cost.
 
-| Field | Detail |
-| --- | --- |
-| Project title | Awaiting confirmation |
-| Author | Nguyễn Lê Hữu Khánh |
-| Target users | To be defined |
-| Status | Preparing the proposal |
+### 2. Problem Statement
+### What’s the Problem?
+To be updated: the context, who is affected, how the problem is handled today, and its limitations.
 
-## Real-world problem and need
+### The Solution
+To be updated: how the solution addresses the problem and which AWS services it uses (at least 3).
 
-The context, affected users, current approach, and limitations to address are awaiting documentation.
+### Benefits and Return on Investment
+To be updated.
 
-## Objectives, scope, and completion criteria
+### 3. Solution Architecture
+The architecture diagram will be designed by me using official AWS icons and will show the data flow. The image and its editable source file will be attached once the architecture is confirmed.
 
-| Objective | Expected deliverable | Metric / target threshold | Validation method |
+### AWS Services Used
+- **To be selected**: role and reason for choosing it.
+
+### Component Design
+- To be updated.
+
+### 4. Technical Implementation
+**Implementation Phases**
+- Define the problem and scope: proposal and completion criteria.
+- Design and estimate: architecture diagram, service choices, and cost estimate.
+- Implement and test: source code, deployment guide, logs, and test results.
+- Finalize and review: demo, bilingual documentation, and resource clean-up.
+
+**Technical Requirements**
+- To be updated.
+
+### 5. Timeline & Milestones
+**Project Timeline**
+- To be updated: the period and deliverable for each implementation phase.
+
+### 6. Budget Estimation
+The AWS Pricing Calculator estimate link and exported file will be added here. The detailed cost table is kept consistent with [Cost and optimization](../5-Workshop/5.6-Cost/).
+
+### Infrastructure Costs
+| Service / resource | Region | Monthly usage assumptions | Monthly cost, USD |
 | --- | --- | --- | --- |
-| To be defined | To be defined | Not yet set | To be defined |
+| To be selected | To be updated | To be updated | To be estimated |
+| **Total** | — | — | **To be estimated** |
 
-The implementation scope and future extensions will be defined once the topic is selected.
+### 7. Risk Assessment
+#### Risk Matrix
+- Unexpected AWS costs: impact and likelihood to be assessed.
+- Excess permissions or secret exposure: impact and likelihood to be assessed.
+- Deployment failure or data loss: impact and likelihood to be assessed.
+- Missing the submission date: impact and likelihood to be assessed.
 
-## Proposed architecture
+#### Mitigation Strategies
+- Cost: AWS Budgets alerts and full resource clean-up after testing.
+- Security: least-privilege IAM and managed secrets.
+- Reliability: retries and backups where relevant.
+- Schedule: scope control and timeline checkpoints.
 
-A diagram I design myself, using official AWS icons and showing data flow, is pending. The diagram and editable source will be attached after architecture confirmation. The workshop is intended to use at least 3 AWS services appropriate to the problem.
+#### Contingency Plans
+- To be updated.
 
-| Proposed AWS service | Role | Selection rationale | Alternatives / trade-offs |
-| --- | --- | --- | --- |
-| Pending selection | To be defined | Pending analysis | Pending analysis |
+### 8. Expected Outcomes
+#### Technical Improvements
+To be updated.
 
-## Plan and timeline
-
-| Phase | Period | Deliverable | Status |
-| --- | --- | --- | --- |
-| Define the problem and scope | Pending | Proposal and completion criteria | Not yet updated |
-| Design and estimate | Pending | Diagram, service choices, and COST estimate | Not yet updated |
-| Implement and test | Pending | Code, guide, logs, and test results | Not yet updated |
-| Finalize and review | Pending | Demo, vi/en documentation, and cleanup | Not yet updated |
-
-## Budget and cost estimation — COST
-
-The workload model, Region, unit prices, and AWS Pricing Calculator estimate for my project are pending. The detailed table will be kept consistent with [Cost and optimization](../5-Workshop/5.6-Cost/).
-
-| Service / resource | Region | Monthly usage assumptions | Monthly cost, USD | Source and estimate date |
-| --- | --- | --- | --- | --- |
-| Pending selection | Pending | No data yet | Not yet estimated | Pending |
-| **Total** | — | — | **Not yet estimated** | — |
-
-Estimate link and exported file: pending. Free Tier assumptions, one-time costs, operating costs, and data transfer will be distinguished when the deployment model is defined.
-
-## Risks and mitigation
-
-The following items are planning considerations. Impact and applicable measures will be assessed against the actual architecture.
-
-| Risk to assess | Impact / likelihood | Measures to define |
-| --- | --- | --- |
-| Unexpected AWS costs | Pending assessment | Budget, alerts, and cleanup |
-| Excess permissions or secret exposure | Pending assessment | Least privilege and secret management |
-| Deployment failure or data loss | Pending assessment | Recovery, retries / backups where relevant |
-| Missing the submission date | Pending assessment | Scope control and timeline confirmation |
-
-## Expected outcomes
-
-User value, final deliverables, and future development are awaiting definition. The deployment guide will be documented in the [Personal workshop](../5-Workshop/).
+#### Long-term Value
+To be updated. The deployment guide is documented in the [Workshop](../5-Workshop/).

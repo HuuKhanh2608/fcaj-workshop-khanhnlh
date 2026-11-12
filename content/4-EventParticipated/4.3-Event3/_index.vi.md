@@ -1,10 +1,12 @@
 ---
-title: "Fireside Chat with Dr. Werner Vogels"
+title: "Event 3"
 date: 2026-10-02
 weight: 3
 chapter: false
 pre: "<b>4.3. </b>"
 ---
+
+# Bài thu hoạch “Fireside Chat with Dr. Werner Vogels”
 
 ### Thông tin sự kiện
 

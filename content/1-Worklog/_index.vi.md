@@ -6,37 +6,40 @@ chapter: false
 pre: "<b>1. </b>"
 ---
 
-> **Bản nháp đang hoàn thiện.** Nội dung sẽ được cập nhật từ quá trình học tập, triển khai và minh chứng thực tế của Nguyễn Lê Hữu Khánh.
+Worklog này ghi lại những gì tôi đã học và thực hiện trong kỳ thực tập FCAJ, kéo dài từ ngày 14/09 đến ngày 14/12/2026. Mười hai tuần đầu kéo dài từ 14/09 đến 06/12/2026. Mỗi tuần gồm mục tiêu, công việc từng ngày kèm nguồn tài liệu đã sử dụng và kết quả đạt được.
 
-## Cách ghi nhận
+**Tuần 1:** [Chờ cập nhật](1.1-Week1/)
 
-Mỗi tuần ghi rõ mục tiêu, công việc từng ngày, kết quả và nguồn tài liệu đã thực sự sử dụng. Bảng nhật ký tuần bắt đầu từ ngày 14/09/2026. Ghi thêm dòng cho ngày cuối tuần hoặc hoạt động ngoài lịch nếu có.
+**Tuần 2:** [Chờ cập nhật](1.2-Week2/)
 
-| Tuần | Nhật ký | Tình trạng |
+**Tuần 3:** [Chờ cập nhật](1.3-Week3/)
+
+**Tuần 4:** [Chờ cập nhật](1.4-Week4/)
+
+**Tuần 5:** [Chờ cập nhật](1.5-Week5/)
+
+**Tuần 6:** [Chờ cập nhật](1.6-Week6/)
+
+**Tuần 7:** [Chờ cập nhật](1.7-Week7/)
+
+**Tuần 8:** [Chờ cập nhật](1.8-Week8/)
+
+**Tuần 9:** [Chờ cập nhật](1.9-Week9/)
+
+**Tuần 10:** [Chờ cập nhật](1.10-Week10/)
+
+**Tuần 11:** [Chờ cập nhật](1.11-Week11/)
+
+**Tuần 12:** [Chờ cập nhật](1.12-Week12/)
+
+### Tham gia văn phòng
+
+Điều kiện nhận mộc thực tập yêu cầu tối thiểu **10 buổi lên văn phòng hoặc lượt booking hợp lệ**.
+
+| Ngày | Buổi / mã booking | Hoạt động |
 | --- | --- | --- |
-| 1 | [Tuần 1](1.1-Week1/) | Chờ bổ sung dữ liệu |
-| 2 | [Tuần 2](1.2-Week2/) | Chờ bổ sung dữ liệu |
-| 3 | [Tuần 3](1.3-Week3/) | Chờ bổ sung dữ liệu |
-| 4 | [Tuần 4](1.4-Week4/) | Chờ bổ sung dữ liệu |
-| 5 | [Tuần 5](1.5-Week5/) | Chờ bổ sung dữ liệu |
-| 6 | [Tuần 6](1.6-Week6/) | Chờ bổ sung dữ liệu |
-| 7 | [Tuần 7](1.7-Week7/) | Chờ bổ sung dữ liệu |
-| 8 | [Tuần 8](1.8-Week8/) | Chờ bổ sung dữ liệu |
-| 9 | [Tuần 9](1.9-Week9/) | Chờ bổ sung dữ liệu |
-| 10 | [Tuần 10](1.10-Week10/) | Chờ bổ sung dữ liệu |
-| 11 | [Tuần 11](1.11-Week11/) | Chờ bổ sung dữ liệu |
-| 12 | [Tuần 12](1.12-Week12/) | Chờ bổ sung dữ liệu |
+| Chờ cập nhật | Chờ cập nhật | Chờ cập nhật |
 
-## Theo dõi tham gia văn phòng
+### Hoạt động bổ sung sau tuần 12
 
-Điều kiện nhận mộc yêu cầu tối thiểu **10 buổi văn phòng hoặc booking hợp lệ**. Bảng này sẽ được cập nhật từ thông tin đã đối chiếu.
-
-| Ngày | Buổi / mã booking | Hoạt động | Minh chứng / xác nhận |
-| --- | --- | --- | --- |
-| Chờ cập nhật | Chờ cập nhật | Chờ cập nhật | Chờ cập nhật |
-
-Mười hai tuần đầu kéo dài từ 14/09 đến 06/12/2026. Các hoạt động thực tế từ 07/12 đến ngày kết thúc kỳ thực tập 14/12/2026 được ghi ở mục bên dưới.
-
-## Hoạt động bổ sung sau tuần 12
-
-Chưa cập nhật.
+Các hoạt động từ ngày 07/12 đến ngày 14/12/2026 sẽ được ghi tại đây.

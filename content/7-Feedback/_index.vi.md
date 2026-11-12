@@ -1,5 +1,5 @@
 ---
-title: "Chia sẻ và góp ý"
+title: "Chia sẻ, đóng góp ý kiến"
 date: 2026-11-05
 weight: 7
 chapter: false

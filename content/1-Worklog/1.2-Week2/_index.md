@@ -1,41 +1,24 @@
 ---
-title: "Week 2 worklog"
+title: "Week 2 Worklog"
 date: 2026-11-05
 weight: 2
 chapter: false
 pre: "<b>1.2. </b>"
 ---
 
-**Provisional period:** 21/09/2026–25/09/2026 (DD/MM/YYYY). **Status:** Awaiting actual daily records.
+### Week 2 Objectives:
 
-## Week 2 objectives
+* To be updated.
 
-Personal objectives have not been added yet.
-
-## Daily worklog
-
-| Date | Actual work | Outcome / status | References | Evidence |
+### Tasks to be carried out this week:
+| Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| Monday · 21/09/2026 | Not yet updated | Not yet updated | Pending | Pending |
-| Tuesday · 22/09/2026 | Not yet updated | Not yet updated | Pending | Pending |
-| Wednesday · 23/09/2026 | Not yet updated | Not yet updated | Pending | Pending |
-| Thursday · 24/09/2026 | Not yet updated | Not yet updated | Pending | Pending |
-| Friday · 25/09/2026 | Not yet updated | Not yet updated | Pending | Pending |
+| 2 | - To be updated | 09/21/2026 | 09/21/2026 | |
+| 3 | - To be updated | 09/22/2026 | 09/22/2026 | |
+| 4 | - To be updated | 09/23/2026 | 09/23/2026 | |
+| 5 | - To be updated | 09/24/2026 | 09/24/2026 | |
+| 6 | - To be updated | 09/25/2026 | 09/25/2026 | |
 
-Link the sources actually used to the relevant day. Evidence may include notes, commits, lab screenshots, or verified test results with sensitive information redacted.
+### Week 2 Achievements:
 
-## Achievements
-
-Actual results and deliverables have not been recorded yet.
-
-## Difficulties and resolution
-
-Issues, causes, and attempted solutions have not been recorded yet.
-
-## Lessons learned and next steps
-
-Personal reflections and next steps have not been added yet.
-
-## References
-
-Pending. Each source should include its title, URL, and how it was used.
+* To be updated.

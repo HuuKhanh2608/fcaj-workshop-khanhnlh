@@ -18,6 +18,8 @@ chapter: false
 
 &emsp; **Major:** Software Engineering
 
+&emsp; **Class:** To be updated
+
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey

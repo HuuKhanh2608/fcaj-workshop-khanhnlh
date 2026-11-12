@@ -1,41 +1,24 @@
 ---
-title: "Week 5 worklog"
+title: "Week 5 Worklog"
 date: 2026-11-05
 weight: 5
 chapter: false
 pre: "<b>1.5. </b>"
 ---
 
-**Provisional period:** 12/10/2026–16/10/2026 (DD/MM/YYYY). **Status:** Awaiting actual daily records.
+### Week 5 Objectives:
 
-## Week 5 objectives
+* To be updated.
 
-Personal objectives have not been added yet.
-
-## Daily worklog
-
-| Date | Actual work | Outcome / status | References | Evidence |
+### Tasks to be carried out this week:
+| Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| Monday · 12/10/2026 | Not yet updated | Not yet updated | Pending | Pending |
-| Tuesday · 13/10/2026 | Not yet updated | Not yet updated | Pending | Pending |
-| Wednesday · 14/10/2026 | Not yet updated | Not yet updated | Pending | Pending |
-| Thursday · 15/10/2026 | Not yet updated | Not yet updated | Pending | Pending |
-| Friday · 16/10/2026 | Not yet updated | Not yet updated | Pending | Pending |
+| 2 | - To be updated | 10/12/2026 | 10/12/2026 | |
+| 3 | - To be updated | 10/13/2026 | 10/13/2026 | |
+| 4 | - To be updated | 10/14/2026 | 10/14/2026 | |
+| 5 | - To be updated | 10/15/2026 | 10/15/2026 | |
+| 6 | - To be updated | 10/16/2026 | 10/16/2026 | |
 
-Link the sources actually used to the relevant day. Evidence may include notes, commits, lab screenshots, or verified test results with sensitive information redacted.
+### Week 5 Achievements:
 
-## Achievements
-
-Actual results and deliverables have not been recorded yet.
-
-## Difficulties and resolution
-
-Issues, causes, and attempted solutions have not been recorded yet.
-
-## Lessons learned and next steps
-
-Personal reflections and next steps have not been added yet.
-
-## References
-
-Pending. Each source should include its title, URL, and how it was used.
+* To be updated.
