@@ -8,7 +8,7 @@ pre: "<b>4. </b>"
 
 During my internship, I attend events to learn about AWS, Cloud, and AI, connect with the community, and hear from industry practitioners. Each report below records the topics that interested me, my reflections, and photos from my attendance.
 
-This report now documents **4 events**, with personal reflections and attendance photos.
+This report now documents **5 events**, with personal reflections and attendance photos.
 
 ### [Event 1](4.1-Event1/)
 
@@ -63,3 +63,17 @@ I had the opportunity to meet and hear Dr. Werner Vogels at the AWS office. My r
 &emsp; **Role:** In-person attendee
 
 The FCAJ community day featured six talks: lessons from building software factories, an AWS learning path for students, AWS Lambda Web Functions, asynchronous systems with Amazon SQS, a three-month internship journey, and open source contribution. My report covers each session, my key takeaways, and how I plan to apply them to my personal workshop, with check-in and session photos.
+
+---
+
+### [Event 5](4.5-Event5/)
+
+&emsp; **Event Name:** AWSxFPTU Cloud Mastery 1
+
+&emsp; **Date:** November 14, 2026
+
+&emsp; **Location:** AWS Vietnam office, Bitexco Financial Tower, Ho Chi Minh City
+
+&emsp; **Role:** In-person attendee
+
+A workshop for FPT University students on taking AI applications from prototype to production: the four pillars of an enterprise AI system, the challenges of deploying AI agents, the components of Amazon Bedrock AgentCore, and a demo of an agent architecture on AWS. My report covers each part, my key takeaways, and how I plan to apply them to my personal workshop, with check-in and session photos.

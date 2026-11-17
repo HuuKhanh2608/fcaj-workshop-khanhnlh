@@ -20,6 +20,7 @@ pre: "<b>1.9. </b>"
 | 4 | - Reviewed Modules 01 → 07 and noted the services I am most confident with <br>- Re-read the workshop requirements: architecture, reproducible guide, monitoring, cost estimate, clean-up, and demo <br>- Listed candidate workshop topics that use at least 3 AWS services | 11/11/26 | 11/11/26 | [Video – How to build an AWS workshop](https://www.youtube.com/watch?v=mXRqgMr_97U) <br> [FCAJ – Workshop requirements](https://hcm-rules.awsfcaj.com/project/requirement) |
 | 5 | - Compared my report with the official FCJ workshop template <br>- Restructured the Worklog, Proposal, Blogs, and Self-assessment pages to follow the template <br>- Planned the 12-week timeline based on the FCJ playlist and labs | 12/11/26 | 12/11/26 | [FCJ workshop template (GitHub)](https://github.com/thienluhoan/fcj-workshop-template) <br> [FCJ workshop sample site](https://workshop-sample.awsfcaj.com/) |
 | 6 | - Watched the guide on drawing AWS architecture diagrams with draw.io <br>- Narrowed down the workshop topic and sketched a first draft of the architecture | 13/11/26 | 13/11/26 | [Video – Drawing AWS architecture with draw.io](https://www.youtube.com/watch?v=l8isyDe-GwY) |
+| 7 | - Attended AWSxFPTU Cloud Mastery 1 at the AWS Vietnam office, Bitexco Financial Tower <br>- Listened to talks on taking AI from prototype to production, Amazon Bedrock AgentCore (Identity, Gateway, Memory, Observability), and a demo of an agent architecture on AWS | 14/11/26 | 14/11/26 | [Event 5 report](../../4-EventParticipated/4.5-Event5/) |
 
 ### Week 9 Achievements:
 

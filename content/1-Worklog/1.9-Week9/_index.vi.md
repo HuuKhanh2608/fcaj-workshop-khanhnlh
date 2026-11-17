@@ -20,6 +20,7 @@ pre: "<b>1.9. </b>"
 | 4 | - Ôn lại Module 01 → 07 và ghi chú những dịch vụ mình nắm chắc nhất <br>- Đọc lại yêu cầu workshop: kiến trúc, hướng dẫn tái lập, giám sát, dự toán chi phí, clean-up và demo <br>- Liệt kê các đề tài workshop sử dụng tối thiểu 3 dịch vụ AWS | 11/11/26 | 11/11/26 | [Video – Hướng dẫn làm workshop AWS](https://www.youtube.com/watch?v=mXRqgMr_97U) <br> [FCAJ – Yêu cầu workshop](https://hcm-rules.awsfcaj.com/project/requirement) |
 | 5 | - Đối chiếu báo cáo với template workshop FCJ chính thức <br>- Chỉnh lại cấu trúc các trang Worklog, Proposal, Blogs và Self-assessment theo template <br>- Lập kế hoạch 12 tuần dựa trên playlist và các lab FCJ | 12/11/26 | 12/11/26 | [Template workshop FCJ (GitHub)](https://github.com/thienluhoan/fcj-workshop-template) <br> [Trang workshop mẫu FCJ](https://workshop-sample.awsfcaj.com/) |
 | 6 | - Xem hướng dẫn vẽ sơ đồ kiến trúc AWS bằng draw.io <br>- Thu hẹp lựa chọn đề tài workshop và phác thảo bản nháp kiến trúc đầu tiên | 13/11/26 | 13/11/26 | [Video – Hướng dẫn vẽ kiến trúc AWS trên draw.io](https://www.youtube.com/watch?v=l8isyDe-GwY) |
+| 7 | - Tham dự AWSxFPTU Cloud Mastery 1 tại văn phòng AWS Việt Nam, Bitexco Financial Tower <br>- Nghe các phần chia sẻ về đưa AI từ prototype lên production, Amazon Bedrock AgentCore (Identity, Gateway, Memory, Observability) và demo kiến trúc agent trên AWS | 14/11/26 | 14/11/26 | [Bài thu hoạch Event 5](../../4-EventParticipated/4.5-Event5/) |
 
 ### Kết quả đạt được tuần 9:
 
