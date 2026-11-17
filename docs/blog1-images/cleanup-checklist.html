@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<title>Checklist dọn dẹp sau lab AWS</title>
+<!-- Nguồn ảnh cho Blog 1. Xuất PNG 1080x1350 (x2) bằng Edge headless:
+     msedge --headless=new --hide-scrollbars --force-device-scale-factor=2
+            --window-size=1080,1350 --screenshot=blog1-cleanup-checklist.png file:///.../cleanup-checklist.html -->
+<style>
+  :root {
+    --navy: #232f3e;
+    --navy-2: #2e3d52;
+    --orange: #ff9900;
+    --ink: #16191f;
+    --muted: #545b64;
+    --card: #ffffff;
+    --bg: #f2f3f3;
+    --ok: #1d8102;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1080px; height: 1350px; }
+  body {
+    font-family: "Segoe UI", "Segoe UI Variable", Arial, sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    display: flex;
+    flex-direction: column;
+  }
+  header {
+    background: var(--navy);
+    color: #fff;
+    padding: 44px 56px 36px;
+    border-bottom: 8px solid var(--orange);
+  }
+  .kicker {
+    color: var(--orange);
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  h1 {
+    font-size: 54px;
+    line-height: 1.12;
+    font-weight: 800;
+    margin-top: 10px;
+  }
+  .sub {
+    margin-top: 14px;
+    font-size: 25px;
+    color: #d5dbdb;
+  }
+  main {
+    flex: 1;
+    padding: 30px 44px 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    grid-auto-rows: 1fr;
+  }
+  .card {
+    background: var(--card);
+    border-radius: 14px;
+    padding: 20px 22px 18px;
+    border-left: 8px solid var(--orange);
+    box-shadow: 0 2px 6px rgba(0,0,0,.08);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 12px;
+  }
+  .card .top {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .num {
+    flex: none;
+    width: 40px; height: 40px;
+    border-radius: 50%;
+    background: var(--navy);
+    color: #fff;
+    font-weight: 800;
+    font-size: 22px;
+    display: grid;
+    place-items: center;
+  }
+  .card h2 {
+    font-size: 27px;
+    font-weight: 800;
+    line-height: 1.15;
+  }
+  .lab {
+    margin-left: auto;
+    flex: none;
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--navy);
+    background: #ffe7c2;
+    border-radius: 999px;
+    padding: 4px 10px;
+  }
+  .why {
+    font-size: 21px;
+    line-height: 1.35;
+    color: var(--muted);
+  }
+  .why b { color: var(--ink); }
+  .do {
+    font-size: 21px;
+    line-height: 1.35;
+    font-weight: 600;
+    color: var(--ok);
+    padding-left: 30px;
+    position: relative;
+  }
+  .do::before {
+    content: "✓";
+    position: absolute;
+    left: 2px; top: -2px;
+    font-weight: 900;
+    font-size: 24px;
+  }
+  .always {
+    margin: 22px 44px 0;
+    background: var(--navy-2);
+    color: #fff;
+    border-radius: 14px;
+    padding: 20px 26px;
+  }
+  .always h3 {
+    color: var(--orange);
+    font-size: 22px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+  .always ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px 26px;
+    font-size: 20px;
+    line-height: 1.3;
+  }
+  .always li {
+    position: relative;
+    padding-left: 22px;
+  }
+  .always li::before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: var(--orange);
+  }
+  footer {
+    padding: 16px 44px 22px;
+    font-size: 16px;
+    color: var(--muted);
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <div class="kicker">First Cloud AI Journey · Ghi chú sau 8 tuần làm lab</div>
+    <h1>Checklist dọn dẹp sau mỗi lab AWS</h1>
+    <div class="sub">6 khoản phí vẫn chạy dù bạn nghĩ mình đã “tắt”</div>
+  </header>
+
+  <main>
+    <section class="card">
+      <div class="top"><span class="num">1</span><h2>NAT Gateway</h2><span class="lab">Lab03</span></div>
+      <p class="why">Tính <b>theo giờ + mỗi GB</b>, kể cả khi không có traffic. Để quên 30 ngày ≈ <b>32,4 USD</b> (US East Ohio).</p>
+      <p class="do">Xóa ngay sau khi test. Chỉ cần S3? Dùng gateway endpoint.</p>
+    </section>
+
+    <section class="card">
+      <div class="top"><span class="num">2</span><h2>Public IPv4 / EIP</h2><span class="lab">Lab03–04</span></div>
+      <p class="why"><b>0,005 USD/giờ</b> mỗi địa chỉ public IPv4, kể cả Elastic IP đang để không. ≈ <b>3,6 USD</b>/30 ngày.</p>
+      <p class="do">Release Elastic IP sau khi xóa NAT hoặc EC2.</p>
+    </section>
+
+    <section class="card">
+      <div class="top"><span class="num">3</span><h2>EBS, AMI &amp; Snapshot</h2><span class="lab">Lab04, 13</span></div>
+      <p class="why">EC2 <b>stop</b> vẫn tính EBS. <b>Deregister AMI</b> không tự xóa snapshot.</p>
+      <p class="do">Terminate → xóa volume “available” → deregister AMI → xóa snapshot.</p>
+    </section>
+
+    <section class="card">
+      <div class="top"><span class="num">4</span><h2>DMS instance</h2><span class="lab">Lab43</span></div>
+      <p class="why">Replication instance tính <b>theo giờ</b> dù task đã xong. Dòng T3 chạy unlimited, có thể tính thêm CPU credit.</p>
+      <p class="do">Xóa migration task → xóa replication instance.</p>
+    </section>
+
+    <section class="card">
+      <div class="top"><span class="num">5</span><h2>Quick Sight</h2><span class="lab">Lab35, 73</span></div>
+      <p class="why">Subscription: Author <b>24 USD/người dùng/tháng</b>.</p>
+      <p class="do">Hủy khi không dùng. Lưu ý: xóa vĩnh viễn dữ liệu ở mọi Region.</p>
+    </section>
+
+    <section class="card">
+      <div class="top"><span class="num">6</span><h2>Athena &amp; S3</h2><span class="lab">Lab35, 70</span></div>
+      <p class="why">Tính <b>5 USD/TB dữ liệu quét</b>. Kết quả truy vấn lưu trong S3 và tính phí S3.</p>
+      <p class="do">Dùng Parquet + partition. Dọn bucket query results.</p>
+    </section>
+  </main>
+
+  <section class="always">
+    <h3>Trước &amp; sau mỗi lab</h3>
+    <ul>
+      <li>Bật AWS Budgets: chuông báo, không tự chặn</li>
+      <li>Gắn tag cho tài nguyên: Project=fcj-labXX</li>
+      <li>Resource Explorer: tìm tài nguyên sót ở Region khác</li>
+      <li>Hôm sau mở Billing: dữ liệu chi phí có độ trễ</li>
+    </ul>
+  </section>
+
+  <footer>
+    <span>Giá tham khảo từ trang pricing chính thức của AWS (11/2026), thay đổi theo Region.</span>
+    <span>#AWSStudyGroup</span>
+  </footer>
+</body>
+</html>
