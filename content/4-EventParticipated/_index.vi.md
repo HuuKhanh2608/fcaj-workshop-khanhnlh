@@ -8,7 +8,7 @@ pre: "<b>4. </b>"
 
 Trong quá trình thực tập, tôi tham gia các sự kiện để tìm hiểu thêm về AWS, Cloud và AI, đồng thời tiếp xúc với cộng đồng và lắng nghe chia sẻ từ người làm trong ngành. Mỗi bài thu hoạch bên dưới ghi lại nội dung tôi quan tâm, bài học và hình ảnh tham dự.
 
-Hiện báo cáo đã ghi lại **3 sự kiện**, kèm bài thu hoạch và hình ảnh tham dự.
+Hiện báo cáo đã ghi lại **4 sự kiện**, kèm bài thu hoạch và hình ảnh tham dự.
 
 ### [Event 1](4.1-Event1/)
 
@@ -49,3 +49,17 @@ Tôi tham dự cùng các bạn trong nhóm tại TP.HCM và theo dõi các phi�
 &emsp; **Vai trò:** Người tham dự trực tiếp
 
 Tôi có cơ hội trực tiếp gặp và lắng nghe Dr. Werner Vogels tại văn phòng AWS. Bài thu hoạch ghi lại cảm nhận của tôi về buổi trò chuyện, những suy ngẫm về tư duy hệ thống và trách nhiệm của người kỹ sư, cùng hướng áp dụng vào việc học và workshop cá nhân.
+
+---
+
+### [Event 4](4.4-Event4/)
+
+&emsp; **Tên sự kiện:** FCAJ Community Day
+
+&emsp; **Thời gian:** 09:00 đến 12:00, ngày 31/10/2026 (UTC+7)
+
+&emsp; **Địa điểm:** Văn phòng AWS Việt Nam, Bitexco Financial Tower, TP.HCM
+
+&emsp; **Vai trò:** Người tham dự trực tiếp
+
+Buổi sinh hoạt cộng đồng FCAJ gồm sáu phiên chia sẻ: bài học xây dựng software factory, lộ trình học AWS cho sinh viên, AWS Lambda Web Functions, hệ thống bất đồng bộ với Amazon SQS, hành trình ba tháng thực tập và đóng góp mã nguồn mở. Bài thu hoạch ghi lại nội dung từng phiên, bài học rút ra và cách tôi áp dụng vào workshop cá nhân, kèm ảnh check-in và ảnh các phiên chia sẻ.

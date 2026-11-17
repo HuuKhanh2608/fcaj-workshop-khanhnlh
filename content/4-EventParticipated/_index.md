@@ -8,7 +8,7 @@ pre: "<b>4. </b>"
 
 During my internship, I attend events to learn about AWS, Cloud, and AI, connect with the community, and hear from industry practitioners. Each report below records the topics that interested me, my reflections, and photos from my attendance.
 
-This report now documents **3 events**, with personal reflections and attendance photos.
+This report now documents **4 events**, with personal reflections and attendance photos.
 
 ### [Event 1](4.1-Event1/)
 
@@ -49,3 +49,17 @@ I joined my teammates in Ho Chi Minh City to follow sessions broadcast from Hano
 &emsp; **Role:** In-person attendee
 
 I had the opportunity to meet and hear Dr. Werner Vogels at the AWS office. My report records the experience, my reflections on systems thinking and engineering responsibility, and ideas to apply to my studies and personal workshop.
+
+---
+
+### [Event 4](4.4-Event4/)
+
+&emsp; **Event Name:** FCAJ Community Day
+
+&emsp; **Date & Time:** 09:00 a.m. to 12:00 p.m., October 31, 2026 (UTC+7)
+
+&emsp; **Location:** AWS Vietnam office, Bitexco Financial Tower, Ho Chi Minh City
+
+&emsp; **Role:** In-person attendee
+
+The FCAJ community day featured six talks: lessons from building software factories, an AWS learning path for students, AWS Lambda Web Functions, asynchronous systems with Amazon SQS, a three-month internship journey, and open source contribution. My report covers each session, my key takeaways, and how I plan to apply them to my personal workshop, with check-in and session photos.
