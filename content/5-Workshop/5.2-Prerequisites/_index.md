@@ -6,9 +6,7 @@ chapter: false
 pre: "<b>5.2. </b>"
 ---
 
-> **Draft in progress.** Content will be updated from Nguyễn Lê Hữu Khánh’s learning, implementation work, and actual supporting evidence.
-
-## Account, Region, and permissions
+#### Account, Region, and permissions
 
 | Requirement | Value / preparation | Status |
 | --- | --- | --- |
@@ -17,7 +15,7 @@ pre: "<b>5.2. </b>"
 | IAM roles / policies | Least-privilege permissions for each step pending | Unconfirmed |
 | Budget and alerts | Appropriate alert thresholds pending | Unconfirmed |
 
-## Tools and versions
+#### Tools and versions
 
 | Tool | Tested version | Verification / configuration |
 | --- | --- | --- |
@@ -25,6 +23,6 @@ pre: "<b>5.2. </b>"
 
 SAM, CDK, Terraform, or Docker will be included only when used by the architecture. The host environment, configuration variables, and required permissions will be documented. Secrets will use an appropriate mechanism and will not be hard-coded in source files.
 
-## Preflight checks
+#### Preflight checks
 
 Instructions for verifying the account, Region, identity, permissions, and tools before provisioning are pending.

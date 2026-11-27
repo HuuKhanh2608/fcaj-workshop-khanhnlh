@@ -6,9 +6,7 @@ chapter: false
 pre: "<b>5.6. </b>"
 ---
 
-> **Draft in progress.** Content will be updated from Nguyễn Lê Hữu Khánh’s learning, implementation work, and actual supporting evidence.
-
-## Estimate basis
+#### Estimate basis
 
 | Field | Value |
 | --- | --- |
@@ -20,7 +18,7 @@ pre: "<b>5.6. </b>"
 | AWS Pricing Calculator estimate link | Pending |
 | Exported estimate file | Pending |
 
-## Detailed cost table
+#### Detailed cost table
 
 | Service / resource | Billing unit and unit price | Assumed usage | USD / month | Lab run cost |
 | --- | --- | --- | --- | --- |
@@ -29,16 +27,16 @@ pre: "<b>5.6. </b>"
 
 A project-specific AWS Pricing Calculator estimate is pending. Document costs before / after discounts, storage, requests, compute, logs, networking, data transfer, and supporting resources where applicable. Distinguish one-time costs from recurring operation. A zero-cost claim is not supported yet.
 
-## Optimization options
+#### Optimization options
 
 | Option to consider | Basis / expected impact | Trade-off | Verification |
 | --- | --- | --- | --- |
 | Resource sizing, runtime, storage, and log retention | Analysis pending architecture | Pending | Measurement / estimate pending |
 
-## Operating cost control
+#### Operating cost control
 
-Budget configuration, thresholds, and recipients are pending. Incurred costs will be compared with assumptions. [Resource cleanup](../5.7-Cleanup/) is the final lab step.
+Budget configuration, thresholds, and recipients are pending. Incurred costs will be compared with assumptions. [Clean up](../5.7-Cleanup/) is the final lab step.
 
-## Proposal consistency
+#### Proposal consistency
 
 Once figures are available, update the [Project proposal](../../2-Proposal/) and explain differences between estimates and actual costs.

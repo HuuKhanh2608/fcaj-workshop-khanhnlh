@@ -1,14 +1,12 @@
 ---
-title: "Điều kiện tiên quyết"
+title: "Các bước chuẩn bị"
 date: 2026-11-05
 weight: 2
 chapter: false
 pre: "<b>5.2. </b>"
 ---
 
-> **Bản nháp đang hoàn thiện.** Nội dung sẽ được cập nhật từ quá trình học tập, triển khai và minh chứng thực tế của Nguyễn Lê Hữu Khánh.
-
-## Tài khoản, Region và quyền hạn
+#### Tài khoản, Region và quyền hạn
 
 | Yêu cầu | Giá trị / cách chuẩn bị | Tình trạng |
 | --- | --- | --- |
@@ -17,7 +15,7 @@ pre: "<b>5.2. </b>"
 | IAM Role / Policy | Chờ xác định quyền tối thiểu cho từng bước | Chưa xác nhận |
 | Ngân sách và cảnh báo | Chờ xác định hạn mức cảnh báo phù hợp | Chưa xác nhận |
 
-## Công cụ và phiên bản
+#### Công cụ và phiên bản
 
 | Công cụ | Phiên bản đã kiểm thử | Cách kiểm tra / cấu hình |
 | --- | --- | --- |
@@ -25,6 +23,6 @@ pre: "<b>5.2. </b>"
 
 SAM, CDK, Terraform hoặc Docker chỉ được thêm nếu kiến trúc thực tế sử dụng. Cần ghi rõ môi trường máy, biến cấu hình và quyền cần thiết; thông tin bí mật sẽ được cung cấp qua cơ chế phù hợp, không hard-code trong mã nguồn.
 
-## Kiểm tra trước khi bắt đầu
+#### Kiểm tra trước khi bắt đầu
 
 Chờ hướng dẫn xác nhận tài khoản, Region, danh tính, quyền và công cụ trước khi tạo tài nguyên.

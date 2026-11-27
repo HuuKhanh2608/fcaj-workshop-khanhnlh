@@ -6,9 +6,7 @@ chapter: false
 pre: "<b>5.5. </b>"
 ---
 
-> **Bản nháp đang hoàn thiện.** Nội dung sẽ được cập nhật từ quá trình học tập, triển khai và minh chứng thực tế của Nguyễn Lê Hữu Khánh.
-
-## Kế hoạch kiểm thử
+#### Kế hoạch kiểm thử
 
 | Kịch bản cần chuẩn bị | Đầu vào / thao tác | Kết quả mong đợi | Kết quả thực tế | Minh chứng |
 | --- | --- | --- | --- | --- |
@@ -19,7 +17,7 @@ pre: "<b>5.5. </b>"
 
 Chờ câu lệnh cURL, request Postman hoặc thao tác giao diện phù hợp sản phẩm. Kết quả mong đợi sẽ được đối chiếu với dữ liệu đầu ra, mã phản hồi và log thực tế.
 
-## Logs, Metrics và Alerts
+#### Logs, Metrics và Alerts
 
 | Thành phần | Log / metric | Ngưỡng alarm và hành động | Cách kích hoạt kiểm tra | Minh chứng |
 | --- | --- | --- | --- | --- |
@@ -27,6 +25,6 @@ Chờ câu lệnh cURL, request Postman hoặc thao tác giao diện phù hợp 
 
 Chờ cấu hình CloudWatch hoặc công cụ phù hợp, thời gian lưu log, dashboard, alarm và kênh nhận cảnh báo. Cần lưu bằng chứng alarm thực sự đổi trạng thái hoặc gửi thông báo khi chạy kịch bản kiểm tra.
 
-## Kết quả đo lường
+#### Kết quả đo lường
 
 Chưa có số đo. Khi kiểm thử sẽ ghi tải đầu vào, thời gian đo, độ trễ / tỉ lệ lỗi hoặc chỉ số phù hợp, cùng giới hạn của phép đo.
