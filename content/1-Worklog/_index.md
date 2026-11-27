@@ -26,9 +26,9 @@ This worklog records what I learned and worked on during my FCAJ internship, whi
 
 **Week 9:** [Advanced analytics labs, workshop preparation, and report alignment](1.9-Week9/)
 
-**Week 10:** [To be updated](1.10-Week10/)
+**Week 10:** [IAM roles and IMDSv2 for Blog 2, report updates, and workshop requirements and design planning](1.10-Week10/)
 
-**Week 11:** [To be updated](1.11-Week11/)
+**Week 11:** [Amazon RDS high availability for Blog 3, template alignment, and workshop cost, testing, and monitoring planning](1.11-Week11/)
 
 **Week 12:** [To be updated](1.12-Week12/)
 

@@ -26,9 +26,9 @@ Worklog này ghi lại những gì tôi đã học và thực hiện trong kỳ 
 
 **Tuần 9:** [Lab phân tích nâng cao, chuẩn bị workshop và chuẩn hóa báo cáo](1.9-Week9/)
 
-**Tuần 10:** [Chờ cập nhật](1.10-Week10/)
+**Tuần 10:** [IAM role và IMDSv2 cho Blog 2, cập nhật báo cáo, lập kế hoạch yêu cầu và thiết kế workshop](1.10-Week10/)
 
-**Tuần 11:** [Chờ cập nhật](1.11-Week11/)
+**Tuần 11:** [Tính sẵn sàng cao của Amazon RDS cho Blog 3, chuẩn hóa theo template, lập kế hoạch chi phí, kiểm thử và giám sát workshop](1.11-Week11/)
 
 **Tuần 12:** [Chờ cập nhật](1.12-Week12/)
 
