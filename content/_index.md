@@ -18,7 +18,7 @@ chapter: false
 
 &emsp; **Major:** Software Engineering
 
-&emsp; **Class:** To be updated
+&emsp; **Class:** FCAJ - FPT - Season 4
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
@@ -26,7 +26,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 14/09/2026 to 14/12/2026
 
-![Profile picture placeholder](/images/avatar.png)
+![Profile picture of Nguyễn Lê Hữu Khánh](/images/avatar.jpg)
 
 ### Report Content
 
