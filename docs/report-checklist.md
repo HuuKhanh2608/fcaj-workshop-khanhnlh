@@ -37,7 +37,7 @@ Nguồn đối chiếu: quy định FCAJ do người dùng cung cấp ngày 05/1
 
 - [ ] Workshop cá nhân đạt chuẩn và báo cáo đầy đủ.
 - [ ] Thực tập tối thiểu 3 tháng.
-- [ ] Tối thiểu 10 buổi văn phòng hoặc booking hợp lệ (sổ theo dõi tại worklog).
+- [ ] Tối thiểu 10 buổi văn phòng hoặc booking hợp lệ (bảng theo dõi đã bỏ khỏi trang Worklog để khớp template; cần giữ minh chứng riêng).
 - [ ] Tối thiểu 3 sự kiện có ảnh check-in rõ mặt hợp lệ.
 - [ ] Tối thiểu 3 bài blogs chất lượng đã đăng AWS Study Group.
 
