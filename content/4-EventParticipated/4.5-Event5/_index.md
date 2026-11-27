@@ -22,14 +22,14 @@ pre: "<b>4.5. </b>"
 
 AWSxFPTU Cloud Mastery 1 was a workshop for FPT University students built around one question: how do you take an AI application from a prototype to an enterprise production environment that is secure, reliable, and scalable? The content moved from general principles to Amazon Bedrock AgentCore and ended with a demo of a real architecture. The event took place at the end of week 9, right after I had started narrowing down my workshop topic and sketching its architecture, so it was a good chance to check my direction.
 
-### Attendance objectives
+### Event Objectives
 
 - Understand the gap between an AI prototype and an AI system that runs reliably in an enterprise.
 - Learn about Amazon Bedrock AgentCore and the components that help bring AI agents to production.
 - See how security, monitoring, and cost control fit into a real architecture.
 - Take away points to consider for my personal workshop architecture.
 
-### Agenda and speakers
+### Speakers
 
 | Part | Topic | Speaker |
 | --- | --- | --- |
@@ -40,7 +40,7 @@ AWSxFPTU Cloud Mastery 1 was a workshop for FPT University students built around
 
 The event has no public event page. Session titles and speakers come from the slides shown at the event.
 
-### Key highlights
+### Key Highlights
 
 #### 1. From Prototype to Production
 
@@ -168,7 +168,7 @@ This architecture reuses many components I have practiced: a two-tier public/pri
 
 *Figure 21. The deployment architecture of the agent system on AWS from the demo.*
 
-### Key takeaways
+### Key Takeaways
 
 - **A working prototype is not a product yet:** An enterprise AI system needs security, scalability, integration, and monitoring from the start, not as an afterthought.
 - **Security for AI goes beyond IAM:** Besides encryption and permissions, AI-specific risks such as prompt injection must be considered, and the user's permissions must be kept separate from the agent's.
@@ -176,13 +176,13 @@ This architecture reuses many components I have practiced: a two-tier public/pri
 - **Agents need to be observed and graded:** An agent can give a wrong answer without raising an error, so every step should be traced and results evaluated regularly.
 - **Memory is part of the design:** Separate what needs to be remembered within a session from what must be kept long term, with retention periods and encryption.
 
-### Applying to work
+### Applying to Work
 
 For my personal workshop, I will use the four questions from this event to review my architecture: how the data is protected, how the system scales as load grows, how the components integrate, and how I know the system is working correctly. Secrets will be managed with Secrets Manager instead of being written in code or environment variables.
 
 The testing and monitoring section of my workshop will go beyond CloudWatch logs and metrics and include test cases that check the output. If my workshop uses AI, I will record each processing step so that unexpected results can be traced.
 
-### Event experience
+### Event Experience
 
 The workshop covered a lot of content that was new to me, especially the AgentCore components. The restaurant story in the first part helped me follow fairly abstract concepts, and the demo showed how the services come together into an architecture that actually runs. Many of the talks were given by members of the FCAJ community, which gave me a clearer idea of what I can achieve after my internship.
 

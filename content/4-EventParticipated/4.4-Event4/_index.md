@@ -24,14 +24,14 @@ pre: "<b>4.4. </b>"
 
 FCAJ Community Day was a sharing session for the First Cloud AI Journey community, with six short talks over one morning. The topics ranged from AI-assisted software development and an AWS learning path for students to serverless architecture, asynchronous processing, a three-month internship story, and open source contribution. At the time I was in week 7 of my internship, so many of the sessions were closely related to what I was studying.
 
-### Attendance objectives
+### Event Objectives
 
 - Hear practical experience from people who have built and operated systems on AWS.
 - Learn more about serverless services and asynchronous system design before starting my personal workshop.
 - Learn from interns who had already completed the program.
 - Meet and talk with other members of the FCAJ community.
 
-### Agenda and speakers
+### Speakers
 
 | Time | Session | Speaker |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ FCAJ Community Day was a sharing session for the First Cloud AI Journey communit
 
 The agenda comes from the event page on Luma. Speaker names and organizations come from the organizers' speaker graphic and the title slide of each session.
 
-### Key highlights
+### Key Highlights
 
 #### 1. Lessons from building “software factories”
 
@@ -135,7 +135,7 @@ The rest of the session covered building a steady contribution habit and how it 
 
 *Figure 11. Batch changes with a clear template are a good entry point for newcomers.*
 
-### Key takeaways
+### Key Takeaways
 
 - **Automate checks before speeding up changes:** Moving faster only helps when each change can still be verified, and the checks themselves need to be optimized so they do not slow the team down.
 - **Do not make every call synchronous:** For slow or failure-prone tasks, a queue such as SQS keeps the system responsive and more fault tolerant.
@@ -143,13 +143,13 @@ The rest of the session covered building a steady contribution habit and how it 
 - **Combine learning sources:** Use AWS Study Group for practice, Skill Builder for structured learning, and Builder Center to connect with the community.
 - **Start small and stay consistent:** This applies both to open source contributions and to self-study during the internship.
 
-### Applying to work
+### Applying to Work
 
 When designing my personal workshop, I will identify the processing steps that may be slow or fail and consider decoupling them with Amazon SQS instead of calling them directly. When choosing between Lambda and containers, I will record the reasons and estimate the cost of each option in the COST section.
 
 I plan to create accounts on AWS Skill Builder and AWS Builder Center to fill gaps in my knowledge and follow community articles. I also want to look for a *good first issue* in a cloud-related open source project to get familiar with the contribution process.
 
-### Event experience
+### Event Experience
 
 The morning moved quickly with six sessions in a row, but each one offered a different perspective: engineering leaders and engineers working in industry, and members of the FCAJ community sharing their learning and projects. The session on the three-month internship journey gave me extra motivation, since that is exactly the path I am on now.
 

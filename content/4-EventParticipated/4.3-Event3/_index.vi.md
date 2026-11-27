@@ -22,14 +22,14 @@ pre: "<b>4.3. </b>"
 
 Chỉ vài ngày trước, tôi còn theo dõi phần keynote của Dr. Werner Vogels qua màn hình tại watch party AWS Cloud & AI Day Hanoi. Đến ngày 02/10, tôi có cơ hội trực tiếp lắng nghe ông trong buổi Fireside Chat tại văn phòng AWS ở TP.HCM. Với một người đang học Cloud và bắt đầu kỳ thực tập như tôi, được gặp CTO của Amazon là một niềm vinh dự và một kỷ niệm rất đáng nhớ.
 
-### Mục tiêu tham dự
+### Mục Đích Của Sự Kiện
 
 - Lắng nghe kinh nghiệm của Dr. Werner Vogels về xây dựng và vận hành hệ thống ở quy mô lớn.
 - Tìm hiểu góc nhìn về Cloud, AI và những kỹ năng cần thiết cho người làm kỹ thuật.
 - Liên hệ những điều học được với việc chuẩn bị workshop và cách tự học trong kỳ thực tập.
 - Tham gia một buổi trò chuyện trực tiếp cùng cộng đồng AWS tại TP.HCM.
 
-### Diễn giả
+### Danh Sách Diễn Giả
 
 | STT | Diễn giả | Chức vụ |
 | --- | --- | --- |
@@ -37,7 +37,7 @@ Chỉ vài ngày trước, tôi còn theo dõi phần keynote của Dr. Werner V
 | 2 | [Hung Gia Nguyen](https://www.linkedin.com/in/jotaguy/) | Head of Solutions Architect, AWS Vietnam and Cambodia |
 | 3 | My Nguyen | Solutions Architect, AWS Vietnam |
 
-### Nội dung và suy ngẫm sau sự kiện
+### Nội Dung Nổi Bật
 
 #### Trực tiếp lắng nghe kinh nghiệm từ người làm trong ngành
 
@@ -63,7 +63,7 @@ Tôi muốn rèn thói quen tự giải thích được phần mã mình sử d�
 
 Khi làm việc cùng nhóm hoặc trao đổi với mentor, tôi muốn trình bày vấn đề theo một cách dễ theo dõi: mục tiêu là gì, tôi đã thử cách nào, kết quả ra sao và còn vướng ở đâu. Chuẩn bị được những thông tin đó sẽ giúp cuộc trao đổi cụ thể và có ích hơn.
 
-### Bài học rút ra
+### Những Gì Học Được
 
 - **Hiểu trước khi lựa chọn:** Bắt đầu từ nhu cầu và luồng xử lý của bài toán, sau đó mới chọn công nghệ.
 - **Kiểm tra cả tình huống lỗi:** Khi một chức năng chạy được, tiếp tục xem nó phản ứng thế nào với dữ liệu thiếu hoặc một bước xử lý thất bại.
@@ -71,7 +71,7 @@ Khi làm việc cùng nhóm hoặc trao đổi với mentor, tôi muốn trình 
 - **Giữ việc học đều đặn:** Chọn một nội dung còn chưa rõ để thực hành và ghi lại kết quả, thay vì chỉ dừng ở việc nghe giới thiệu.
 - **Trao đổi rõ ràng:** Mô tả mục tiêu, những gì đã làm và vấn đề cần hỗ trợ khi làm việc cùng người khác.
 
-### Áp dụng vào công việc
+### Ứng Dụng Vào Công Việc
 
 Trong quá trình chuẩn bị workshop, tôi dự định vẽ sơ đồ luồng dữ liệu và ghi ngắn gọn lý do chọn từng dịch vụ AWS. Với mỗi chức năng, tôi sẽ chuẩn bị một trường hợp chạy đúng và một trường hợp lỗi để kiểm tra.
 
@@ -79,7 +79,7 @@ Khi dùng AI hỗ trợ, tôi sẽ giữ lại yêu cầu ban đầu, đọc ph�
 
 Tôi cũng muốn tập trình bày bài làm cho các bạn trong nhóm. Nếu còn khó giải thích một thành phần hoặc một lựa chọn, đó sẽ là phần tôi cần học thêm trước khi hoàn thiện demo.
 
-### Trải nghiệm tham gia sự kiện
+### Trải nghiệm trong event
 
 #### Một cơ hội đáng nhớ trong kỳ thực tập
 
@@ -87,7 +87,7 @@ Tôi cũng muốn tập trình bày bài làm cho các bạn trong nhóm. Nếu 
 
 Tôi trân trọng việc ông dành thời gian đến văn phòng AWS và chia sẻ với cộng đồng. Với tôi, lời cảm ơn thiết thực nhất là tiếp tục học và làm bài nghiêm túc, bắt đầu từ những phần nhỏ mình có thể hiểu, kiểm tra và tự giải thích.
 
-#### Một số hình ảnh tại sự kiện
+#### Một số hình ảnh khi tham gia sự kiện
 
 ![Ảnh cá nhân tại hội trường Fireside Chat ở văn phòng AWS TP.HCM](/images/4-EventParticipated/4.3-Fireside-Chat/attendee-photo.jpg)
 

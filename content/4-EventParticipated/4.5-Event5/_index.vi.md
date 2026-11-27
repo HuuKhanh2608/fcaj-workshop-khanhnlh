@@ -22,14 +22,14 @@ pre: "<b>4.5. </b>"
 
 AWSxFPTU Cloud Mastery 1 là buổi workshop dành cho sinh viên Đại học FPT, xoay quanh câu hỏi: làm thế nào để đưa một ứng dụng AI từ bản prototype lên môi trường production của doanh nghiệp một cách an toàn, ổn định và mở rộng được. Nội dung đi từ các nguyên tắc chung đến Amazon Bedrock AgentCore và kết thúc bằng phần demo kiến trúc thực tế. Sự kiện diễn ra vào cuối tuần 9, ngay sau khi tôi bắt đầu thu hẹp đề tài và phác thảo kiến trúc workshop cá nhân, nên đây là dịp tốt để đối chiếu hướng đi của mình.
 
-### Mục tiêu tham dự
+### Mục Đích Của Sự Kiện
 
 - Hiểu khoảng cách giữa một bản prototype AI và một hệ thống AI chạy ổn định trong doanh nghiệp.
 - Tìm hiểu Amazon Bedrock AgentCore và các thành phần hỗ trợ đưa AI agent lên production.
 - Xem cách bảo mật, giám sát và kiểm soát chi phí được đưa vào một kiến trúc thực tế.
 - Rút ra những điểm cần lưu ý cho kiến trúc workshop cá nhân.
 
-### Chương trình và diễn giả
+### Danh Sách Diễn Giả
 
 | Phần | Nội dung | Diễn giả |
 | --- | --- | --- |
@@ -40,7 +40,7 @@ AWSxFPTU Cloud Mastery 1 là buổi workshop dành cho sinh viên Đại học F
 
 Sự kiện không có trang giới thiệu công khai. Tên phiên và diễn giả lấy từ slide được chiếu tại sự kiện.
 
-### Nội dung nổi bật
+### Nội Dung Nổi Bật
 
 #### 1. From Prototype to Production
 
@@ -168,7 +168,7 @@ Kiến trúc này dùng lại nhiều thành phần tôi đã thực hành: VPC 
 
 *Hình 21. Kiến trúc triển khai hệ thống agent trên AWS trong phần demo.*
 
-### Bài học rút ra
+### Những Gì Học Được
 
 - **Prototype chạy được chưa phải là sản phẩm:** Một hệ thống AI cho doanh nghiệp cần bảo mật, mở rộng, tích hợp và giám sát ngay từ đầu, không phải làm thêm ở cuối.
 - **Bảo mật cho AI rộng hơn IAM:** Ngoài mã hóa và phân quyền, cần tính đến rủi ro riêng như prompt injection, và tách rõ quyền của người dùng với quyền của agent.
@@ -176,13 +176,13 @@ Kiến trúc này dùng lại nhiều thành phần tôi đã thực hành: VPC 
 - **Agent cần được quan sát và chấm điểm:** Agent có thể trả lời sai mà không báo lỗi, nên phải trace từng bước và đánh giá kết quả thường xuyên.
 - **Memory là một phần của thiết kế:** Phân biệt rõ dữ liệu cần nhớ trong phiên và dữ liệu cần giữ lâu dài, kèm thời gian lưu và mã hóa.
 
-### Áp dụng vào công việc
+### Ứng Dụng Vào Công Việc
 
 Với workshop cá nhân, tôi sẽ dùng bốn câu hỏi của buổi chia sẻ để rà soát kiến trúc: dữ liệu được bảo vệ thế nào, hệ thống mở rộng ra sao khi tải tăng, các thành phần tích hợp với nhau thế nào và làm sao biết hệ thống đang chạy đúng. Thông tin bí mật sẽ được quản lý bằng Secrets Manager thay vì ghi trong code hoặc biến môi trường.
 
 Phần kiểm thử và giám sát của workshop sẽ không chỉ dừng ở log và metric CloudWatch, mà có cả các trường hợp kiểm tra kết quả đầu ra. Nếu workshop có dùng AI, tôi sẽ ghi lại từng bước xử lý để có thể truy vết khi kết quả không như mong đợi.
 
-### Trải nghiệm tham gia sự kiện
+### Trải nghiệm trong event
 
 Buổi workshop có nhiều nội dung mới với tôi, nhất là các thành phần của AgentCore. Cách phần đầu dùng câu chuyện nhà hàng giúp tôi theo kịp những khái niệm khá trừu tượng, còn phần demo cho thấy các dịch vụ được ghép lại thành một kiến trúc chạy được. Nhiều phần chia sẻ do các thành viên cộng đồng FCAJ trình bày, nên tôi cũng thấy rõ hơn những gì mình có thể đạt được sau kỳ thực tập.
 

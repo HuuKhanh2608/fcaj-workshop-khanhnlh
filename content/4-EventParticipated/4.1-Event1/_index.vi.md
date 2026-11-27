@@ -20,14 +20,14 @@ pre: "<b>4.1. </b>"
 
 &emsp; **Trang sự kiện:** [Buildrathon Kickoff trên Luma](https://luma.com/8fe9vvps)
 
-### Mục tiêu sự kiện
+### Mục Đích Của Sự Kiện
 
 - Giới thiệu chương trình Buildrathon, mục tiêu và định hướng dành cho người tham gia.
 - Kết nối việc học AWS Cloud và AI với góc nhìn thực tế từ những người làm trong ngành.
 - Chia sẻ tư duy xây dựng ứng dụng AI thông qua talkshow *The Thinking Behind Building the Bot*.
 - Tạo cơ hội để sinh viên tiếp xúc với cộng đồng, nghe chia sẻ và tìm hướng phát triển trong lĩnh vực Cloud và AI.
 
-### Diễn giả
+### Danh Sách Diễn Giả
 
 | STT | Diễn giả | Chức vụ | Đóng góp tại sự kiện |
 | --- | --- | --- | --- |
@@ -37,7 +37,7 @@ pre: "<b>4.1. </b>"
 
 Phần giới thiệu giúp tôi hiểu bối cảnh của Buildrathon. Tiếp đó, phần chia sẻ kỹ thuật đưa nội dung về một ví dụ ứng dụng cụ thể, giúp tôi dễ liên hệ hơn với kiến thức đang học.
 
-### Nội dung nổi bật
+### Nội Dung Nổi Bật
 
 #### Giới thiệu chương trình và định hướng Buildrathon
 
@@ -57,7 +57,7 @@ Phần giới thiệu giúp tôi hiểu bối cảnh của Buildrathon. Tiếp �
 - Tôi tham gia với vai trò người nghe, theo dõi nội dung và liên hệ với quá trình học AWS của mình.
 - Những điểm cần tìm hiểu sâu hơn sẽ là cơ sở để tôi đọc thêm tài liệu và chuẩn bị câu hỏi khi trao đổi với mentor.
 
-### Bài học rút ra
+### Những Gì Học Được
 
 #### Tư duy xây dựng sản phẩm
 
@@ -77,14 +77,14 @@ Phần giới thiệu giúp tôi hiểu bối cảnh của Buildrathon. Tiếp �
 - Kết hợp đọc tài liệu với một bài thực hành nhỏ, có mục tiêu cụ thể.
 - Chủ động tham gia cộng đồng để tiếp xúc với nhiều góc nhìn về công việc và công nghệ.
 
-### Áp dụng vào công việc
+### Ứng Dụng Vào Công Việc
 
 - **Chuẩn bị workshop cá nhân.** Tôi dự định chọn một bài toán nhỏ, mô tả người dùng và xác định chức năng chính.
 - **Phác thảo kiến trúc.** Tôi sẽ làm rõ đầu vào, đầu ra và luồng xử lý trước khi cân nhắc dịch vụ AWS.
 - **Tìm hiểu ứng dụng AI.** Tôi muốn nghiên cứu cách cung cấp ngữ cảnh và đánh giá câu trả lời của một bot.
 - **Cập nhật worklog.** Tôi sẽ ghi lại quyết định kỹ thuật, kết quả thử nghiệm và những lỗi gặp phải trong quá trình tự học.
 
-### Trải nghiệm tham gia sự kiện
+### Trải nghiệm trong event
 
 Buổi kickoff là một trải nghiệm đáng nhớ trong thời gian đầu thực tập của tôi. Được nghe chia sẻ trực tiếp tại văn phòng AWS giúp tôi có thêm động lực tìm hiểu Cloud và AI, đồng thời suy nghĩ cụ thể hơn về hướng thực hành của bản thân.
 
@@ -102,7 +102,7 @@ Buổi kickoff là một trải nghiệm đáng nhớ trong thời gian đầu t
 
 Phần hands-on AI Agent Challenge có trong lịch giới thiệu đã không diễn ra trong buổi này. Hoạt động tham dự của tôi tập trung vào nghe chia sẻ và theo dõi nội dung trao đổi.
 
-#### Một số hình ảnh tại sự kiện
+#### Một số hình ảnh khi tham gia sự kiện
 
 ![Không gian buổi khai mạc với phần giới thiệu AWS First Cloud AI Journey](/images/4-EventParticipated/4.1-Buildrathon-Kickoff/kickoff-session.jpg)
 

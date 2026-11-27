@@ -24,7 +24,7 @@ pre: "<b>4.2. </b>"
 
 On September 29, I attended the watch party at the AWS office in Ho Chi Minh City with my teammates. The main event took place in Hanoi, and we followed the keynote and technical sessions on screens at the office. The topics I wanted to keep from the day concerned using AI in software development, from preparing work for an agent to checking its results and securing an application.
 
-### Event objectives
+### Event Objectives
 
 - Introduce Cloud and AI use cases through presentations from AWS and businesses.
 - Share approaches to using agentic AI in software development, testing, and operations.
@@ -47,7 +47,7 @@ The table records selected speakers from the keynote and security session broadc
 | 7 | Hoàng Minh | Deputy Minister of Science and Technology | Opening remarks at the event. |
 | 8 | Jennifer Wicks | U.S. Ambassador to Vietnam | Technology cooperation, digital infrastructure, and workforce development. |
 
-### Key highlights
+### Key Highlights
 
 #### Opening and AI adoption in Vietnam
 
@@ -109,7 +109,7 @@ The Agent Toolkit for AWS slides introduced ways to give coding agents tools, kn
 
 I am interested in where an agent gets its information and which actions it can perform. When I try these tools after the event, I want to begin with a small task, read the changes it produces, and check the outcome before expanding the scope.
 
-### Key takeaways
+### Key Takeaways
 
 #### Prepare the requirement before using AI
 
@@ -135,7 +135,7 @@ I am interested in where an agent gets its information and which actions it can 
 - Include verification and cleanup steps in the workshop instructions.
 - Learn the limits of tools, especially those able to act on an AWS environment.
 
-### Applying to work
+### Applying to Work
 
 I plan to begin with my personal workshop. For each feature, I will write a short requirement, identify the expected outcome, and define a check before asking AI for help. I will then review the changes, run the exercise, and record the results in my worklog.
 
@@ -143,7 +143,7 @@ For MCP and Agent Toolkit for AWS, I want to try a task in a practice environmen
 
 Following the keynote, I also want to add a short explanation of data access patterns and service choices to my workshop design. For each feature change, I will retain the original requirement, the changes made, and verification evidence to refer to when preparing my report or demo.
 
-### Event experience
+### Event Experience
 
 #### Following the program with my team in Ho Chi Minh City
 

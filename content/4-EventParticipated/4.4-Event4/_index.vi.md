@@ -24,14 +24,14 @@ pre: "<b>4.4. </b>"
 
 FCAJ Community Day là buổi chia sẻ dành cho cộng đồng First Cloud AI Journey, gồm sáu phiên ngắn trong một buổi sáng. Các chủ đề trải rộng từ quy trình phát triển phần mềm có AI hỗ trợ, lộ trình học AWS cho sinh viên, kiến trúc serverless và xử lý bất đồng bộ, đến trải nghiệm thực tập ba tháng và đóng góp mã nguồn mở. Thời điểm diễn ra sự kiện, tôi đang ở tuần thứ 7 của kỳ thực tập nên nhiều phiên rất sát với những gì tôi đang học.
 
-### Mục tiêu tham dự
+### Mục Đích Của Sự Kiện
 
 - Nghe kinh nghiệm thực tế của những người đã xây dựng và vận hành hệ thống trên AWS.
 - Tìm hiểu thêm các dịch vụ serverless và cách thiết kế hệ thống bất đồng bộ trước khi bắt đầu workshop cá nhân.
 - Học hỏi từ trải nghiệm của các bạn đã đi trước trong chương trình thực tập.
 - Gặp gỡ và trao đổi với các bạn trong cộng đồng FCAJ.
 
-### Chương trình và diễn giả
+### Danh Sách Diễn Giả
 
 | Thời gian | Phiên | Diễn giả |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ FCAJ Community Day là buổi chia sẻ dành cho cộng đồng First Cloud AI 
 
 Lịch chương trình lấy từ trang sự kiện trên Luma; tên và đơn vị của diễn giả lấy từ ảnh giới thiệu diễn giả của ban tổ chức và slide mở đầu của từng phiên.
 
-### Nội dung nổi bật
+### Nội Dung Nổi Bật
 
 #### 1. Bài học từ việc xây dựng “software factory”
 
@@ -135,7 +135,7 @@ Phần còn lại của phiên nói về việc giữ thói quen đóng góp đ�
 
 *Hình 11. Thay đổi hàng loạt có mẫu rõ ràng là điểm vào phù hợp cho người mới.*
 
-### Bài học rút ra
+### Những Gì Học Được
 
 - **Tự động hóa kiểm tra trước khi tăng tốc độ thay đổi:** Làm nhanh hơn chỉ có ý nghĩa khi vẫn kiểm chứng được mỗi thay đổi, và kiểm tra cũng cần được tối ưu để không làm chậm cả nhóm.
 - **Không gọi đồng bộ cho mọi thứ:** Với tác vụ chậm hoặc dễ lỗi, hàng đợi như SQS giúp hệ thống phản hồi nhanh và chịu lỗi tốt hơn.
@@ -143,13 +143,13 @@ Phần còn lại của phiên nói về việc giữ thói quen đóng góp đ�
 - **Kết hợp nhiều nguồn học:** Dùng AWS Study Group để thực hành, Skill Builder để học có hệ thống và Builder Center để kết nối với cộng đồng.
 - **Bắt đầu từ việc nhỏ và giữ đều đặn:** Điều này đúng cả với đóng góp mã nguồn mở lẫn việc tự học trong kỳ thực tập.
 
-### Áp dụng vào công việc
+### Ứng Dụng Vào Công Việc
 
 Khi thiết kế workshop cá nhân, tôi sẽ xác định những bước xử lý có thể chậm hoặc lỗi và cân nhắc tách chúng ra bằng Amazon SQS thay vì gọi trực tiếp. Khi chọn giữa Lambda và container, tôi sẽ ghi lại lý do và ước tính chi phí của từng phương án trong phần COST.
 
 Tôi dự định tạo tài khoản trên AWS Skill Builder và AWS Builder Center để học thêm các nội dung còn thiếu và theo dõi bài viết từ cộng đồng. Ngoài ra, tôi muốn thử tìm một issue có nhãn *good first issue* trong một dự án mã nguồn mở liên quan đến cloud để làm quen với quy trình đóng góp.
 
-### Trải nghiệm tham gia sự kiện
+### Trải nghiệm trong event
 
 Buổi sáng có nhịp độ khá nhanh với sáu phiên liên tiếp, nhưng mỗi phiên đều mang đến một góc nhìn riêng: từ người dẫn dắt kỹ thuật và các kỹ sư đang làm việc tại doanh nghiệp, đến các thành viên cộng đồng FCAJ chia sẻ việc học và dự án của mình. Phiên chia sẻ về hành trình ba tháng thực tập khiến tôi có thêm động lực, vì đó cũng chính là chặng đường tôi đang đi.
 

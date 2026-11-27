@@ -20,7 +20,7 @@ pre: "<b>4.1. </b>"
 
 &emsp; **Event Page:** [Buildrathon Kickoff on Luma](https://luma.com/8fe9vvps)
 
-### Event objectives
+### Event Objectives
 
 - Introduce Buildrathon, its objectives, and the direction for participants.
 - Connect AWS Cloud and AI learning with practical perspectives from industry practitioners.
@@ -37,7 +37,7 @@ pre: "<b>4.1. </b>"
 
 The introduction helped me understand the context of Buildrathon. The technical session then connected the discussion to an application example, making it easier to relate the event to my studies.
 
-### Key highlights
+### Key Highlights
 
 #### Program introduction and Buildrathon orientation
 
@@ -57,7 +57,7 @@ The introduction helped me understand the context of Buildrathon. The technical 
 - I participated as a listener, followed the discussion, and related the topics to my AWS learning.
 - Areas that require more study will guide my further reading and the questions I prepare for conversations with my mentor.
 
-### Key takeaways
+### Key Takeaways
 
 #### Product thinking
 
@@ -77,14 +77,14 @@ The introduction helped me understand the context of Buildrathon. The technical 
 - Combine reading with a small exercise that has a clear objective.
 - Participate in the community to encounter different perspectives on work and technology.
 
-### Applying to work
+### Applying to Work
 
 - **Prepare my personal workshop.** I plan to choose a small problem, describe its users, and identify its main functionality.
 - **Outline the architecture.** I will define the inputs, outputs, and workflow before considering AWS services.
 - **Explore AI applications.** I want to study how to provide context and evaluate a bot's answers.
 - **Update my worklog.** I will record technical decisions, experiment results, and errors encountered during my studies.
 
-### Event experience
+### Event Experience
 
 The kickoff was a memorable experience early in my internship. Hearing the presentations in person at the AWS office motivated me to explore Cloud and AI and think more concretely about my own practical learning.
 

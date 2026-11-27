@@ -22,7 +22,7 @@ pre: "<b>4.3. </b>"
 
 Just a few days earlier, I had watched Dr. Werner Vogels' keynote on a screen at the AWS Cloud & AI Day Hanoi watch party. On October 2, I had the opportunity to hear him in person at the AWS office in Ho Chi Minh City. As someone studying Cloud and starting an internship, meeting Amazon's CTO was an honor and a memorable experience.
 
-### Attendance objectives
+### Event Objectives
 
 - Hear Dr. Werner Vogels' experience of building and operating systems at scale.
 - Explore perspectives on Cloud, AI, and the skills needed in engineering.
@@ -37,7 +37,7 @@ Just a few days earlier, I had watched Dr. Werner Vogels' keynote on a screen at
 | 2 | [Hung Gia Nguyen](https://www.linkedin.com/in/jotaguy/) | Head of Solutions Architect, AWS Vietnam and Cambodia |
 | 3 | My Nguyen | Solutions Architect, AWS Vietnam |
 
-### Topics and reflections after the event
+### Key Highlights
 
 #### Hearing directly from an experienced practitioner
 
@@ -63,7 +63,7 @@ At this stage of my internship, I need to spend time on AWS fundamentals while l
 
 When working with my team or speaking with a mentor, I want to describe a problem in a way that is easy to follow: the goal, what I tried, the result, and where I am stuck. Preparing that information should make the discussion more specific and useful.
 
-### Key takeaways
+### Key Takeaways
 
 - **Understand before choosing:** Start with the need and workflow, then choose the technology.
 - **Check error cases:** Once a feature works, examine how it responds to missing data or a failed processing step.
@@ -71,7 +71,7 @@ When working with my team or speaking with a mentor, I want to describe a proble
 - **Keep learning regularly:** Choose something I do not yet understand, practice it, and record the result.
 - **Communicate clearly:** Describe the goal, completed work, and help needed when working with others.
 
-### Applying to work
+### Applying to Work
 
 While preparing my workshop, I plan to draw the data flow and briefly explain why I chose each AWS service. For every feature, I will prepare a successful case and an error case to test.
 
@@ -79,7 +79,7 @@ When using AI assistance, I will keep the original requirement, review the chang
 
 I also want to practice explaining my work to teammates. If I struggle to explain a component or a choice, that will identify an area to study before completing the demo.
 
-### Event experience
+### Event Experience
 
 #### A memorable opportunity during my internship
 

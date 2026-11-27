@@ -24,7 +24,7 @@ pre: "<b>4.2. </b>"
 
 Ngày 29/09, tôi cùng các bạn trong nhóm tham dự watch party tại văn phòng AWS ở TP.HCM. Sự kiện chính diễn ra ở Hà Nội; chúng tôi theo dõi keynote và các phiên kỹ thuật qua màn hình tại văn phòng. Những nội dung tôi muốn ghi lại sau buổi này xoay quanh cách dùng AI trong phát triển phần mềm, từ chuẩn bị công việc cho agent đến kiểm tra kết quả và bảo mật ứng dụng.
 
-### Mục tiêu sự kiện
+### Mục Đích Của Sự Kiện
 
 - Giới thiệu các hướng ứng dụng Cloud và AI qua chia sẻ của AWS và doanh nghiệp.
 - Cập nhật cách sử dụng agentic AI trong phát triển, kiểm thử và vận hành phần mềm.
@@ -32,7 +32,7 @@ Ngày 29/09, tôi cùng các bạn trong nhóm tham dự watch party tại văn 
 
 Với tôi, mục tiêu khi tham gia là tìm hiểu những cách làm có thể thử ở quy mô nhỏ trong quá trình học và chuẩn bị workshop cá nhân.
 
-### Diễn giả
+### Danh Sách Diễn Giả
 
 Bảng dưới đây ghi lại một số diễn giả trong keynote và phiên bảo mật được phát từ Hà Nội.
 
@@ -47,7 +47,7 @@ Bảng dưới đây ghi lại một số diễn giả trong keynote và phiên 
 | 7 | Hoàng Minh | Thứ trưởng Bộ Khoa học và Công nghệ | Phát biểu trong phần khai mạc chương trình. |
 | 8 | Jennifer Wicks | Đại sứ Hoa Kỳ tại Việt Nam | Chia sẻ về hợp tác công nghệ, hạ tầng số và phát triển nhân lực. |
 
-### Nội dung nổi bật
+### Nội Dung Nổi Bật
 
 #### Khai mạc và bối cảnh ứng dụng AI tại Việt Nam
 
@@ -109,7 +109,7 @@ Các slide về Agent Toolkit for AWS giới thiệu cách bổ sung công cụ,
 
 Điều tôi quan tâm là agent có thể lấy thông tin từ đâu và được phép thực hiện những thao tác nào. Khi thử các công cụ này sau sự kiện, tôi muốn bắt đầu bằng một tác vụ nhỏ, đọc lại thay đổi được tạo ra và kiểm tra kết quả trước khi mở rộng phạm vi.
 
-### Bài học rút ra
+### Những Gì Học Được
 
 #### Chuẩn bị yêu cầu trước khi dùng AI
 
@@ -135,7 +135,7 @@ Các slide về Agent Toolkit for AWS giới thiệu cách bổ sung công cụ,
 - Chuẩn bị cách kiểm tra và thu dọn tài nguyên trong hướng dẫn workshop.
 - Dành thời gian tìm hiểu các giới hạn của công cụ, nhất là khi công cụ có thể thao tác với môi trường AWS.
 
-### Áp dụng vào công việc
+### Ứng Dụng Vào Công Việc
 
 Tôi dự định bắt đầu từ việc chuẩn bị workshop cá nhân. Với mỗi chức năng, tôi sẽ viết yêu cầu ngắn, xác định kết quả mong đợi và cách kiểm tra trước khi nhờ AI hỗ trợ. Sau đó, tôi sẽ đọc lại phần thay đổi, chạy thử và ghi kết quả vào worklog.
 
@@ -143,7 +143,7 @@ Với MCP và Agent Toolkit for AWS, tôi muốn thử một tác vụ trong mô
 
 Từ phần keynote, tôi muốn bổ sung vào bản thiết kế workshop một mô tả ngắn về cách truy cập dữ liệu và lý do chọn dịch vụ. Với mỗi lần thay đổi chức năng, tôi sẽ giữ lại yêu cầu ban đầu, phần đã sửa và bằng chứng kiểm tra để tiện đối chiếu khi viết báo cáo hoặc làm demo.
 
-### Trải nghiệm tham gia sự kiện
+### Trải nghiệm trong event
 
 #### Theo dõi chương trình cùng nhóm tại TP.HCM
 
@@ -153,7 +153,7 @@ Tham dự watch party giúp tôi theo dõi chương trình cùng các bạn ngay
 
 Sơ đồ workspace của TCBS là một ví dụ tôi muốn xem lại khi chia việc cho dự án. Phần kiểm thử và bảo mật cũng nhắc tôi dành thời gian cho các bước kiểm tra sau khi viết mã. Sau sự kiện, hướng học tiếp của tôi là chọn một phần nhỏ để thử, ghi lại kết quả rồi mới quyết định có đưa vào workshop hay không.
 
-#### Một số hình ảnh tại sự kiện
+#### Một số hình ảnh khi tham gia sự kiện
 
 Các ảnh dưới đây thuộc bộ ảnh tham dự của tôi và nhóm tại TP.HCM. Nội dung slide là của các diễn giả và đơn vị trình bày, được chụp lại từ màn hình phát chương trình ở Hà Nội.
 
