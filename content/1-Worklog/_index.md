@@ -6,7 +6,7 @@ chapter: false
 pre: "<b>1. </b>"
 ---
 
-This worklog records what I learned and worked on during my 12-week FCAJ internship, from September 14 to December 14, 2026. It is updated through November 30, 2026, the worklog submission deadline. Each week lists my objectives, daily tasks with the reference material I used, and the results I achieved.
+This worklog records what I learned and worked on during my three-month FCAJ internship, from September 14 to December 14, 2026. It is updated through November 30, 2026, the worklog submission deadline. Each week lists my objectives, daily tasks with the reference material I used, and the results I achieved.
 
 **Week 1:** [Getting started with FCAJ, cloud fundamentals, and a secure AWS account](1.1-Week1/)
 
