@@ -35,8 +35,6 @@ pre: "<b>4.1. </b>"
 | 2 | [Truong Nhat Bui](https://www.linkedin.com/in/dominicbui0000/) | Tech Lead, CMC Global | Presented technical topics, including an AI-enabled Slack bot architecture, and responded to questions. |
 | 3 | [Thien Lu](https://www.linkedin.com/in/thienluhoan/) | Program Manager, FCAJ | Participated as a speaker representing the FCAJ program. |
 
-The introduction helped me understand the context of Buildrathon. The technical session then connected the discussion to an application example, making it easier to relate the event to my studies.
-
 ### Key Highlights
 
 #### Program introduction and Buildrathon orientation
@@ -114,4 +112,4 @@ The hands-on AI Agent Challenge listed in the published agenda did not take plac
 
 ![Group photo at the Buildrathon Kickoff event](/images/4-EventParticipated/4.1-Buildrathon-Kickoff/community-photo.jpg)
 
-*Figure 3. A group photo with others at the event. All images in this article come from my personal event photo collection.*
+*Figure 3. A group photo with others at the event.*

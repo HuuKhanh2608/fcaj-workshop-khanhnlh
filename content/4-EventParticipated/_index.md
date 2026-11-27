@@ -28,7 +28,7 @@ The kickoff introduced Buildrathon and featured the talkshow *The Thinking Behin
 
 &emsp; **Event Name:** AWS Cloud & AI Day Hanoi - Watch Party
 
-&emsp; **Date & Time:** 08:00 a.m. to 05:00 p.m., September 29, 2026 (UTC+7), according to the published schedule
+&emsp; **Date & Time:** 08:00 a.m. to 05:00 p.m., September 29, 2026 (UTC+7)
 
 &emsp; **Location:** AWS Vietnam office, Bitexco Financial Tower, Ho Chi Minh City
 

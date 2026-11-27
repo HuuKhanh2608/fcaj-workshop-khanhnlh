@@ -35,8 +35,6 @@ pre: "<b>4.1. </b>"
 | 2 | [Truong Nhat Bui](https://www.linkedin.com/in/dominicbui0000/) | Tech Lead, CMC Global | Chia sẻ nội dung kỹ thuật, giới thiệu ví dụ kiến trúc Slack bot có AI và giải đáp câu hỏi. |
 | 3 | [Thien Lu](https://www.linkedin.com/in/thienluhoan/) | Program Manager, FCAJ | Tham gia với vai trò diễn giả, đại diện chương trình FCAJ. |
 
-Phần giới thiệu giúp tôi hiểu bối cảnh của Buildrathon. Tiếp đó, phần chia sẻ kỹ thuật đưa nội dung về một ví dụ ứng dụng cụ thể, giúp tôi dễ liên hệ hơn với kiến thức đang học.
-
 ### Nội Dung Nổi Bật
 
 #### Giới thiệu chương trình và định hướng Buildrathon
@@ -114,4 +112,4 @@ Phần hands-on AI Agent Challenge có trong lịch giới thiệu đã không d
 
 ![Ảnh lưu niệm cùng mọi người tại sự kiện Buildrathon Kickoff](/images/4-EventParticipated/4.1-Buildrathon-Kickoff/community-photo.jpg)
 
-*Hình 3. Ảnh lưu niệm cùng mọi người tại sự kiện. Nguồn các ảnh trong bài là bộ ảnh tham dự cá nhân của tôi.*
+*Hình 3. Ảnh lưu niệm cùng mọi người tại sự kiện.*

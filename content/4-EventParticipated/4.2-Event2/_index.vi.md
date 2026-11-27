@@ -12,7 +12,7 @@ pre: "<b>4.2. </b>"
 
 &emsp; **Tên sự kiện:** AWS Cloud & AI Day Hanoi - Watch Party
 
-&emsp; **Thời gian:** 08:00 đến 17:00, thứ Ba, ngày 29/09/2026 (UTC+7), theo lịch chương trình
+&emsp; **Thời gian:** 08:00 đến 17:00, thứ Ba, ngày 29/09/2026 (UTC+7)
 
 &emsp; **Địa điểm:** Văn phòng AWS Việt Nam, Bitexco Financial Tower, 2 Hải Triều, TP.HCM. Điểm nhận thẻ tại tầng 26 theo thư mời.
 
@@ -33,8 +33,6 @@ Ngày 29/09, tôi cùng các bạn trong nhóm tham dự watch party tại văn 
 Với tôi, mục tiêu khi tham gia là tìm hiểu những cách làm có thể thử ở quy mô nhỏ trong quá trình học và chuẩn bị workshop cá nhân.
 
 ### Danh Sách Diễn Giả
-
-Bảng dưới đây ghi lại một số diễn giả trong keynote và phiên bảo mật được phát từ Hà Nội.
 
 | STT | Diễn giả | Chức vụ | Nội dung chia sẻ |
 | --- | --- | --- | --- |
@@ -155,8 +153,6 @@ Sơ đồ workspace của TCBS là một ví dụ tôi muốn xem lại khi chia
 
 #### Một số hình ảnh khi tham gia sự kiện
 
-Các ảnh dưới đây thuộc bộ ảnh tham dự của tôi và nhóm tại TP.HCM. Nội dung slide là của các diễn giả và đơn vị trình bày, được chụp lại từ màn hình phát chương trình ở Hà Nội.
-
 ![Tôi và các bạn trong nhóm với thẻ tham dự tại watch party ở TP.HCM](/images/4-EventParticipated/4.2-Cloud-AI-Day/team-watch-party.jpg)
 
 *Hình 1. Ảnh lưu niệm của nhóm tại văn phòng AWS ở TP.HCM trong ngày tham dự watch party.*
@@ -182,8 +178,6 @@ Các ảnh dưới đây thuộc bộ ảnh tham dự của tôi và nhóm tại
 *Hình 6. Phần giới thiệu tài nguyên để tìm hiểu thêm về AWS Agent Toolkit. Nguồn slide: AWS.*
 
 ### Tài liệu tham khảo
-
-Các tài liệu dưới đây giúp tìm hiểu thêm về sự kiện chính tại Hà Nội và watch party tại TP.HCM.
 
 #### Tài liệu chính thức của sự kiện
 

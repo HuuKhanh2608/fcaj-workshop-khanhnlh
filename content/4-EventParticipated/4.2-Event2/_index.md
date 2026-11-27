@@ -12,7 +12,7 @@ pre: "<b>4.2. </b>"
 
 &emsp; **Event Name:** AWS Cloud & AI Day Hanoi - Watch Party
 
-&emsp; **Date & Time:** 08:00 a.m. to 05:00 p.m., Tuesday, September 29, 2026 (UTC+7), according to the published schedule
+&emsp; **Date & Time:** 08:00 a.m. to 05:00 p.m., Tuesday, September 29, 2026 (UTC+7)
 
 &emsp; **Location:** AWS Vietnam office, Bitexco Financial Tower, 2 Hai Trieu Street, Ho Chi Minh City. Badge collection on the 26th floor, as stated in the invitation.
 
@@ -33,8 +33,6 @@ On September 29, I attended the watch party at the AWS office in Ho Chi Minh Cit
 My aim was to find approaches I could try on a small scale while studying and preparing my personal workshop.
 
 ### Speakers
-
-The table records selected speakers from the keynote and security session broadcast from Hanoi.
 
 | Order | Speaker | Position | Presentation topics |
 | --- | --- | --- | --- |
@@ -155,8 +153,6 @@ The TCBS workspace diagram is an example I want to revisit when dividing up proj
 
 #### Some event photos
 
-These images come from my team's and my own attendance photo collection in Ho Chi Minh City. The slides belong to their presenters and organizations and were photographed from screens showing the program from Hanoi.
-
 ![My teammates and me holding attendance badges at the watch party in Ho Chi Minh City](/images/4-EventParticipated/4.2-Cloud-AI-Day/team-watch-party.jpg)
 
 *Figure 1. Our group photo at the AWS office in Ho Chi Minh City during the watch party.*
@@ -182,8 +178,6 @@ These images come from my team's and my own attendance photo collection in Ho Ch
 *Figure 6. Resources for learning more about AWS Agent Toolkit. Slide source: AWS.*
 
 ### References
-
-The resources below offer further reading about the main event in Hanoi and the watch party in Ho Chi Minh City.
 
 #### Official event resources
 

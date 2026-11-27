@@ -95,7 +95,7 @@ I appreciate the time he took to visit the AWS office and share his experience w
 
 ![The conversation with the speakers at the AWS office](/images/4-EventParticipated/4.3-Fireside-Chat/fireside-conversation.jpg)
 
-*Figure 2. The conversation at the AWS office in Ho Chi Minh City. Both images come from my personal event photo collection.*
+*Figure 2. The conversation at the AWS office in Ho Chi Minh City.*
 
 ### References
 

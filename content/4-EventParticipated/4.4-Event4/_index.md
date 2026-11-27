@@ -42,8 +42,6 @@ FCAJ Community Day was a sharing session for the First Cloud AI Journey communit
 | 11:00 – 11:25 | My 3-Month AWS Internship Journey | Khang Duong, FCAJ |
 | 11:30 – 12:00 | Start & Maintain Consistency with Open Source Contributing | Hung Tran, NAB |
 
-The agenda comes from the event page on Luma. Speaker names and organizations come from the organizers' speaker graphic and the title slide of each session.
-
 ### Key Highlights
 
 #### 1. Lessons from building “software factories”
@@ -69,7 +67,7 @@ Two ideas I noted:
 
 #### 2. New to AWS? Where should you start?
 
-The session *New to AWS? Where should you start?* (listed as Education in the agenda) was aimed at students who are new to AWS and covered three things: three learning websites, a clear learning path, and AWS credit opportunities. The speaker stressed that no single website covers every learning need, so the three should be used together:
+The session *New to AWS? Where should you start?* was aimed at students who are new to AWS and covered three things: three learning websites, a clear learning path, and AWS credit opportunities. The speaker stressed that no single website covers every learning need, so the three should be used together:
 
 | Website | Purpose | Main content |
 | --- | --- | --- |
@@ -93,7 +91,7 @@ During the session, AWS Builder Center was opened live on screen to show its Spo
 
 #### 3. AWS Lambda Web Functions
 
-This session presented a new way to think about serverless web architecture with AWS Lambda Web Functions. According to the agenda and the AWS announcement, the main points were native HTTP support that lets a function run a standard HTTP server, up to 128 concurrent requests per execution environment, removing the adapter layer, Active CPU Billing, which meters only the CPU time the code actually uses so that waiting on a database or an external API costs little, and live benchmarks comparing it with running Docker on EC2/ECS.
+This session presented a new way to think about serverless web architecture with AWS Lambda Web Functions. The main points were native HTTP support that lets a function run a standard HTTP server, up to 128 concurrent requests per execution environment, removing the adapter layer, Active CPU Billing, which meters only the CPU time the code actually uses so that waiting on a database or an external API costs little, and live benchmarks comparing it with running Docker on EC2/ECS.
 
 In Lab22, I used Lambda to stop and start EC2 instances automatically with the traditional model, where each execution environment handles one event at a time. This session showed me that Lambda can also act as a real web server, and that the billing model is another factor to compare when choosing between serverless and containers.
 
@@ -157,7 +155,7 @@ I attended with my FCAJ teammates and we had time to talk and take photos togeth
 
 ![My check-in photo with FCAJ teammates at the AWS office during FCAJ Community Day](/images/4-EventParticipated/4.4-Community-Day/team-check-in.jpg)
 
-*Figure 12. My check-in photo with members of the FCAJ community at the event on October 31, 2026. All images in this report come from my personal event photo collection.*
+*Figure 12. My check-in photo with members of the FCAJ community at the event on October 31, 2026.*
 
 ### References
 

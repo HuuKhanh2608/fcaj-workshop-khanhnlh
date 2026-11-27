@@ -35,10 +35,8 @@ AWSxFPTU Cloud Mastery 1 was a workshop for FPT University students built around
 | --- | --- | --- |
 | 1 | From Prototype to Production: Secure, Reliable, Scalable Enterprise AI on the Cloud | Khang Duong, FCAJ member |
 | 2 | AI in Enterprise: Enterprise Challenges and Amazon Bedrock AgentCore | Nguyen Lam Anh, AI Engineer, FCAJ |
-| 3 | Amazon Bedrock AgentCore components: Identity, Gateway, Memory, and Observability | To be updated |
-| 4 | Demo: agent orchestration with Strands Agents, observability with Langfuse, and the deployment architecture on AWS | To be updated |
-
-The event has no public event page. Session titles and speakers come from the slides shown at the event.
+| 3 | Amazon Bedrock AgentCore components: Identity, Gateway, Memory, and Observability | |
+| 4 | Demo: agent orchestration with Strands Agents, observability with Langfuse, and the deployment architecture on AWS | |
 
 ### Key Highlights
 
@@ -188,7 +186,7 @@ The workshop covered a lot of content that was new to me, especially the AgentCo
 
 ![My check-in photo in the audience during the Langfuse demo at AWSxFPTU Cloud Mastery 1](/images/4-EventParticipated/4.5-Cloud-Mastery/check-in.jpg)
 
-*Figure 22. My check-in photo during the demo at the event on November 14, 2026. All images in this report come from my personal event photo collection.*
+*Figure 22. My check-in photo during the demo at the event on November 14, 2026.*
 
 ### References
 

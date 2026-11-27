@@ -42,8 +42,6 @@ FCAJ Community Day là buổi chia sẻ dành cho cộng đồng First Cloud AI 
 | 11:00 – 11:25 | My 3-Month AWS Internship Journey | Khang Duong, FCAJ |
 | 11:30 – 12:00 | Start & Maintain Consistency with Open Source Contributing | Hung Tran, NAB |
 
-Lịch chương trình lấy từ trang sự kiện trên Luma; tên và đơn vị của diễn giả lấy từ ảnh giới thiệu diễn giả của ban tổ chức và slide mở đầu của từng phiên.
-
 ### Nội Dung Nổi Bật
 
 #### 1. Bài học từ việc xây dựng “software factory”
@@ -69,7 +67,7 @@ Hai ý tôi ghi lại:
 
 #### 2. New to AWS? Where should you start?
 
-Phiên *New to AWS? Where should you start?* (mục Education trong lịch chương trình) hướng đến sinh viên mới tiếp cận AWS, với ba nội dung: ba website học tập, một lộ trình học rõ ràng và các cơ hội nhận AWS credit. Diễn giả nhấn mạnh rằng không có website nào đáp ứng mọi nhu cầu học, nên cần kết hợp cả ba:
+Phiên *New to AWS? Where should you start?* hướng đến sinh viên mới tiếp cận AWS, với ba nội dung: ba website học tập, một lộ trình học rõ ràng và các cơ hội nhận AWS credit. Diễn giả nhấn mạnh rằng không có website nào đáp ứng mọi nhu cầu học, nên cần kết hợp cả ba:
 
 | Website | Mục đích | Nội dung chính |
 | --- | --- | --- |
@@ -93,7 +91,7 @@ Trong phiên, trang AWS Builder Center được mở trực tiếp trên màn h�
 
 #### 3. AWS Lambda Web Functions
 
-Phiên này giới thiệu cách nhìn mới về kiến trúc web serverless với AWS Lambda Web Functions. Theo nội dung chương trình và bài công bố của AWS, các điểm chính gồm: hỗ trợ HTTP gốc, cho phép chạy một HTTP server thông thường, và xử lý đồng thời tối đa 128 request trên mỗi môi trường thực thi; bỏ được lớp adapter trung gian; tận dụng cơ chế tính phí theo thời gian CPU thực sự hoạt động (Active CPU Billing), nên thời gian chờ database hay API bên ngoài gần như không tốn phí CPU; và so sánh hiệu năng với cách chạy Docker trên EC2/ECS qua benchmark trực tiếp.
+Phiên này giới thiệu cách nhìn mới về kiến trúc web serverless với AWS Lambda Web Functions. Các điểm chính gồm: hỗ trợ HTTP gốc, cho phép chạy một HTTP server thông thường, và xử lý đồng thời tối đa 128 request trên mỗi môi trường thực thi; bỏ được lớp adapter trung gian; tận dụng cơ chế tính phí theo thời gian CPU thực sự hoạt động (Active CPU Billing), nên thời gian chờ database hay API bên ngoài gần như không tốn phí CPU; và so sánh hiệu năng với cách chạy Docker trên EC2/ECS qua benchmark trực tiếp.
 
 Ở Lab22 tôi đã dùng Lambda để tự động dừng và khởi động EC2 theo mô hình thông thường, trong đó mỗi môi trường thực thi chỉ xử lý một sự kiện tại một thời điểm. Phiên này cho tôi thấy Lambda có thể được dùng như một máy chủ web thực thụ, và cách tính phí cũng là một yếu tố cần so sánh khi chọn giữa serverless và container.
 
@@ -157,7 +155,7 @@ Tôi tham dự cùng các bạn trong nhóm FCAJ và có dịp trò chuyện, ch
 
 ![Ảnh check-in của tôi cùng các bạn FCAJ tại văn phòng AWS trong sự kiện FCAJ Community Day](/images/4-EventParticipated/4.4-Community-Day/team-check-in.jpg)
 
-*Hình 12. Ảnh check-in của tôi cùng các bạn trong cộng đồng FCAJ tại sự kiện ngày 31/10/2026. Các ảnh trong bài thuộc bộ ảnh tham dự cá nhân của tôi.*
+*Hình 12. Ảnh check-in của tôi cùng các bạn trong cộng đồng FCAJ tại sự kiện ngày 31/10/2026.*
 
 ### Tài liệu tham khảo
 

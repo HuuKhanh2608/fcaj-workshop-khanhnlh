@@ -28,7 +28,7 @@ Buổi kickoff giới thiệu chương trình Buildrathon và có talkshow *The 
 
 &emsp; **Tên sự kiện:** AWS Cloud & AI Day Hanoi - Watch Party
 
-&emsp; **Thời gian:** 08:00 đến 17:00, ngày 29/09/2026 (UTC+7), theo lịch chương trình
+&emsp; **Thời gian:** 08:00 đến 17:00, ngày 29/09/2026 (UTC+7)
 
 &emsp; **Địa điểm:** Văn phòng AWS Việt Nam, Bitexco Financial Tower, TP.HCM
 

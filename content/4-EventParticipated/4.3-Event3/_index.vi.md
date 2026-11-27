@@ -95,7 +95,7 @@ Tôi trân trọng việc ông dành thời gian đến văn phòng AWS và chia
 
 ![Không khí buổi trò chuyện với diễn giả tại văn phòng AWS](/images/4-EventParticipated/4.3-Fireside-Chat/fireside-conversation.jpg)
 
-*Hình 2. Không khí buổi trò chuyện tại văn phòng AWS ở TP.HCM. Hai ảnh trong bài thuộc bộ ảnh tham dự cá nhân của tôi.*
+*Hình 2. Không khí buổi trò chuyện tại văn phòng AWS ở TP.HCM.*
 
 ### Tài liệu tham khảo
 
