@@ -6,7 +6,7 @@ chapter: false
 pre: "<b>1. </b>"
 ---
 
-Worklog này ghi lại những gì tôi đã học và thực hiện trong kỳ thực tập FCAJ, kéo dài từ ngày 14/09 đến ngày 14/12/2026. Mười hai tuần đầu kéo dài từ 14/09 đến 06/12/2026. Mỗi tuần gồm mục tiêu, công việc từng ngày kèm nguồn tài liệu đã sử dụng và kết quả đạt được.
+Worklog này ghi lại những gì tôi đã học và thực hiện trong 12 tuần thực tập FCAJ, từ ngày 14/09 đến ngày 14/12/2026. Worklog được cập nhật đến ngày 30/11/2026, hạn nộp worklog. Mỗi tuần gồm mục tiêu, công việc từng ngày kèm nguồn tài liệu đã sử dụng và kết quả đạt được.
 
 **Tuần 1:** [Bắt đầu với FCAJ, nền tảng cloud và tài khoản AWS an toàn](1.1-Week1/)
 
@@ -39,10 +39,6 @@ Worklog này ghi lại những gì tôi đã học và thực hiện trong kỳ 
 | Ngày | Buổi / mã booking | Hoạt động |
 | --- | --- | --- |
 | Chờ cập nhật | Chờ cập nhật | Chờ cập nhật |
-
-### Hoạt động bổ sung sau tuần 12
-
-Các hoạt động từ ngày 07/12 đến ngày 14/12/2026 sẽ được ghi tại đây.
 
 ### Tài liệu tham khảo
 

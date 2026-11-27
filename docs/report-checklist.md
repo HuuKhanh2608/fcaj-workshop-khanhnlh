@@ -48,5 +48,5 @@ Thiếu COST: 0 điểm mục Trình bày. Thiếu demo hoạt động: 0 điể
 - Chưa có dữ liệu: ghi rõ đang chờ; không suy diễn thành đã hoàn thành hoặc đã đạt.
 - Khi cập nhật một trang, cập nhật bản dịch tương ứng và trạng thái trang tổng quan.
 - Thêm file minh chứng khi thực sự có, kiểm tra đường dẫn, che dữ liệu nhạy cảm và ghi nguồn hình ảnh.
-- Worklog 12 tuần tính từ 14/09 đến 06/12/2026. Hoạt động từ 07/12 đến 14/12/2026 được ghi bổ sung tại trang Worklog.
+- Worklog ghi 12 tuần thực tập từ 14/09 đến 14/12/2026, nhưng chỉ cập nhật đến 30/11/2026 (hạn nộp worklog).
 - Chỉ công bố sau khi chủ báo cáo đã kiểm tra nội dung.
