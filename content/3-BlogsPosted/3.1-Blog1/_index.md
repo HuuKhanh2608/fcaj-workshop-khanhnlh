@@ -8,9 +8,9 @@ pre: "<b>3.1. </b>"
 
 # Cleaning up AWS resources: The costs that continue after you "turn things off"
 
-**AWS Study Group post:** link to be added after posting.
+**AWS Study Group post:** [View the original post on Facebook](https://www.facebook.com/groups/awsstudygroupfcj/posts/2336113367153622)
 
-**Posted on:** to be updated.
+**Posted on:** November 13, 2026.
 
 > The original post is written in Vietnamese for the AWS Study Group community. This page is the English version for my internship report.
 
@@ -100,3 +100,5 @@ Prices in this post come from the official AWS pricing pages at the time of writ
 8. AWS Quick Documentation — [Account details in AWS Quick](https://docs.aws.amazon.com/quick/latest/userguide/manage-qs-account-settings.html)
 9. [Amazon Athena Pricing](https://aws.amazon.com/athena/pricing/)
 10. AWS Resource Explorer Documentation — [What is AWS Resource Explorer?](https://docs.aws.amazon.com/resource-explorer/latest/userguide/welcome.html)
+
+`#AWS` `#CostOptimization` `#AWSBudgets` `#AmazonVPC` `#AmazonEC2` `#AmazonAthena` `#AWSStudyGroup` `#FirstCloudJourney`

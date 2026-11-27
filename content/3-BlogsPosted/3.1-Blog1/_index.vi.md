@@ -8,9 +8,9 @@ pre: "<b>3.1. </b>"
 
 # Dọn dẹp tài nguyên AWS: Những khoản phí vẫn phát sinh sau khi đã "tắt"
 
-**Bài đăng trên AWS Study Group:** chờ cập nhật link sau khi đăng.
+**Bài đăng trên AWS Study Group:** [Xem bài gốc trên Facebook](https://www.facebook.com/groups/awsstudygroupfcj/posts/2336113367153622)
 
-**Ngày đăng:** chờ cập nhật.
+**Ngày đăng:** 13/11/2026.
 
 ---
 
@@ -98,3 +98,5 @@ Giá trong bài lấy từ trang pricing chính thức của AWS tại thời đ
 8. AWS Quick Documentation — [Account details in AWS Quick](https://docs.aws.amazon.com/quick/latest/userguide/manage-qs-account-settings.html)
 9. [Amazon Athena Pricing](https://aws.amazon.com/athena/pricing/)
 10. AWS Resource Explorer Documentation — [What is AWS Resource Explorer?](https://docs.aws.amazon.com/resource-explorer/latest/userguide/welcome.html)
+
+`#AWS` `#CostOptimization` `#AWSBudgets` `#AmazonVPC` `#AmazonEC2` `#AmazonAthena` `#AWSStudyGroup` `#FirstCloudJourney`

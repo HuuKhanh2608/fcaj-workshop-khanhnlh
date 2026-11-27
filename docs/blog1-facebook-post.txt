@@ -1,82 +1,82 @@
-𝗗𝗼̣𝗻 𝗱𝗲̣𝗽 𝘁𝗮̀𝗶 𝗻𝗴𝘂𝘆𝗲̂𝗻 𝗔𝗪𝗦: 𝗡𝗵𝘂̛̃𝗻𝗴 𝗸𝗵𝗼𝗮̉𝗻 𝗽𝗵𝗶́ 𝘃𝗮̂̃𝗻 𝗽𝗵𝗮́𝘁 𝘀𝗶𝗻𝗵 𝘀𝗮𝘂 𝗸𝗵𝗶 đ𝗮̃ "𝘁𝗮̆́𝘁"
+DỌN DẸP TÀI NGUYÊN AWS: NHỮNG KHOẢN PHÍ VẪN PHÁT SINH SAU KHI ĐÃ "TẮT"
 
-Sau khi thực hành trên AWS, nhiều người dừng EC2 hoặc hoàn thành bài lab và nghĩ rằng chi phí cũng dừng lại. Thực tế, AWS tính phí theo 𝘁𝘂̛̀𝗻𝗴 𝘁𝗮̀𝗶 𝗻𝗴𝘂𝘆𝗲̂𝗻 𝗰𝗼̀𝗻 𝘁𝗼̂̀𝗻 𝘁𝗮̣𝗶 trong tài khoản, không chỉ theo việc máy có đang chạy hay không.
+Sau khi thực hành trên AWS, nhiều người dừng EC2 hoặc hoàn thành bài lab và nghĩ rằng chi phí cũng dừng lại. Thực tế, AWS tính phí theo từng tài nguyên còn tồn tại trong tài khoản, không chỉ theo việc máy có đang chạy hay không.
 Bài viết tổng hợp các khoản phí dễ bị bỏ sót, cách AWS tính phí cho từng khoản và thứ tự dọn dẹp nên áp dụng.
 
 ━━━━━━━━━━━━━━━━━━━━
 
-𝗜. 𝗩𝗶̀ 𝘀𝗮𝗼 "𝘁𝗮̆́𝘁" 𝗰𝗵𝘂̛𝗮 𝗽𝗵𝗮̉𝗶 𝗹𝗮̀ "𝗵𝗲̂́𝘁 𝗽𝗵𝗶́"?
+I. VÌ SAO "TẮT" CHƯA PHẢI LÀ "HẾT PHÍ"?
 
-Khi một EC2 instance ở trạng thái 𝘀𝘁𝗼𝗽𝗽𝗲𝗱, AWS không tính phí sử dụng instance. Tuy nhiên:
-• 𝗘𝗕𝗦 𝘃𝗼𝗹𝘂𝗺𝗲 gắn với instance vẫn bị tính phí lưu trữ.
-• 𝗘𝗹𝗮𝘀𝘁𝗶𝗰 𝗜𝗣 vẫn phát sinh phí bất kể trạng thái của instance.
+Khi một EC2 instance ở trạng thái stopped, AWS không tính phí sử dụng instance. Tuy nhiên:
+• EBS volume gắn với instance vẫn bị tính phí lưu trữ.
+• Elastic IP vẫn phát sinh phí bất kể trạng thái của instance.
 
 👉 Instance chỉ là phần tính toán. Ổ đĩa, địa chỉ IP và snapshot là các tài nguyên riêng, có chi phí riêng.
 
 ━━━━━━━━━━━━━━━━━━━━
 
-𝗜𝗜. 𝗔𝗪𝗦 𝗕𝘂𝗱𝗴𝗲𝘁𝘀: 𝗰𝗮̉𝗻𝗵 𝗯𝗮́𝗼, 𝗸𝗵𝗼̂𝗻𝗴 𝗽𝗵𝗮̉𝗶 𝗴𝗶𝗼̛́𝗶 𝗵𝗮̣𝗻
+II. AWS BUDGETS: CẢNH BÁO, KHÔNG PHẢI GIỚI HẠN
 
 AWS Budgets theo dõi chi phí và gửi thông báo qua email hoặc Amazon SNS khi vượt ngưỡng. Hai điểm cần lưu ý:
-• 𝗖𝗼́ đ𝗼̣̂ 𝘁𝗿𝗲̂̃: dữ liệu Budgets được cập nhật tối đa ba lần mỗi ngày, nên cảnh báo đến sau khi phí đã phát sinh.
-• 𝗞𝗵𝗼̂𝗻𝗴 𝘁𝘂̛̣ 𝘅𝗼́𝗮 𝘁𝗮̀𝗶 𝗻𝗴𝘂𝘆𝗲̂𝗻: nếu cần chặn tự động, có thể cấu hình 𝗯𝘂𝗱𝗴𝗲𝘁 𝗮𝗰𝘁𝗶𝗼𝗻 để áp một IAM policy từ chối tạo thêm tài nguyên khi vượt ngưỡng.
+• Có độ trễ: dữ liệu Budgets được cập nhật tối đa ba lần mỗi ngày, nên cảnh báo đến sau khi phí đã phát sinh.
+• Không tự xóa tài nguyên: nếu cần chặn tự động, có thể cấu hình budget action để áp một IAM policy từ chối tạo thêm tài nguyên khi vượt ngưỡng.
 
 ━━━━━━━━━━━━━━━━━━━━
 
-𝗜𝗜𝗜. 𝗖𝗮́𝗰 𝗸𝗵𝗼𝗮̉𝗻 𝗽𝗵𝗶́ 𝗱𝗲̂̃ 𝗯𝗼̉ 𝘀𝗼́𝘁
+III. CÁC KHOẢN PHÍ DỄ BỎ SÓT
 
-𝟭. 𝗡𝗔𝗧 𝗚𝗮𝘁𝗲𝘄𝗮𝘆
+1. NAT Gateway
 NAT gateway thường được đặt ở public subnet để EC2 trong private subnet truy cập internet (sơ đồ đính kèm, nguồn: AWS Documentation – NAT gateway use cases).
-• Tính phí 𝘁𝗵𝗲𝗼 𝗺𝗼̂̃𝗶 𝗴𝗶𝗼̛̀ NAT gateway được tạo và sẵn sàng; một phần giờ được tính tròn thành một giờ.
-• Cộng thêm 𝗽𝗵𝗶́ 𝘅𝘂̛̉ 𝗹𝘆́ 𝗰𝗵𝗼 𝗺𝗼̂̃𝗶 𝗚𝗕 dữ liệu đi qua.
-• Ví dụ tại US East (Ohio): 𝟬,𝟬𝟰𝟱 𝗨𝗦𝗗/𝗴𝗶𝗼̛̀, tức khoảng 𝟯𝟮,𝟰 𝗨𝗦𝗗/𝟯𝟬 𝗻𝗴𝗮̀𝘆, kể cả khi không có traffic.
-👉 Nếu EC2 chỉ cần truy cập Amazon S3, dùng 𝗴𝗮𝘁𝗲𝘄𝗮𝘆 𝗩𝗣𝗖 𝗲𝗻𝗱𝗽𝗼𝗶𝗻𝘁: không tính phí theo giờ và không tính phí xử lý dữ liệu.
+• Tính phí theo mỗi giờ NAT gateway được tạo và sẵn sàng; một phần giờ được tính tròn thành một giờ.
+• Cộng thêm phí xử lý cho mỗi GB dữ liệu đi qua.
+• Ví dụ tại US East (Ohio): 0,045 USD/giờ, tức khoảng 32,4 USD/30 ngày, kể cả khi không có traffic.
+👉 Nếu EC2 chỉ cần truy cập Amazon S3, dùng gateway VPC endpoint: không tính phí theo giờ và không tính phí xử lý dữ liệu.
 
-𝟮. 𝗣𝘂𝗯𝗹𝗶𝗰 𝗜𝗣𝘃𝟰 𝘃𝗮̀ 𝗘𝗹𝗮𝘀𝘁𝗶𝗰 𝗜𝗣
-• Mỗi địa chỉ public IPv4 tính 𝟬,𝟬𝟬𝟱 𝗨𝗦𝗗/𝗴𝗶𝗼̛̀, như nhau dù đang gắn vào tài nguyên hay để không; khoảng 𝟯,𝟲 𝗨𝗦𝗗/𝟯𝟬 𝗻𝗴𝗮̀𝘆.
-• Sau khi xóa NAT gateway hoặc EC2, cần 𝗿𝗲𝗹𝗲𝗮𝘀𝗲 𝗘𝗹𝗮𝘀𝘁𝗶𝗰 𝗜𝗣 nếu không còn dùng.
-• Theo dõi các địa chỉ đang giữ bằng 𝗣𝘂𝗯𝗹𝗶𝗰 𝗜𝗣 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 trong Amazon VPC IP Address Manager.
+2. Public IPv4 và Elastic IP
+• Mỗi địa chỉ public IPv4 tính 0,005 USD/giờ, như nhau dù đang gắn vào tài nguyên hay để không; khoảng 3,6 USD/30 ngày.
+• Sau khi xóa NAT gateway hoặc EC2, cần release Elastic IP nếu không còn dùng.
+• Theo dõi các địa chỉ đang giữ bằng Public IP Insights trong Amazon VPC IP Address Manager.
 
-𝟯. 𝗘𝗕𝗦 𝘃𝗼𝗹𝘂𝗺𝗲, 𝘀𝗻𝗮𝗽𝘀𝗵𝗼𝘁 𝘃𝗮̀ 𝗔𝗠𝗜
-• 𝗗𝗲𝗿𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗔𝗠𝗜 𝗸𝗵𝗼̂𝗻𝗴 𝘁𝘂̛̣ 𝘅𝗼́𝗮 𝘀𝗻𝗮𝗽𝘀𝗵𝗼𝘁 liên quan, trừ khi chọn xóa cùng lúc. Snapshot còn lại tiếp tục bị tính phí lưu trữ.
+3. EBS volume, snapshot và AMI
+• Deregister AMI không tự xóa snapshot liên quan, trừ khi chọn xóa cùng lúc. Snapshot còn lại tiếp tục bị tính phí lưu trữ.
 • Thứ tự dọn dẹp: terminate instance → xóa EBS volume ở trạng thái available → deregister AMI → xóa snapshot.
 
-𝟰. 𝗔𝗪𝗦 𝗗𝗠𝗦 𝗿𝗲𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗶𝗻𝘀𝘁𝗮𝗻𝗰𝗲
-• Replication instance 𝘁𝗶́𝗻𝗵 𝗽𝗵𝗶́ 𝘁𝗵𝗲𝗼 𝗴𝗶𝗼̛̀, kể cả khi migration task đã hoàn tất.
-• Dòng 𝗧𝟯 chạy ở chế độ unlimited: nếu CPU trung bình trong 24 giờ vượt baseline, phát sinh thêm 𝗽𝗵𝗶́ 𝗖𝗣𝗨 𝗰𝗿𝗲𝗱𝗶𝘁.
+4. AWS DMS replication instance
+• Replication instance tính phí theo giờ, kể cả khi migration task đã hoàn tất.
+• Dòng T3 chạy ở chế độ unlimited: nếu CPU trung bình trong 24 giờ vượt baseline, phát sinh thêm phí CPU credit.
 
-𝟱. 𝗔𝗪𝗦 𝗤𝘂𝗶𝗰𝗸 𝗦𝗶𝗴𝗵𝘁
-• Quick Sight (trước đây là Amazon QuickSight) tính phí theo người dùng: tài khoản Author là 𝟮𝟰 𝗨𝗦𝗗/𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗱𝘂̀𝗻𝗴/𝘁𝗵𝗮́𝗻𝗴.
-• Khi không còn sử dụng, cần hủy subscription. Lưu ý: thao tác này 𝘅𝗼́𝗮 𝘃𝗶̃𝗻𝗵 𝘃𝗶𝗲̂̃𝗻 toàn bộ dashboard, analysis và dataset ở mọi Region.
+5. AWS Quick Sight
+• Quick Sight (trước đây là Amazon QuickSight) tính phí theo người dùng: tài khoản Author là 24 USD/người dùng/tháng.
+• Khi không còn sử dụng, cần hủy subscription. Lưu ý: thao tác này xóa vĩnh viễn toàn bộ dashboard, analysis và dataset ở mọi Region.
 
-𝟲. 𝗔𝗺𝗮𝘇𝗼𝗻 𝗔𝘁𝗵𝗲𝗻𝗮 𝘃𝗮̀ 𝗸𝗲̂́𝘁 𝗾𝘂𝗮̉ 𝘁𝗿𝘂𝘆 𝘃𝗮̂́𝗻 𝘁𝗿𝗲̂𝗻 𝗦𝟯
-• Truy vấn SQL tính phí 𝘁𝗵𝗲𝗼 𝗹𝘂̛𝗼̛̣𝗻𝗴 𝗱𝘂̛̃ 𝗹𝗶𝗲̣̂𝘂 𝗾𝘂𝗲́𝘁 (𝟱 𝗨𝗦𝗗/𝗧𝗕). Trong ví dụ của AWS:
-   – Bảng 3 TB dạng text chưa nén: 𝟭𝟱 𝗨𝗦𝗗/truy vấn.
-   – Nén GZIP tỷ lệ 3:1: còn 𝟱 𝗨𝗦𝗗.
-   – Chuyển sang 𝗣𝗮𝗿𝗾𝘂𝗲𝘁: Athena chỉ đọc cột cần thiết, chi phí giảm thêm.
+6. Amazon Athena và kết quả truy vấn trên S3
+• Truy vấn SQL tính phí theo lượng dữ liệu quét (5 USD/TB). Trong ví dụ của AWS:
+   – Bảng 3 TB dạng text chưa nén: 15 USD/truy vấn.
+   – Nén GZIP tỷ lệ 3:1: còn 5 USD.
+   – Chuyển sang Parquet: Athena chỉ đọc cột cần thiết, chi phí giảm thêm.
 • Kết quả truy vấn được lưu trên Amazon S3 và tính theo giá S3, nên cần dọn bucket chứa kết quả sau khi thực hành.
 
 ━━━━━━━━━━━━━━━━━━━━
 
-𝗜𝗩. 𝗤𝘂𝘆 𝘁𝗿𝗶̀𝗻𝗵 𝗱𝗼̣𝗻 𝗱𝗲̣𝗽 𝘀𝗮𝘂 𝗸𝗵𝗶 𝘁𝗵𝘂̛̣𝗰 𝗵𝗮̀𝗻𝗵
+IV. QUY TRÌNH DỌN DẸP SAU KHI THỰC HÀNH
 
-✅ 𝗕𝘂̛𝗼̛́𝗰 𝟭 – 𝗧𝗵𝗲𝗼 𝘁𝗵𝘂̛́ 𝘁𝘂̛̣ 𝗽𝗵𝘂̣ 𝘁𝗵𝘂𝗼̣̂𝗰: dừng task hoặc job trước, sau đó mới xóa tài nguyên nền.
-✅ 𝗕𝘂̛𝗼̛́𝗰 𝟮 – 𝗠𝗮̣𝗻𝗴: xóa NAT gateway → release Elastic IP → xóa VPC endpoint và VPN nếu có.
-✅ 𝗕𝘂̛𝗼̛́𝗰 𝟯 – 𝗖𝗼𝗺𝗽𝘂𝘁𝗲 𝘃𝗮̀ 𝗹𝘂̛𝘂 𝘁𝗿𝘂̛̃: terminate EC2 → xóa EBS volume còn sót → deregister AMI → xóa snapshot.
-✅ 𝗕𝘂̛𝗼̛́𝗰 𝟰 – 𝗗𝘂̛̃ 𝗹𝗶𝗲̣̂𝘂 𝘃𝗮̀ 𝗽𝗵𝗮̂𝗻 𝘁𝗶́𝗰𝗵: xóa database và replication instance, hủy Quick Sight nếu không dùng, dọn bucket S3 chứa dữ liệu và kết quả Athena.
-✅ 𝗕𝘂̛𝗼̛́𝗰 𝟱 – 𝗧𝗶̀𝗺 𝘁𝗮̀𝗶 𝗻𝗴𝘂𝘆𝗲̂𝗻 𝘀𝗼́𝘁: dùng 𝗔𝗪𝗦 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗘𝘅𝗽𝗹𝗼𝗿𝗲𝗿 với tìm kiếm cross-Region; việc tìm kiếm không tính phí.
-✅ 𝗕𝘂̛𝗼̛́𝗰 𝟲 – 𝗞𝗶𝗲̂̉𝗺 𝘁𝗿𝗮 𝗹𝗮̣𝗶 𝗕𝗶𝗹𝗹𝗶𝗻𝗴 vào ngày hôm sau, vì dữ liệu chi phí có độ trễ.
+✅ Bước 1 – Theo thứ tự phụ thuộc: dừng task hoặc job trước, sau đó mới xóa tài nguyên nền.
+✅ Bước 2 – Mạng: xóa NAT gateway → release Elastic IP → xóa VPC endpoint và VPN nếu có.
+✅ Bước 3 – Compute và lưu trữ: terminate EC2 → xóa EBS volume còn sót → deregister AMI → xóa snapshot.
+✅ Bước 4 – Dữ liệu và phân tích: xóa database và replication instance, hủy Quick Sight nếu không dùng, dọn bucket S3 chứa dữ liệu và kết quả Athena.
+✅ Bước 5 – Tìm tài nguyên sót: dùng AWS Resource Explorer với tìm kiếm cross-Region; việc tìm kiếm không tính phí.
+✅ Bước 6 – Kiểm tra lại Billing vào ngày hôm sau, vì dữ liệu chi phí có độ trễ.
 
 👉 Gắn tag thống nhất cho tài nguyên ngay từ lúc tạo (ví dụ Project=lab-vpc) giúp lọc và dọn dẹp nhanh hơn.
 
 ━━━━━━━━━━━━━━━━━━━━
 
-𝗟𝘂̛𝘂 𝘆́ 𝘃𝗲̂̀ 𝗴𝗶𝗮́
+LƯU Ý VỀ GIÁ
 Giá trong bài lấy từ trang pricing chính thức của AWS tại thời điểm viết (11/2026); một số ví dụ dùng Region US East (Ohio). Giá thay đổi theo Region và theo thời gian, nên cần kiểm tra lại bằng AWS Pricing Calculator cho Region đang sử dụng.
 
 ━━━━━━━━━━━━━━━━━━━━
 
-𝗡𝗴𝘂𝗼̂̀𝗻 𝘁𝗵𝗮𝗺 𝗸𝗵𝗮̉𝗼
+NGUỒN THAM KHẢO
 1. Amazon EC2 Documentation — Amazon EC2 instance state changes
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-lifecycle.html
 2. AWS Cost Management Documentation — Managing your costs with AWS Budgets
@@ -97,3 +97,5 @@ https://docs.aws.amazon.com/quick/latest/userguide/manage-qs-account-settings.ht
 https://aws.amazon.com/athena/pricing/
 10. AWS Resource Explorer Documentation — What is AWS Resource Explorer?
 https://docs.aws.amazon.com/resource-explorer/latest/userguide/welcome.html
+
+#AWS #CostOptimization #AWSBudgets #AmazonVPC #AmazonEC2 #AmazonAthena #AWSStudyGroup #FirstCloudJourney
