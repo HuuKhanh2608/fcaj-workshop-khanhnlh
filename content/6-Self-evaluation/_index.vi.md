@@ -7,27 +7,29 @@ pre: "<b>6. </b>"
 ---
 
 Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Viet Nam** (chương trình First Cloud AI Journey Workforce Bootcamp) từ **14/09/2026** đến **14/12/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã học ở trường vào môi trường làm việc thực tế.  
-Dự án chính đã tham gia và các kỹ năng đã cải thiện sẽ được tổng kết tại đây sau khi hoàn thành worklog và workshop.
+Tôi đã tham gia **thực hành các lab AWS từ Module 01 đến Module 07, viết 3 blog kỹ thuật đăng trên AWS Study Group, tham dự các sự kiện cộng đồng và chuẩn bị workshop cá nhân**, qua đó cải thiện kỹ năng **hạ tầng AWS (VPC, EC2, S3 và kết nối hybrid), bảo mật và IAM, dữ liệu và phân tích (RDS, DMS, DynamoDB, Glue, Athena và QuickSight), viết tài liệu và báo cáo kỹ thuật**.
 
-Về tác phong: chờ cập nhật.
+Về tác phong, tôi hoàn thành công việc đúng hạn, tự học theo lộ trình và chủ động hỏi mentor cũng như các bạn trong nhóm khi gặp khó khăn.
 
 Để phản ánh một cách khách quan quá trình thực tập, tôi tự đánh giá bản thân dựa trên các tiêu chí dưới đây:
 
 | STT | Tiêu chí | Mô tả | Tốt | Khá | Trung bình |
 | --- | --- | --- | --- | --- | --- |
-| 1 | **Kiến thức và kỹ năng chuyên môn** | Hiểu biết về ngành, áp dụng kiến thức vào thực tế, kỹ năng sử dụng công cụ, chất lượng công việc | ☐ | ☐ | ☐ |
-| 2 | **Khả năng học hỏi** | Tiếp thu kiến thức mới, học hỏi nhanh | ☐ | ☐ | ☐ |
-| 3 | **Chủ động** | Tự tìm hiểu, nhận nhiệm vụ mà không chờ chỉ dẫn | ☐ | ☐ | ☐ |
-| 4 | **Tinh thần trách nhiệm** | Hoàn thành công việc đúng hạn, đảm bảo chất lượng | ☐ | ☐ | ☐ |
-| 5 | **Kỷ luật** | Tuân thủ giờ giấc, nội quy, quy trình làm việc | ☐ | ☐ | ☐ |
-| 6 | **Tính cầu tiến** | Sẵn sàng nhận feedback và cải thiện bản thân | ☐ | ☐ | ☐ |
-| 7 | **Giao tiếp** | Trình bày ý tưởng, báo cáo công việc rõ ràng | ☐ | ☐ | ☐ |
-| 8 | **Hợp tác nhóm** | Làm việc hiệu quả với đồng nghiệp, tham gia nhóm | ☐ | ☐ | ☐ |
-| 9 | **Ứng xử chuyên nghiệp** | Tôn trọng đồng nghiệp, đối tác, môi trường làm việc | ☐ | ☐ | ☐ |
-| 10 | **Tư duy giải quyết vấn đề** | Nhận diện vấn đề, đề xuất giải pháp, sáng tạo | ☐ | ☐ | ☐ |
-| 11 | **Đóng góp vào dự án/tổ chức** | Hiệu quả công việc, sáng kiến cải tiến, ghi nhận từ team | ☐ | ☐ | ☐ |
-| 12 | **Tổng thể** | Đánh giá chung về toàn bộ quá trình thực tập | ☐ | ☐ | ☐ |
+| 1 | **Kiến thức và kỹ năng chuyên môn** | Hiểu biết về ngành, áp dụng kiến thức vào thực tế, kỹ năng sử dụng công cụ, chất lượng công việc | ☐ | ✅ | ☐ |
+| 2 | **Khả năng học hỏi** | Tiếp thu kiến thức mới, học hỏi nhanh | ✅ | ☐ | ☐ |
+| 3 | **Chủ động** | Tự tìm hiểu, nhận nhiệm vụ mà không chờ chỉ dẫn | ✅ | ☐ | ☐ |
+| 4 | **Tinh thần trách nhiệm** | Hoàn thành công việc đúng hạn, đảm bảo chất lượng | ✅ | ☐ | ☐ |
+| 5 | **Kỷ luật** | Tuân thủ giờ giấc, nội quy, quy trình làm việc | ✅ | ☐ | ☐ |
+| 6 | **Tính cầu tiến** | Sẵn sàng nhận feedback và cải thiện bản thân | ✅ | ☐ | ☐ |
+| 7 | **Giao tiếp** | Trình bày ý tưởng, báo cáo công việc rõ ràng | ☐ | ✅ | ☐ |
+| 8 | **Hợp tác nhóm** | Làm việc hiệu quả với đồng nghiệp, tham gia nhóm | ✅ | ☐ | ☐ |
+| 9 | **Ứng xử chuyên nghiệp** | Tôn trọng đồng nghiệp, đối tác, môi trường làm việc | ✅ | ☐ | ☐ |
+| 10 | **Tư duy giải quyết vấn đề** | Nhận diện vấn đề, đề xuất giải pháp, sáng tạo | ☐ | ✅ | ☐ |
+| 11 | **Đóng góp vào dự án/tổ chức** | Hiệu quả công việc, sáng kiến cải tiến, ghi nhận từ team | ✅ | ☐ | ☐ |
+| 12 | **Tổng thể** | Đánh giá chung về toàn bộ quá trình thực tập | ✅ | ☐ | ☐ |
 
 ### Cần cải thiện
 
-* Chờ cập nhật.
+* Áp dụng kiến thức vào dự án thực tế nhiều hơn, không chỉ làm theo hướng dẫn lab
+* Trình bày ý tưởng và báo cáo tiến độ ngắn gọn, rõ ràng hơn
+* Tự phân tích nguyên nhân lỗi và đề xuất nhiều phương án trước khi nhờ hỗ trợ
