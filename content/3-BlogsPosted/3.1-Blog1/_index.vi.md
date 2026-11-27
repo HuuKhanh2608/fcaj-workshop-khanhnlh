@@ -8,12 +8,6 @@ pre: "<b>3.1. </b>"
 
 # Dọn dẹp tài nguyên AWS: Những khoản phí vẫn phát sinh sau khi đã "tắt"
 
-**Bài đăng trên AWS Study Group:** [Xem bài gốc trên Facebook](https://www.facebook.com/groups/awsstudygroupfcj/posts/2336113367153622)
-
-**Ngày đăng:** 13/11/2026.
-
----
-
 Sau khi thực hành trên AWS, nhiều người dừng EC2 hoặc hoàn thành bài lab và nghĩ rằng chi phí cũng dừng lại. Thực tế, AWS tính phí theo từng tài nguyên còn tồn tại trong tài khoản, không chỉ theo việc máy có đang chạy hay không. Bài viết tổng hợp các khoản phí dễ bị bỏ sót, cách AWS tính phí cho từng khoản và thứ tự dọn dẹp nên áp dụng.
 
 ## Vì sao "tắt" chưa phải là "hết phí"?
@@ -85,6 +79,12 @@ Gắn tag thống nhất cho tài nguyên ngay từ lúc tạo, ví dụ `Projec
 ## Lưu ý về giá
 
 Giá trong bài lấy từ trang pricing chính thức của AWS tại thời điểm viết (11/2026); một số ví dụ dùng Region US East (Ohio) theo trang pricing. Giá thay đổi theo Region và theo thời gian, nên cần kiểm tra lại bằng AWS Pricing Calculator cho Region đang sử dụng.
+
+## Bài đăng trên AWS Study Group
+
+**Link:** [Xem bài gốc trên Facebook](https://www.facebook.com/groups/awsstudygroupfcj/posts/2336113367153622)
+
+**Ngày đăng:** 13/11/2026.
 
 ## Nguồn tham khảo
 

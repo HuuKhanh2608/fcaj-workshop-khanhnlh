@@ -8,14 +8,6 @@ pre: "<b>3.2. </b>"
 
 # IAM roles on EC2 and IMDSv2: Where does your application get its credentials?
 
-**AWS Study Group post:** [View the original post on Facebook](https://www.facebook.com/groups/awsstudygroupfcj/posts/2340606156704343)
-
-**Posted on:** November 17, 2026.
-
-> The original post is written in Vietnamese for the AWS Study Group community. This page is the English version for my internship report.
-
----
-
 Applications running on EC2 often need to call AWS services such as Amazon S3 or DynamoDB. The quickest approach is to put an access key in the code or a configuration file, but an access key is a **long-term credential**. AWS recommends that workloads running on AWS use the **temporary credentials of an IAM role**, so there is no need to distribute long-lived access keys.
 
 This post explains how EC2 receives IAM role credentials, how IMDSv2 works, and the configuration mistakes that are easy to make.
@@ -124,6 +116,12 @@ Setting IMDSv2 as the account-level default **does not change existing instances
 * Role credentials are temporary, rotated automatically, and retrieved through IMDS.
 * IMDSv2 uses session tokens: **PUT to get a token, GET with the token**.
 * Require IMDSv2, set the hop limit to 2 for containers, and keep the role's permissions to a minimum.
+
+## AWS Study Group post
+
+**Link:** [View the original post on Facebook](https://www.facebook.com/groups/awsstudygroupfcj/posts/2340606156704343)
+
+**Posted on:** November 17, 2026.
 
 ## References
 

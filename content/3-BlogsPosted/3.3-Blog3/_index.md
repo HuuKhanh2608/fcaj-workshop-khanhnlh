@@ -8,14 +8,6 @@ pre: "<b>3.3. </b>"
 
 # Amazon RDS: Multi-AZ or read replica? Choosing between high availability and read scaling
 
-**AWS Study Group post:** [View the original post on Facebook](https://www.facebook.com/groups/awsstudygroupfcj/posts/2347065196058439)
-
-**Posted on:** November 23, 2026.
-
-> The original post is written in Vietnamese for the AWS Study Group community. This page is the English version for my internship report.
-
----
-
 Amazon RDS offers three deployment options that keep a replica of the data in another Availability Zone (AZ): **Multi-AZ DB instance**, **Multi-AZ DB cluster**, and **read replica**. They serve two different goals:
 
 * **High availability (HA):** when the primary instance fails, the application switches to the copy and keeps running.
@@ -114,6 +106,12 @@ The two mechanisms are not mutually exclusive. A common architecture:
 * Multi-AZ DB cluster: 1 writer + 2 readers in 3 AZs, semisynchronous, failover typically under 35 seconds.
 * Read replica: asynchronous, can lag, promoted manually, can be in another Region.
 * The application must use endpoints, keep a short DNS TTL, reconnect, and monitor `ReplicaLag`.
+
+## AWS Study Group post
+
+**Link:** [View the original post on Facebook](https://www.facebook.com/groups/awsstudygroupfcj/posts/2347065196058439)
+
+**Posted on:** November 23, 2026.
 
 ## References
 

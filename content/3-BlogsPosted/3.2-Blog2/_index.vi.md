@@ -8,12 +8,6 @@ pre: "<b>3.2. </b>"
 
 # IAM role trên EC2 và IMDSv2: Ứng dụng lấy credentials từ đâu?
 
-**Bài đăng trên AWS Study Group:** [Xem bài gốc trên Facebook](https://www.facebook.com/groups/awsstudygroupfcj/posts/2340606156704343)
-
-**Ngày đăng:** 17/11/2026.
-
----
-
 Ứng dụng chạy trên EC2 thường cần gọi các dịch vụ AWS như Amazon S3 hay DynamoDB. Cách nhanh nhất là đặt access key vào code hoặc file cấu hình, nhưng access key là **long-term credentials**. AWS khuyến nghị workload chạy trên AWS dùng **credentials tạm thời của IAM role**, không cần phân phối access key dài hạn.
 
 Bài viết giải thích EC2 nhận credentials của IAM role như thế nào, IMDSv2 hoạt động ra sao và những lỗi cấu hình thường gặp.
@@ -122,6 +116,12 @@ Thiết lập mặc định IMDSv2 ở cấp tài khoản **không thay đổi i
 * Credentials của role là tạm thời, được xoay vòng tự động và lấy qua IMDS.
 * IMDSv2 dùng token theo phiên: **PUT để lấy token, GET kèm token**.
 * Bắt buộc IMDSv2, đặt hop limit 2 nếu chạy container, và vẫn giữ quyền của role ở mức tối thiểu.
+
+## Bài đăng trên AWS Study Group
+
+**Link:** [Xem bài gốc trên Facebook](https://www.facebook.com/groups/awsstudygroupfcj/posts/2340606156704343)
+
+**Ngày đăng:** 17/11/2026.
 
 ## Nguồn tham khảo
 

@@ -8,14 +8,6 @@ pre: "<b>3.1. </b>"
 
 # Cleaning up AWS resources: The costs that continue after you "turn things off"
 
-**AWS Study Group post:** [View the original post on Facebook](https://www.facebook.com/groups/awsstudygroupfcj/posts/2336113367153622)
-
-**Posted on:** November 13, 2026.
-
-> The original post is written in Vietnamese for the AWS Study Group community. This page is the English version for my internship report.
-
----
-
 After practicing on AWS, many people stop their EC2 instances or finish a lab and assume the costs stop too. In reality, AWS charges for each resource that still exists in the account, not only for whether a machine is running. This post summarizes the costs that are easy to miss, how AWS charges for each of them, and the clean-up order to follow.
 
 ## Why "stopped" is not the same as "no charge"
@@ -87,6 +79,12 @@ Applying consistent tags when creating resources, for example `Project=lab-vpc`,
 ## A note on pricing
 
 Prices in this post come from the official AWS pricing pages at the time of writing (November 2026); some examples use the US East (Ohio) Region as shown on the pricing pages. Prices vary by Region and over time, so check them with AWS Pricing Calculator for the Region you use.
+
+## AWS Study Group post
+
+**Link:** [View the original post on Facebook](https://www.facebook.com/groups/awsstudygroupfcj/posts/2336113367153622)
+
+**Posted on:** November 13, 2026.
 
 ## References
 

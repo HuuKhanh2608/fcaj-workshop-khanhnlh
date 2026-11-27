@@ -8,12 +8,6 @@ pre: "<b>3.3. </b>"
 
 # Amazon RDS: Multi-AZ hay Read Replica? Chọn đúng giữa high availability và read scaling
 
-**Bài đăng trên AWS Study Group:** [Xem bài gốc trên Facebook](https://www.facebook.com/groups/awsstudygroupfcj/posts/2347065196058439)
-
-**Ngày đăng:** 23/11/2026.
-
----
-
 Amazon RDS có ba deployment option cùng tạo replica của dữ liệu ở Availability Zone (AZ) khác: **Multi-AZ DB instance**, **Multi-AZ DB cluster** và **read replica**. Ba option này phục vụ hai mục tiêu khác nhau:
 
 * **High availability (HA):** khi primary instance gặp sự cố, ứng dụng chuyển sang replica và tiếp tục chạy.
@@ -112,6 +106,12 @@ Hai cơ chế không loại trừ nhau. Một kiến trúc thường gặp:
 * Multi-AZ DB cluster: 1 writer + 2 reader ở 3 AZ, semisynchronous replication, failover thường dưới 35 giây.
 * Read replica: asynchronous replication, có replica lag, promote thủ công, có thể đặt ở Region khác.
 * Ứng dụng phải kết nối qua endpoint, giữ DNS TTL ngắn, có cơ chế reconnect và theo dõi `ReplicaLag`.
+
+## Bài đăng trên AWS Study Group
+
+**Link:** [Xem bài gốc trên Facebook](https://www.facebook.com/groups/awsstudygroupfcj/posts/2347065196058439)
+
+**Ngày đăng:** 23/11/2026.
 
 ## Nguồn tham khảo
 

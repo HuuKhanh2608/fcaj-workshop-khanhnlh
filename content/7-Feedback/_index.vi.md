@@ -6,28 +6,42 @@ chapter: false
 pre: "<b>7. </b>"
 ---
 
-> **Bản nháp đang hoàn thiện.** Nội dung sẽ được cập nhật từ quá trình học tập, triển khai và minh chứng thực tế của Nguyễn Lê Hữu Khánh.
+> Phần này là ý kiến cá nhân của tôi về trải nghiệm khi tham gia chương trình First Cloud AI Journey, nhằm giúp team FCAJ cải thiện những điểm còn thiếu sót, theo các hạng mục sau:
 
-## Cảm nhận về chương trình FCAJ
+### Đánh giá chung
 
-Chờ chia sẻ trải nghiệm cá nhân về môi trường thực tập, sự hỗ trợ của mentor / đội ngũ chương trình và mức phù hợp với định hướng nghề nghiệp.
+**1. Môi trường làm việc**  
+Chờ cập nhật.
 
-## Mức độ hài lòng
+**2. Sự hỗ trợ của mentor / team admin**  
+Chờ cập nhật.
 
-| Nội dung | Mức đánh giá | Trải nghiệm / nhận xét cụ thể |
-| --- | --- | --- |
-| Môi trường và tinh thần cộng đồng | Chưa đánh giá | Chưa cập nhật |
-| Hướng dẫn và hỗ trợ | Chưa đánh giá | Chưa cập nhật |
-| Nội dung học tập và cơ hội thực hành | Chưa đánh giá | Chưa cập nhật |
+**3. Sự phù hợp giữa công việc và chuyên ngành học**  
+Chờ cập nhật.
 
-## Điểm cần cải thiện
+**4. Cơ hội học hỏi & phát triển kỹ năng**  
+Chờ cập nhật.
 
-Chờ nêu vấn đề đã quan sát, ảnh hưởng và đề xuất phù hợp.
+**5. Văn hóa & tinh thần đồng đội**  
+Chờ cập nhật.
 
-## Giới thiệu chương trình cho bạn bè
+**6. Chính sách / phúc lợi cho thực tập sinh**  
+Chờ cập nhật.
 
-Chưa có đánh giá. Sẽ bổ sung lựa chọn cá nhân, lý do và đối tượng phù hợp sau khi có trải nghiệm thực tế.
+### Một số câu hỏi khác
 
-## Đề xuất và mong muốn
+- Điều bạn **hài lòng nhất** trong thời gian thực tập?  
+  Chờ cập nhật.
+- Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau?  
+  Chờ cập nhật.
+- Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao?  
+  Chờ cập nhật.
 
-Chưa cập nhật đề xuất cải thiện trải nghiệm, hướng học tiếp hoặc hoạt động cộng đồng mong muốn tham gia.
+### Đề xuất & mong muốn
+
+- Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?  
+  Chờ cập nhật.
+- Bạn có muốn tiếp tục chương trình này trong tương lai?  
+  Chờ cập nhật.
+- Góp ý khác (tự do chia sẻ):  
+  Chờ cập nhật.
